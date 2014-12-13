@@ -437,12 +437,12 @@ ACMD(do_gen_comm)
     {"You cannot gossip!!\r\n",
       "gossip",
       "You aren't even on the channel!\r\n",
-      KYEL},
+      KMAG},
 
     {"You cannot auction!!\r\n",
       "auction",
       "You aren't even on the channel!\r\n",
-      KMAG},
+      KYEL},
 
     {"You cannot congratulate!\r\n",
       "congrat",
