@@ -263,16 +263,17 @@
 #define PRF_CLS          23   /**< Clear screen in OLC */
 #define PRF_BUILDWALK    24   /**< Build new rooms while walking */
 #define PRF_AFK          25   /**< AFK flag */
-#define PRF_AUTOLOOT     26   /**< Loot everything from a corpse */
-#define PRF_AUTOGOLD     27   /**< Loot gold from a corpse */
-#define PRF_AUTOSPLIT    28   /**< Split gold with group */
-#define PRF_AUTOSAC      29   /**< Sacrifice a corpse */
-#define PRF_AUTOASSIST   30   /**< Auto-assist toggle */
-#define PRF_AUTOMAP      31   /**< Show map at the side of room descs */
-#define PRF_AUTOKEY      32   /**< Automatically unlock locked doors when opening */
-#define PRF_AUTODOOR     33   /**< Use the next available door */
+#define PRF_IAW          26   /**< IAW flag */
+#define PRF_AUTOLOOT     27   /**< Loot everything from a corpse */
+#define PRF_AUTOGOLD     28   /**< Loot gold from a corpse */
+#define PRF_AUTOSPLIT    29   /**< Split gold with group */
+#define PRF_AUTOSAC      30   /**< Sacrifice a corpse */
+#define PRF_AUTOASSIST   31   /**< Auto-assist toggle */
+#define PRF_AUTOMAP      32   /**< Show map at the side of room descs */
+#define PRF_AUTOKEY      33   /**< Automatically unlock locked doors when opening */
+#define PRF_AUTODOOR     34   /**< Use the next available door */
 /** Total number of available PRF flags */
-#define NUM_PRF_FLAGS    34
+#define NUM_PRF_FLAGS    35
 
 /* Affect bits: used in char_data.char_specials.saved.affected_by */
 /* WARNING: In the world files, NEVER set the bits marked "R" ("Reserved") */

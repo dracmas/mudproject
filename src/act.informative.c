@@ -358,6 +358,8 @@ static void list_one_char(struct char_data *i, struct char_data *ch)
     send_to_char(ch, " (buildwalk)");
   if (!IS_NPC(i) && PRF_FLAGGED(i, PRF_AFK))
     send_to_char(ch, " \x1B[1;33m[AFK]\x1B[0;0m");
+  if (!IS_NPC(i) && PRF_FLAGGED(i, PRF_IAW))
+    send_to_char(ch,"  \x1B[1;33m[IAW]\x1B[0;0m");
 
   if (GET_POS(i) != POS_FIGHTING) {
     if (!SITTING(i))
@@ -1322,6 +1324,8 @@ ACMD(do_who)
           send_to_char(ch, " (Buildwalking)");
         if (PRF_FLAGGED(tch, PRF_AFK))
           send_to_char(ch, " \x1B[1;33m[AFK]\x1B[0;0m");
+	if (PRF_FLAGGED(tch, PRF_IAW))
+	  send_to_char(ch, " \x1B[1;33m[IAW]\x1B[0;0m");
         if (PRF_FLAGGED(tch, PRF_NOGOSS))
           send_to_char(ch, " (nogos)");
         if (PRF_FLAGGED(tch, PRF_NOWIZ))
@@ -1898,6 +1902,9 @@ ACMD(do_toggle)
     {"afk", PRF_AFK, 0,
     "AFK is now Off.\r\n",
     "AFK is now On.\r\n"},
+    {"iaw", PRF_IAW, 0,
+    "IAW is now Off.\r\n",
+    "IAW is now On.\r\n"},
     {"autoloot", PRF_AUTOLOOT, 0,
     "Autoloot disabled.\r\n",
     "Autoloot enabled.\r\n"},
@@ -2004,6 +2011,10 @@ ACMD(do_toggle)
     "    Screenwidth: %-3d    "
     "            AFK: %-3s\r\n"
 
+    "     Pagelength: %-3d    "
+    "    Screenwidth: %-3d    "
+    "            IAW: %-3s\r\n"
+
     "        Autokey: %-3s    "
     "       Autodoor: %-3s    "
     "          Color: %s     \r\n ",
@@ -2039,6 +2050,10 @@ ACMD(do_toggle)
     GET_PAGE_LENGTH(ch),
     GET_SCREEN_WIDTH(ch),
     ONOFF(PRF_FLAGGED(ch, PRF_AFK)),
+
+    GET_PAGE_LENGTH(ch),
+    GET_SCREEN_WIDTH(ch),
+    ONOFF(PRF_FLAGGED(ch, PRF_IAW)),
 
     ONOFF(PRF_FLAGGED(ch, PRF_AUTOKEY)),
     ONOFF(PRF_FLAGGED(ch, PRF_AUTODOOR)),
@@ -2122,6 +2137,15 @@ ACMD(do_toggle)
       act("$n is now away from $s keyboard.", TRUE, ch, 0, 0, TO_ROOM);
     else {
       act("$n has returned to $s keyboard.", TRUE, ch, 0, 0, TO_ROOM);
+      if (has_mail(GET_IDNUM(ch)))
+        send_to_char(ch, "You have mail waiting.\r\n");
+    }
+    break;
+  case SCMD_IAW:
+    if ((result = PRF_TOG_CHK(ch, PRF_IAW)))
+      act("$n is online but viewing another window.", TRUE, ch, 0, 0, TO_ROOM);
+    else{
+      act("$n has returned from being IAW.", TRUE, ch, 0, 0, TO_ROOM);
       if (has_mail(GET_IDNUM(ch)))
         send_to_char(ch, "You have mail waiting.\r\n");
     }
@@ -2421,6 +2445,8 @@ ACMD(do_whois)
 
       if (PRF_FLAGGED(victim, PRF_AFK))
         send_to_char(ch, "%s%s is afk right now, so %s may not respond to communication.%s\r\n", CBGRN(ch, C_NRM), GET_NAME(victim), GET_SEX(victim) == SEX_NEUTRAL ? "it" : (GET_SEX(victim) == SEX_MALE ? "he" : "she"), CCNRM(ch, C_NRM));
+      if (PRF_FLAGGED(victim, PRF_IAW))
+        send_to_char(ch, "%s%s is iaw right now, so %s may not respond to communication.%s\r\n", CBGRN(ch, C_NRM), GET_NAME(victim), GET_SEX(victim) == SEX_NEUTRAL ? "it" : (GET_SEX(victim) == SEX_MALE ? "he" : "she"), CCNRM(ch, C_NRM));
     }
     else if (hours > 0)
       send_to_char(ch, "Last Logon: %s (%d days & %d hours ago.)\r\n", buf, hours/24, hours%24);

@@ -213,19 +213,20 @@ ACMD(do_gen_tog);
 #define SCMD_CLS         17
 #define SCMD_BUILDWALK   18
 #define SCMD_AFK         19
-#define SCMD_AUTOLOOT    20
-#define SCMD_AUTOGOLD    21
-#define SCMD_AUTOSPLIT   22
-#define SCMD_AUTOSAC     23
-#define SCMD_AUTOASSIST  24
-#define SCMD_AUTOMAP     25
-#define SCMD_AUTOKEY     26
-#define SCMD_AUTODOOR    27
-#define SCMD_COLOR       28
-#define SCMD_SYSLOG      29
-#define SCMD_WIMPY       30
-#define SCMD_PAGELENGTH  31
-#define SCMD_SCREENWIDTH 32
+#define SCMD_IAW         20
+#define SCMD_AUTOLOOT    21
+#define SCMD_AUTOGOLD    22
+#define SCMD_AUTOSPLIT   23
+#define SCMD_AUTOSAC     24
+#define SCMD_AUTOASSIST  25
+#define SCMD_AUTOMAP     26
+#define SCMD_AUTOKEY     27
+#define SCMD_AUTODOOR    28
+#define SCMD_COLOR       29
+#define SCMD_SYSLOG      30
+#define SCMD_WIMPY       31
+#define SCMD_PAGELENGTH  32
+#define SCMD_SCREENWIDTH 33
 
 /* do_quit */
 ACMD(do_quit);

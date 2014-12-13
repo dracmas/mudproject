@@ -704,6 +704,8 @@ ACMD(do_gen_tog)
     "Buildwalk On.\r\n"},
     {"AFK flag is now off.\r\n",
     "AFK flag is now on.\r\n"},
+    {"IAW flag is now off.\r\n",
+    "IAW flag is now on.\r\n"},
     {"Autoloot disabled.\r\n",
     "Autoloot enabled.\r\n"},
     {"Autogold disabled.\r\n",
@@ -802,6 +804,16 @@ ACMD(do_gen_tog)
       act("$n has gone AFK.", TRUE, ch, 0, 0, TO_ROOM);
     else {
       act("$n has come back from AFK.", TRUE, ch, 0, 0, TO_ROOM);
+      if (has_mail(GET_IDNUM(ch)))
+        send_to_char(ch, "You have mail waiting.\r\n");
+    }
+    break;
+  case SCMD_IAW:
+    result = PRF_TOG_CHK(ch, PRF_IAW);
+    if (PRF_FLAGGED(ch, PRF_IAW))
+      act("$n has gone IAW.", TRUE, ch, 0, 0, TO_ROOM);
+    else {
+      act("$n has come back from IAW.", TRUE, ch, 0, 0, TO_ROOM);
       if (has_mail(GET_IDNUM(ch)))
         send_to_char(ch, "You have mail waiting.\r\n");
     }

@@ -244,6 +244,7 @@ const char *preference_bits[] = {
   "CLS",
   "BLDWLK",
   "AFK",
+  "IAW",
   "AUTOLOOT",
   "AUTOGOLD",
   "AUTOSPLIT",

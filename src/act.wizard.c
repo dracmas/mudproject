@@ -2844,6 +2844,7 @@ ACMD(do_show)
    { "wis", 		LVL_BUILDER, 	BOTH, 	NUMBER }, /* 55 */
    { "questpoints",     LVL_GOD,        PC,     NUMBER },
    { "questhistory",    LVL_GOD,        PC,   NUMBER },
+   { "iaw",             LVL_BUILDER,    PC,     BINARY },  /* 58  */
    { "\n", 0, BOTH, MISC }
   };
 
@@ -3257,6 +3258,9 @@ static int perform_set(struct char_data *ch, struct char_data *vict, int mode, c
      qvnum, GET_NAME(vict));
         }
         break;
+    case 58: /* iaw */
+      SET_OR_REMOVE(PRF_FLAGS(vict), PRF_IAW);
+      break;
       }
     default:
       send_to_char(ch, "Can't set that!\r\n");
