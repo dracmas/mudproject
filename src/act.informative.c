@@ -357,7 +357,7 @@ static void list_one_char(struct char_data *i, struct char_data *ch)
   if (!IS_NPC(i) && PRF_FLAGGED(i, PRF_BUILDWALK))
     send_to_char(ch, " (buildwalk)");
   if (!IS_NPC(i) && PRF_FLAGGED(i, PRF_AFK))
-    send_to_char(ch, " (AFK)");
+    send_to_char(ch, " \x1B[1;33m[AFK]\x1B[0;0m");
 
   if (GET_POS(i) != POS_FIGHTING) {
     if (!SITTING(i))
@@ -1321,7 +1321,7 @@ ACMD(do_who)
         if (PRF_FLAGGED(tch, PRF_BUILDWALK))
           send_to_char(ch, " (Buildwalking)");
         if (PRF_FLAGGED(tch, PRF_AFK))
-          send_to_char(ch, " (AFK)");
+          send_to_char(ch, " \x1B[1;33m[AFK]\x1B[0;0m");
         if (PRF_FLAGGED(tch, PRF_NOGOSS))
           send_to_char(ch, " (nogos)");
         if (PRF_FLAGGED(tch, PRF_NOWIZ))
