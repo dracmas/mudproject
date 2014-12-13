@@ -259,3 +259,31 @@ Dec 12 03:57:50 :: Dracmas entering game with no equipment.
 Dec 12 04:02:07 :: Dracmas has quit the game.
 Dec 12 04:02:10 :: Losing player: Dracmas.
 Dec 12 04:02:10 :: No connections.  Going to sleep.
+Dec 12 05:16:26 :: New connection.  Waking up.
+Dec 12 05:16:32 :: Dracmas has connected.
+Dec 12 05:16:34 :: Dracmas had no variable file
+Dec 12 05:16:34 :: Dracmas un-renting and entering game.
+Dec 12 05:16:34 :: Dracmas (level 34) has 0 object (max 30).
+Dec 12 05:16:50 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 12 05:17:09 :: (GC) Dracmas echoed: fuck
+Dec 12 05:17:11 :: Dracmas has quit the game.
+Dec 12 05:17:13 :: Losing player: Dracmas.
+Dec 12 05:17:13 :: No connections.  Going to sleep.
+Dec 13 00:38:27 :: New connection.  Waking up.
+Dec 13 00:38:32 :: Dracmas has connected.
+Dec 13 00:38:34 :: Dracmas had no variable file
+Dec 13 00:38:34 :: Dracmas un-renting and entering game.
+Dec 13 00:38:34 :: Dracmas (level 34) has 0 object (max 30).
+Dec 13 00:39:15 :: OLC: Dracmas starts editing zone 30 allowed zone 0
+Dec 13 00:40:12 :: GenOLC: add_room: Updated existing room #3041.
+Dec 13 00:40:12 :: OLC: Dracmas edits room 3041.
+Dec 13 00:40:12 :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Dec 13 00:40:12 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Dec 13 00:40:44 :: OLC: Dracmas starts editing zone 30 allowed zone 0
+Dec 13 00:43:04 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 13 00:44:45 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Dec 13 00:44:48 :: Dracmas tried to get help on midgaard
+Dec 13 00:48:04 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 13 00:52:50 :: Dracmas has quit the game.
+Dec 13 00:52:52 :: Losing player: Dracmas.
+Dec 13 00:52:52 :: No connections.  Going to sleep.
