@@ -442,11 +442,21 @@ AFK
 
 Usage : afk
 
-Lets other players know you will be away from the keyboard. The (AFK) flag will
+Lets other players know you will be away from the keyboard. The [AFK] flag will
 be displayed in your prompt and under who after your name and title. When you
 come back from AFK you will be notified if you have mail waiting.
 
 See also: TOGGLE, WHO
+
+#31
+IAW
+
+Usage : iaw
+
+Lets other players know you are on the computer but away from the mud. The [IAW]
+flag will be displayed in your prompt and under who after your name and title.
+When you come back from IAW you will be notified if you have mail waiting.
+
 #0
 AGE
 
@@ -1588,7 +1598,7 @@ automap and ascii map generator
 doors visible in exit menu (enable/disable in CEDIT)
 furniture
 new mail notification and mail saved to pfile
-improved toggle (AFK, pagelength, showvnums, screenwidth, automap, etc.)
+improved toggle (AFK, IAW, pagelength, showvnums, screenwidth, automap, etc.)
 180 zones
 unlimited containers
 (hundreds of bugfixes too)
@@ -7035,6 +7045,7 @@ D_AUTO     - Player stats auto displayed.
 CLS        - Player is due to be saved on next autosave.
 BLDWLK     - Builder is Buildwalking. 
 AFK        - Player is AFK.
+IAW        - Player is IAW.
 AUTOLOOT   - Player has Autoloot enabled.
 AUTOGOLD   - Player has Autogold enabled.
 AUTOSPLIT  - Player has Autosplit enabled.
@@ -8153,6 +8164,7 @@ all              tlist $1;slist $1;olist $1;mlist $1;rlist $1;
 mail             at postmaster mail $*
 pg               title is here, page me if you need anything.
 work             title has gone to work.;afk
+browsing         title is here but somewhere else.;iaw
 zn               zedit new $1 $100 $199
 ea               title is eating and can't type with his mouth full.
 away             title is gone, send a tell to leave a message.
@@ -8574,6 +8586,7 @@ Command             Lvl    Who?  Type
 ac                  Imm    BOTH  NUMBER
 admlevel            GrGod  PC    NUMBER
 afk                 Imm    PC    BINARY
+iaw                 Imm    PC    BINARY
 age                 God    BOTH  NUMBER
 align               Imm    BOTH  NUMBER
 bank                Imm    PC    NUMBER
@@ -10261,6 +10274,7 @@ Hit Pnt Display: OFF              Brief: OFF         Summonable: OFF
         AutoSac: ON          AutoAssist: ON             AutoMap: ON
      Pagelength: 32         Screenwidth: 80                 AFK: OFF
         Autokey: OFF           Autodoor: OFF              Color: on     
+            IAW: OFF           
 
 See also: DISPLAY, NOSHOUT, NOSUMM, NOTELL, QUEST, REPEAT, WIMP
 #0
@@ -10281,7 +10295,7 @@ Hit Pnt Display: OFF              Brief: OFF         Summonable: OFF
        NoGossip: OFF          NoAuction: OFF            NoGrats: OFF
        AutoLoot: ON            AutoGold: ON           AutoSplit: ON 
         AutoSac: ON          AutoAssist: ON                 AFK: OFF
-     Pagelength: 23               Color: off     
+     Pagelength: 23               Color: off                IAW: OFF
 
 See also: DISPLAY, NOSHOUT, NOSUMM, NOTELL, QUEST, REPEAT, WIMP
 #0
@@ -12116,11 +12130,11 @@ Players
 [31 Wa] Boomer has trial vnum 13875
 [33 Mu] Detta '19/27/118' - Even the very wise cannot see all ends
 [31 Cl] Elorien has zone 407
-[31 Th] Stump has trial vnum 13767
+[31 Th] Stump has trial vnum 13767 [IAW]
 [31 Wa] Dysprosic *404* Rides with his Pheonix (OLC) (Object Edit)
-[31 Th] Dayce vnum 13498 be on late. (AFK)
-[33 Th] Ferret has gone to bed (i33) (AFK)
-[31 Cl] Santiago has zone 403 (AFK)
+[31 Th] Dayce vnum 13498 be on late. [AFK]
+[33 Th] Ferret has gone to bed (i33) [AFK]
+[31 Cl] Santiago has zone 403 [AFK]
 
 16 characters displayed.
 #0
