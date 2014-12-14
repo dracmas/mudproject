@@ -2446,7 +2446,7 @@ void send_to_group(struct char_data *ch, struct group_data *group, const char * 
   while ((tch = simple_list(group->members)) != NULL) {
     if (tch != ch && !IS_NPC(tch) && tch->desc && STATE(tch->desc) == CON_PLAYING) {
       write_to_output(tch->desc, "%s[%sGroup%s]%s ", 
-      CCGRN(tch, C_NRM), CBGRN(tch, C_NRM), CCGRN(tch, C_NRM), CCNRM(tch, C_NRM));
+      CCCYN(tch, C_NRM), CBCYN(tch, C_NRM), CCCYN(tch, C_NRM), CCNRM(tch, C_NRM));
       va_start(args, msg);
       vwrite_to_output(tch->desc, msg, args);
       va_end(args);

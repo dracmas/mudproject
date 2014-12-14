@@ -86,12 +86,12 @@ ACMD(do_gsay)
     if (CONFIG_SPECIAL_IN_COMM && legal_communication(argument))
       parse_at(argument);		
 		
-    send_to_group(ch, ch->group, "%s%s%s says, '%s'%s\r\n", CCGRN(ch, C_NRM), CCGRN(ch, C_NRM), GET_NAME(ch), argument, CCNRM(ch, C_NRM));
+    send_to_group(ch, ch->group, "%s%s%s tells the group, '%s'%s\r\n", CBCYN(ch, C_NRM), CBCYN(ch, C_NRM), GET_NAME(ch), argument, CCNRM(ch, C_NRM));
 	
     if (!IS_NPC(ch) && PRF_FLAGGED(ch, PRF_NOREPEAT))
       send_to_char(ch, "%s", CONFIG_OK);
     else
-      send_to_char(ch, "%sYou group-say, '%s'%s\r\n", CCGRN(ch, C_NRM), argument, CCNRM(ch, C_NRM));
+      send_to_char(ch, "\x1B[0;36m[\x1B[1;36mGroup\x1B[0;36m]\x1B[0;0m %sYou tell the group, '%s'%s\r\n", CBCYN(ch, C_NRM), argument, CCNRM(ch, C_NRM));
 	}
 }
 
@@ -99,14 +99,14 @@ static void perform_tell(struct char_data *ch, struct char_data *vict, char *arg
 {
   char buf[MAX_STRING_LENGTH], *msg;
 
-  snprintf(buf, sizeof(buf), "%s$n tells you, '%s'%s", CCRED(vict, C_NRM), arg, CCNRM(vict, C_NRM));
+  snprintf(buf, sizeof(buf), "%s$n tells you, '%s'%s", CCYEL(vict, C_NRM), arg, CCNRM(vict, C_NRM));
   msg = act(buf, FALSE, ch, 0, vict, TO_VICT | TO_SLEEP);
   add_history(vict, msg, HIST_TELL);
 
   if (!IS_NPC(ch) && PRF_FLAGGED(ch, PRF_NOREPEAT))
     send_to_char(ch, "%s", CONFIG_OK);
   else {
-    snprintf(buf, sizeof(buf), "%sYou tell $N, '%s'%s", CCRED(ch, C_NRM), arg, CCNRM(ch, C_NRM));
+    snprintf(buf, sizeof(buf), "%sYou tell $N, '%s'%s", CCYEL(ch, C_NRM), arg, CCNRM(ch, C_NRM));
     msg = act(buf, FALSE, ch, 0, vict, TO_CHAR | TO_SLEEP);     
     add_history(ch, msg, HIST_TELL);
   }
