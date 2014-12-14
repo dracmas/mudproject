@@ -437,7 +437,7 @@ P)  Perm Affects: @cNOBITS@n
 21) UNUSED     DO NOT USE.
 22) CHARM      DO NOT USE.
 
-#31
+#0
 AFK
 
 Usage : afk
@@ -448,16 +448,7 @@ come back from AFK you will be notified if you have mail waiting.
 
 See also: TOGGLE, WHO
 
-#31
-IAW
-
-Usage : iaw
-
-Lets other players know you are on the computer but away from the mud. The [IAW]
-flag will be displayed in your prompt and under who after your name and title.
-When you come back from IAW you will be notified if you have mail waiting.
-
-#0
+#1
 AGE
 
 How old your character is. Your age begins at creation and continues whether
@@ -3963,6 +3954,15 @@ Enter choice :
 
 See Also: HSEDIT, SHOW-HOUSES
 #31
+IAW
+
+Usage : iaw
+
+Lets other players know you are on the computer but away from the mud. The [IAW]
+flag will be displayed in your prompt and under who after your name and title.
+When you come back from IAW you will be notified if you have mail waiting.
+
+#1
 IDENTIFY
 
 Usage       : cast 'identify' <target>

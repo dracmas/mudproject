@@ -6,21 +6,21 @@ Clas: 2
 Levl: 1
 Id  : 2
 Brth: 1418440218
-Plyd: 1893
-Last: 1418521808
+Plyd: 2524
+Last: 1418522439
+Lmot: 1418521949
+Lnew: 1418521940
 Host: 184-195-87-177.pools.spcsdns.net
 Hite: 186
 Wate: 162
 Act : h 0 0 0
 Aff : 0 0 0 0
-Pref: efghno 0 0 0
-Room: 65535
+Pref: efghnozA 0 0 0
+Room: 100
 Lern: 1
-Hung: 1
-Thir: 1
 Hit : 20/20
 Mana: 100/100
-Move: 82/83
+Move: 83/83
 Str : 16/0
 Int : 13
 Wis : 11
@@ -30,7 +30,6 @@ Cha : 6
 Ac  : 100
 Exp : 1
 Olc : 0
-Page: 0
 Skil:
 131 10
 133 5
