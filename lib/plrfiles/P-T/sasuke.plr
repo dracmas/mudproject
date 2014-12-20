@@ -7,7 +7,7 @@ Levl: 1
 Id  : 2
 Brth: 1418440218
 Plyd: 5818
-Last: 1418569034
+Last: 1418570601
 Lmot: 1418568942
 Lnew: 1418521940
 Host: 184-195-233-190.pools.spcsdns.net
@@ -17,6 +17,7 @@ Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghnozA 0 0 0
 Room: 3001
+Badp: 1
 Lern: 1
 Hit : 20/20
 Mana: 100/100
