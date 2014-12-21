@@ -6,18 +6,18 @@ Clas: 2
 Levl: 1
 Id  : 3
 Brth: 1419134203
-Plyd: 42
-Last: 1419135034
+Plyd: 2145
+Last: 1419141014
+Lmot: 1419138951
+Lnew: 1419138943
 Host: 50.102.36.24
 Hite: 182
 Wate: 129
 Act : h 0 0 0
 Aff : 0 0 0 0
-Pref: efghno 0 0 0
-Room: 3001
+Pref: efghno d 0 0
+Room: 65535
 Lern: 2
-Hung: 19
-Thir: 19
 Hit : 23/23
 Mana: 100/100
 Move: 84/84

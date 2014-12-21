@@ -477,6 +477,15 @@ ACMD(do_report)
 	  GET_MOVE(ch), GET_MAX_MOVE(ch));
 }
 
+ACMD(do_sreport)
+{
+ send_to_room(IN_ROOM(ch), "\x1B[1;32m%s reports: I have %d/%dHP, %d/%dMANA, and %d/%dMV\x1B[0;0m\r\n",
+          GET_NAME(ch),
+          GET_HIT(ch), GET_MAX_HIT(ch),
+          GET_MANA(ch), GET_MAX_MANA(ch),
+          GET_MOVE(ch), GET_MAX_MOVE(ch));
+}
+
 ACMD(do_split)
 {
   char buf[MAX_INPUT_LENGTH];

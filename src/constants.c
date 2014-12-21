@@ -953,6 +953,7 @@ const char *ibt_bits[] = {
   "InProgress",
   "\n"
 };
+
 /* --- End of constants arrays. --- */
 
 /* Various arrays we count so we can check the world files.  These
