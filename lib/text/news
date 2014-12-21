@@ -2,6 +2,13 @@
 			   THE tbaMUD HERALD
    		 "We addict players for their own enjoyment."
 
+Current:
+---------
+Added toggle for IAW -dracmas
+Added room, mob, and item colors
+Changed chat colors
+Added sreport command. Report only worked in groups.
+
 NEW COMMANDS AND NEW MUD BEHAVIOR:
 ---------------------------------
 **  Check out the latest news and information on the tbaMUD codebase at

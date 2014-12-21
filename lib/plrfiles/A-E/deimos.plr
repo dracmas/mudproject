@@ -7,20 +7,21 @@ Levl: 1
 Id  : 3
 Brth: 1419134203
 Plyd: 2145
-Last: 1419141014
+Last: 1419201374
 Lmot: 1419138951
-Lnew: 1419138943
+Lnew: 1419201397
 Host: 50.102.36.24
 Hite: 182
 Wate: 129
+Alin: 12
 Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghno d 0 0
-Room: 65535
+Room: 3028
 Lern: 2
-Hit : 23/23
+Hit : 4/23
 Mana: 100/100
-Move: 84/84
+Move: 1/84
 Str : 13/0
 Int : 12
 Wis : 12
@@ -28,7 +29,7 @@ Dex : 15
 Con : 13
 Cha : 10
 Ac  : 100
-Exp : 1
+Exp : 43
 Olc : 0
 Skil:
 131 10

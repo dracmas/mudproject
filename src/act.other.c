@@ -479,11 +479,22 @@ ACMD(do_report)
 
 ACMD(do_sreport)
 {
- send_to_room(IN_ROOM(ch), "\x1B[1;32m%s reports: I have %d/%dHP, %d/%dMANA, and %d/%dMV\x1B[0;0m\r\n",
-          GET_NAME(ch),
-          GET_HIT(ch), GET_MAX_HIT(ch),
-          GET_MANA(ch), GET_MAX_MANA(ch),
-          GET_MOVE(ch), GET_MAX_MOVE(ch));
+    char buf[MAX_INPUT_LENGTH];
+
+    sprintf (buf,
+             "\x1B[1;32mYou say 'I have %d/%d HP, %d/%d MANA and %d/%d MOVES.'\x1B[0;0m\r\n",
+             GET_HIT(ch), GET_MAX_HIT(ch),
+             GET_MANA(ch), GET_MAX_MANA(ch), GET_MOVE(ch), GET_MAX_MOVE(ch));
+
+    send_to_char (ch, buf);
+
+    sprintf (buf, "\x1B[1;32m$n says 'I have %d/%d HP, %d/%d MANA and %d/%d MOVES.'\x1B[0;0m\r\n",
+             GET_HIT(ch), GET_MAX_HIT(ch),
+             GET_MANA(ch), GET_MAX_MANA(ch), GET_MOVE(ch), GET_MAX_MOVE(ch));
+
+    act (buf, FALSE, ch, NULL, NULL, TO_ROOM);
+
+    return;
 }
 
 ACMD(do_split)
