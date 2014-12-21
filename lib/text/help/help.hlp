@@ -8008,7 +8008,7 @@ everyone in your group know the condition you are in.
   Example:
   report - Yields "Tink reports: 25/25H, 110/110M, 84/84V"
 
-See Also: FOLLOW, GROUP, UNGROUP, GSAY, ASSIST, SPLIT
+See Also: FOLLOW, GROUP, UNGROUP, GSAY, ASSIST, SPLIT, SREPORT
 #0
 REPORT-EXAMPLE
 
@@ -13455,4 +13455,15 @@ zlock - Locks one or all zones. Type zlock for usage.
 zunlock - Locks one or all zones. Type zunlock for usage. 
 
 #31
+SREPORT
+
+Usage: sreport
+
+This command sends a report of your current health to the other people in
+the room. It is very useful, especially during battle as it quickly lets 
+everyone in the room know what condition you are in.
+
+Example:
+sreport - Yields "Tink reports: I have 25/25HP, 110/110MANA, and 84/84MV"
+#0
 $~
