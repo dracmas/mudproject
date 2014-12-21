@@ -263,8 +263,8 @@ int use_new_socials = YES;
 
 const char *MENU =
 "\r\n"
-"Welcome to tbaMUD!\r\n"
-"\t(0\t)) Exit from tbaMUD.\r\n"
+"Welcome to Ashes of Emperia!\r\n"
+"\t(0\t)) Exit from Ashes of Emperia.\r\n"
 "\t(1\t)) Enter the game.\r\n"
 "\t(2\t)) Enter description.\r\n"
 "\t(3\t)) Read the background story.\r\n"
@@ -275,11 +275,11 @@ const char *MENU =
 
 const char *WELC_MESSG =
 "\r\n"
-"Welcome to tbaMUD!  May your visit here be... Enlightening"
+"Welcome to Ashes of Emperia!  May your visit here be... Enlightening"
 "\r\n\r\n";
 
 const char *START_MESSG =
-"Welcome.  This is your new tbaMUD character!  You can now earn gold,\r\n"
+"Welcome to the matrix.  We hope you enjoy your stay!  You can now earn gold,\r\n"
 "gain experience, find weapons and equipment, and much more -- while\r\n"
 "meeting people from around the world!\r\n";
 

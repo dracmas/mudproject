@@ -169,8 +169,8 @@ auto_save_olc = 1
 * The entrance/exit menu.
 MENU = 
 
-Welcome to tbaMUD!
-@(0@)) Exit from tbaMUD.
+Welcome to Ashes of Emperia!
+0) Exit from Ashes of Emperia.
 @(1@)) Enter the game.
 @(2@)) Enter description.
 @(3@)) Read the background story.
@@ -182,15 +182,15 @@ Welcome to tbaMUD!
 * The welcome message.
 WELC_MESSG = 
 
-Welcome to tbaMUD!  May your visit here be... Enlightening
+Welcome to Ashes of Emperia! May your visit here be... Enlightening!
 
 ~
 
 * NEWBIE start message.
 START_MESSG = 
-Welcome.  This is your new tbaMUD character!  You can now earn gold,
-gain experience, find weapons and equipment, and much more -- while
-meeting people from around the world!
+Welcome to Ashes of Emperia! We hope you enjoy your stay. You
+can now gain experience, find weapons and equipment, and much more
+--while meeting people from around the world!
 ~
 
 * Should the medit OLC show the advanced stats menu (1) or not (0).
