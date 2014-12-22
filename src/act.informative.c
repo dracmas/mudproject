@@ -939,7 +939,7 @@ ACMD(do_score)
 
 ACMD(do_inventory)
 {
-  send_to_char(ch, "You are carrying:\r\n");
+  send_to_char(ch, "\x1B[1;32mYou are carrying:\x1B[0;0m\r\n");
   list_obj_to_char(ch->carrying, ch, SHOW_OBJ_SHORT, TRUE);
 }
 

@@ -6,18 +6,18 @@ Clas: 2
 Levl: 34
 Id  : 1
 Brth: 1418356667
-Plyd: 49873
-Last: 1419207784
+Plyd: 52472
+Last: 1419222068
 Lmot: 1418570981
 Lnew: 1419191827
-Host: 50.102.36.24
+Host: localhost
 Hite: 198
 Wate: 156
 Alin: -116
-Act : 0 0 0 0
+Act : g 0 0 0
 Aff : 0 0 0 0
 Pref: efghmnovzA a 0 0
-Room: 3041
+Room: 1204
 Hit : 500/500
 Mana: 100/100
 Move: 82/82
