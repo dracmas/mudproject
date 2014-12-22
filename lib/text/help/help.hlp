@@ -2455,14 +2455,105 @@ NOTE: Dig does not autosave on exit. you must type SAVEALL. This way if you
 
 See also: SAVEALL, REDIT, OLC, RLIST, BUILDWALK
 #31
-DIKU ROM DBX DBZ SMAUG MUD-HISTORY
+DIKU
 
-   These are other types of MUD codebases. We only focus on tbaMUD (the codebase
-formerly known as CircleMUD).
-
-For a full history of MUDs, check out: http://en.wikipedia.org/wiki/Muds
-
-Smaug Building Institute: http://zeno.biyg.org/
+ DikuMud License
+ 
+Program & Concept created by
+ 
+ 
+Sebastian Hammer
+Prss. Maries Alle 15, 1
+1908 Frb. C.
+DENMARK
+(email quinn@freja.diku.dk)
+ 
+Michael Seifert
+Nr. Soeg. 37C, 1, doer 3
+1370 Copenhagen K.
+DENMARK
+(email seifert@freja.diku.dk)
+ 
+Hans Henrik St{rfeldt
+Langs} 19
+3500 V{rl|se
+DENMARK
+(email bombman@freja.diku.dk)
+ 
+Tom Madsen
+R|de Mellemvej 94B, 64
+2300 Copenhagen S.
+DENMARK
+(email noop@freja.diku.dk)
+ 
+Katja Nyboe
+Kildeg}rdsvej 2
+2900 Hellerup
+31 62 82 84
+DENMARK
+(email katz@freja.diku.dk)
+ 
+ 
+This document contains the rules by which you can use, alter or publish
+parts of DikuMud. DikuMud has been created by the above five listed persons
+in their spare time, at DIKU (Computer Science Instutute at Copenhagen
+University). You are legally bound to follow the rules described in this
+document.
+ 
+Rules:
+ 
+!! DikuMud is NOT Public Domain, shareware, careware or the like !!
+ 
+You may under no circumstances make profit on *ANY* part of DikuMud in
+any possible way. You may under no circumstances charge money for
+distributing any part of dikumud - this includes the usual $5 charge
+for "sending the disk" or "just for the disk" etc.
+By breaking these rules you violate the agreement between us and the
+University, and hence will be sued.
+ 
+You may not remove any copyright notices from any of the documents or
+sources given to you.
+ 
+This license must *always* be included "as is" if you copy or give
+away any part of DikuMud (which is to be done as described in this
+document).
+ 
+If you publish *any* part of dikumud, we as creators must appear in the
+article, and the article must be clearly copyrighted subject to this
+license. Before publishing you must first send us a message, by
+snail-mail or e-mail, and inform us what, where and when you are
+publishing (remember to include your address, name etc.)
+ 
+If you wish to setup a version of DikuMud on any computer system, you
+must send us a message , by snail-mail or e-mail, and inform us where
+and when you are running the game. (remember to include
+your address, name etc.)
+ 
+ 
+Any running version of DikuMud must include our names in the login
+sequence. Furthermore the "credits" command shall always cointain
+our name, addresses, and a notice which states we have created DikuMud.
+ 
+You are allowed to alter DikuMud, source and documentation as long as
+you do not violate any of the above stated rules.
+ 
+ 
+Regards,
+ 
+ 
+ 
+The DikuMud Group
+ 
+ 
+Note:
+ 
+We hope you will enjoy DikuMud, and encourage you to send us any reports
+on bugs (when you find 'it'). Remember that we are all using our spare
+time to write and improve DikuMud, bugs, etc. - and changes will take their
+time. We have so far put extremely many programming hours into this project.
+If you make any major improvements on DikuMud we would be happy to
+hear from you. As you will naturally honor the above rules, you will receive
+new updates and improvements made to the game.
 #0
 DISCLAIMER
 
@@ -8125,6 +8216,66 @@ ROLEPLAYING RP
    Is highly encouraged.
 
 #0
+ROM
+
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Athen, the sequel to the ROM code. It can
+be found on Rehobaom's Legacy, at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+    ALL NEW SOCIALS Taka
+    adore       angel       bbath       bikini      blankie     blanket     
+    blowe       chair       choke       eak         hail        herald      
+    hfart       hobble      humor       mock        ouch        tender      
+    wchair      wedgie      worthy      forgive@    kneel       skip
+    dirty       evil        drift       lookear     glue        staple
+    foot        shave       offer       insect      reality     teach
+    chew        cadet       puppyeyes   infect      tforce      alone
+    rocket      stupid      helpme      censor      hsh         homeis
+    bring       heatup      errors      brag        bask        tenfeet
+    inspect     bottle      gulp        putup       covert      smackdown 
+    ping        pilfer      scorn       scoff       pity        twist   
+    rant        jello@    wjello      rust        potato      smurf 
+    squint      tmi
+
+** The socials list has also been colorize and alphabetized by Taka
+   Extensive fixes and corrections/additions have been made to the original
+   socials file. -Taka
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bugs reports
+    and suggestions, saving a lot of headaches
+
+Bug reports --
+    Thanks to Shad Muegge, Jerome Despret, Phoenix, Will Hongach,
+    Erwin S. Andreasen, Adam Debus and especially Gary Turkington
+    (author of the ROM FAQ) for help spotting bugs
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used.  Portions of Rusty's work on
+Moosehead also remain.
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle Taylor and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+#0
 ROOM-TRIGGERS TRIGEDIT-ROOM-TYPES
  
  1) Global       @RHELP TRIGEDIT-ROOM-GLOBAL@n
@@ -9132,6 +9283,17 @@ of the other four group members twenty coins each.  (100 coins is split five
 ways; you keep your share and give everyone else their share).
 
 See also: AUTOSPLIT, FOLLOW, GROUP
+#0
+SREPORT
+
+Usage: sreport
+
+This command sends a report of your current health to the other people in
+the room. It is very useful, especially during battle as it quickly lets 
+everyone in the room know what condition you are in.
+
+Example:
+sreport - Yields "Tink reports: I have 25/25HP, 110/110MANA, and 84/84MV"
 #0
 STAFF DUTY DUTIES STAFF-DUTIES TBA-STAFF-DUTIES TBASTAFF
 
@@ -13455,15 +13617,40 @@ zlock - Locks one or all zones. Type zlock for usage.
 zunlock - Locks one or all zones. Type zunlock for usage. 
 
 #31
-SREPORT
+GHOST GHOSTMUD
 
-Usage: sreport
+(Origional Ghost helpfile)
+Welcome to GHOST
+This is GhostMud Version 3 an offical ROM derivative.
 
-This command sends a report of your current health to the other people in
-the room. It is very useful, especially during battle as it quickly lets 
-everyone in the room know what condition you are in.
+First off let me say thanks to the entire GhostMud team!!!!
+This new codebase is a ROM derivative it started with ROM 2.6b4
+A few snippets have been added and credit remains in the code.
+I also have many unique features added to our mud some of them
+are as follows.
 
-Example:
-sreport - Yields "Tink reports: I have 25/25HP, 110/110MANA, and 84/84MV"
+01) long vnums are supported
+02) hit points/mana/movements can be greater than 32K
+03) Lots of coloring and reformating
+04) A new banking and multi stock system - Losely based on Maniacs Banking code
+05) Many New commands/spells/skills
+06) Dribbles REMORT system but greatly improved
+07) Many enhancements to the code
+08) Player history and kill/death counters
+09) Many fixes to existing commands 
+
+The GhostMud Team  --Emails edited (at) to prevent color changes.
+Taka        The Wolf                    Head Coder, Builder
+              a_ghost_dancer(at)excite.com   
+Cormac      Sexy Thing                  Head Builder
+              cormac(at)gelrevision.nl
+Vincent     Biggest Dwarf on the block  Chief of Ideas, Builder
+              koningsveld(at)home.nl
+Roxie       Mistress of dreamers        Graphics Ideas, Web Design
+              roxiecw(at)usa.net
+Azash       Magic Man                   Spells/Skills Testing and
+              myndzi(at)hotmail.com          balancing, Q&A, Ideas
+Pyrox       Ribbed for her pleasure!    King of thieves and ideas,
+              pyrox311(at)hotmail.com        Quality assurance, Play testing
 #0
 $~
