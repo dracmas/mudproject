@@ -100,7 +100,7 @@ static void show_obj_to_char(struct obj_data *obj, struct char_data *ch, int mod
           send_to_char(ch, "[TRIGS] ");
       }
     }
-    send_to_char(ch, "%s", CBBLK(ch, C_NRM));
+    send_to_char(ch, "      %s", CBBLK(ch, C_NRM));
     send_to_char(ch, "%s", obj->description);
     break;
 
