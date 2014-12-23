@@ -524,3 +524,182 @@ Dec 22 04:34:20 :: Entering game loop.
 Dec 22 04:39:20 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 22 04:44:20 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 22 04:49:20 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 04:50:47 :: Dracmas has quit the game.
+Dec 22 04:50:51 :: Losing player: Dracmas.
+Dec 22 04:50:51 :: No connections.  Going to sleep.
+Dec 22 04:58:26 :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Dec 22 04:58:32 :: Dracmas has connected.
+Dec 22 04:58:34 :: Dracmas had no variable file
+Dec 22 04:58:34 :: Dracmas un-renting and entering game.
+Dec 22 04:58:34 :: Dracmas (level 34) has 4 objects (max 30).
+Dec 22 05:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 05:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 06:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 07:59:16 :: SCRIPT ERROR: Mob (the smelly bum, VNum 168):: mat: invalid location
+Dec 22 08:01:16 :: SCRIPT ERROR: Mob (the smelly bum, VNum 168):: mat: invalid location
+Dec 22 08:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 08:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 09:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 10:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 11:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 12:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 13:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:11:47 :: Nevyn [blk-252-31-20.eastlink.ca] new player.
+Dec 22 14:11:55 :: nusage: 2   sockets connected, 1   sockets playing
+Dec 22 14:11:59 :: Nevyn had no variable file
+Dec 22 14:11:59 :: Nevyn entering game with no equipment.
+Dec 22 14:16:55 :: nusage: 2   sockets connected, 2   sockets playing
+Dec 22 14:21:55 :: nusage: 2   sockets connected, 2   sockets playing
+Dec 22 14:26:55 :: nusage: 2   sockets connected, 2   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Dec 22 14:28:19 :: Closing link to: Dracmas.
+Dec 22 14:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:36:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:41:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:46:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:51:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 14:56:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:01:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:06:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:11:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:16:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:21:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:26:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:31:55 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 22 15:35:40 :: Nevyn force-rented and extracted (idle).
+Dec 22 15:35:41 :: Losing descriptor without char.
+Dec 22 15:35:41 :: No connections.  Going to sleep.
+Dec 23 00:08:06 :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Dec 23 00:08:10 :: Dracmas [50.102.36.24] has reconnected.
+Dec 23 00:08:59 :: Dracmas tried to get help on loadlink
+Dec 23 00:09:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:14:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:17:55 :: Bad PW: Nevyn [localhost]
+Dec 23 00:18:06 :: Losing player: Nevyn.
+Dec 23 00:18:40 :: Bad PW: Nevyn [localhost]
+Dec 23 00:18:51 :: Losing player: Nevyn.
+Dec 23 00:19:10 :: Bad PW: Nevyn [localhost]
+Dec 23 00:19:21 :: nusage: 2   sockets connected, 1   sockets playing
+Dec 23 00:19:21 :: Losing player: Nevyn.
+Dec 23 00:19:42 :: Bad PW: Nevyn [localhost]
+Dec 23 00:19:51 :: Losing player: Nevyn.
+Dec 23 00:20:22 :: Bad PW: Nevyn [localhost]
+Dec 23 00:20:25 :: Bad PW: Nevyn [localhost]
+Dec 23 00:20:35 :: Losing player: Nevyn.
+Dec 23 00:24:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:29:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:34:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:39:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:44:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:49:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:54:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 00:59:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:04:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:09:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:14:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:19:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:24:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:29:21 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 23 01:34:21 :: nusage: 1   sockets connected, 1   sockets playing
