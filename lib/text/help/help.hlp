@@ -3526,6 +3526,42 @@ Examples:
 
 See also: DROP, PUT, AUTOLOOT, AUTOGOLD
 #0
+GHOST GHOSTMUD
+
+(Origional Ghost helpfile)
+Welcome to GHOST
+This is GhostMud Version 3 an offical ROM derivative.
+
+First off let me say thanks to the entire GhostMud team!!!!
+This new codebase is a ROM derivative it started with ROM 2.6b4
+A few snippets have been added and credit remains in the code.
+I also have many unique features added to our mud some of them
+are as follows.
+
+01) long vnums are supported
+02) hit points/mana/movements can be greater than 32K
+03) Lots of coloring and reformating
+04) A new banking and multi stock system - Losely based on Maniacs Banking code
+05) Many New commands/spells/skills
+06) Dribbles REMORT system but greatly improved
+07) Many enhancements to the code
+08) Player history and kill/death counters
+09) Many fixes to existing commands 
+
+The GhostMud Team  --Emails edited (at) to prevent color changes.
+Taka        The Wolf                    Head Coder, Builder
+              a_ghost_dancer(at)excite.com   
+Cormac      Sexy Thing                  Head Builder
+              cormac(at)gelrevision.nl
+Vincent     Biggest Dwarf on the block  Chief of Ideas, Builder
+              koningsveld(at)home.nl
+Roxie       Mistress of dreamers        Graphics Ideas, Web Design
+              roxiecw(at)usa.net
+Azash       Magic Man                   Spells/Skills Testing and
+              myndzi(at)hotmail.com          balancing, Q&A, Ideas
+Pyrox       Ribbed for her pleasure!    King of thieves and ideas,
+              pyrox311(at)hotmail.com        Quality assurance, Play testing
+#0
 GITHUB SVN SUBVERSION
 
 Get started: https://help.github.com/articles/set-up-git
@@ -4689,6 +4725,14 @@ People may go linkless for many reasons:
   They might not log off correctly.
 
 #0
+LINKLOAD
+
+This is a command that lets you load a link-less player's character
+into the mud. This might be necessary for few reasons, but the command
+is not to be abused.
+
+Note: Implementor level is needed to use linkload.
+#31
 LINKS
 
 Usage : links <zone number>
@@ -6408,7 +6452,7 @@ Examples:
 
 See also: CHARM
 #0
-ORDINAL-DIRECTIONS NORTHWEST NORTHEAST SOUTHWEST SOUTHEAST NW SW SE NE STATLIST GEDIT TRUST ZDELETE MOUNTS RIDE TAME PARALYZE PARALYSE HASTE BLOCKING IGNORE COOK CAMPFIRES HORSES ZONE-DELETE IMC LINKLOAD INTERMUD
+ORDINAL-DIRECTIONS NORTHWEST NORTHEAST SOUTHWEST SOUTHEAST NW SW SE NE STATLIST GEDIT TRUST ZDELETE MOUNTS RIDE TAME PARALYZE PARALYSE HASTE BLOCKING IGNORE COOK CAMPFIRES HORSES ZONE-DELETE IMC INTERMUD
 
    Not implemented.
 
@@ -12749,7 +12793,7 @@ Disabled commands will be gray.
 
 Level 34 (Implementor):
 cedit        changelog    export       reload       shutdow      shutdown
-wizlock
+wizlock      linkload
 
 Level 33 (Great God):
 ban          copyover     freeze       hcontrol     reroll       skillset     
@@ -13617,40 +13661,4 @@ zlock - Locks one or all zones. Type zlock for usage.
 zunlock - Locks one or all zones. Type zunlock for usage. 
 
 #31
-GHOST GHOSTMUD
-
-(Origional Ghost helpfile)
-Welcome to GHOST
-This is GhostMud Version 3 an offical ROM derivative.
-
-First off let me say thanks to the entire GhostMud team!!!!
-This new codebase is a ROM derivative it started with ROM 2.6b4
-A few snippets have been added and credit remains in the code.
-I also have many unique features added to our mud some of them
-are as follows.
-
-01) long vnums are supported
-02) hit points/mana/movements can be greater than 32K
-03) Lots of coloring and reformating
-04) A new banking and multi stock system - Losely based on Maniacs Banking code
-05) Many New commands/spells/skills
-06) Dribbles REMORT system but greatly improved
-07) Many enhancements to the code
-08) Player history and kill/death counters
-09) Many fixes to existing commands 
-
-The GhostMud Team  --Emails edited (at) to prevent color changes.
-Taka        The Wolf                    Head Coder, Builder
-              a_ghost_dancer(at)excite.com   
-Cormac      Sexy Thing                  Head Builder
-              cormac(at)gelrevision.nl
-Vincent     Biggest Dwarf on the block  Chief of Ideas, Builder
-              koningsveld(at)home.nl
-Roxie       Mistress of dreamers        Graphics Ideas, Web Design
-              roxiecw(at)usa.net
-Azash       Magic Man                   Spells/Skills Testing and
-              myndzi(at)hotmail.com          balancing, Q&A, Ideas
-Pyrox       Ribbed for her pleasure!    King of thieves and ideas,
-              pyrox311(at)hotmail.com        Quality assurance, Play testing
-#0
 $~

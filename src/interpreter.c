@@ -189,7 +189,7 @@ cpp_extern const struct command_info cmd_info[] = {
   { "imotd"    , "imo"     , POS_DEAD    , do_gen_ps   , LVL_IMMORT, SCMD_IMOTD },
   { "immlist"  , "imm"     , POS_DEAD    , do_gen_ps   , 0, SCMD_IMMLIST },
   { "info"     , "info"    , POS_SLEEPING, do_gen_ps   , 0, SCMD_INFO },
-  { "invis"    , "invi"    , POS_DEAD    , do_invis    , LVL_IMMORT, 0 },
+  { "invis"    , "invi"    , POS_DEAD    , do_invis    , LVL_IMPL, 0 },
 
   { "junk"     , "j"       , POS_RESTING , do_drop     , 0, SCMD_JUNK },
 
