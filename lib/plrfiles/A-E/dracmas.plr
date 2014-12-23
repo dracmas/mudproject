@@ -6,8 +6,8 @@ Clas: 2
 Levl: 34
 Id  : 1
 Brth: 1418356667
-Plyd: 53263
-Last: 1419224699
+Plyd: 129496
+Last: 1419300932
 Lmot: 1418570981
 Lnew: 1419191827
 Host: 50.102.36.24
@@ -16,8 +16,8 @@ Wate: 156
 Alin: -219
 Act : 0 0 0 0
 Aff : 0 0 0 0
-Pref: efghmnozA a 0 0
-Room: 3001
+Pref: efghmnoA a 0 0
+Room: 65535
 Hit : 500/500
 Mana: 100/100
 Move: 82/82

@@ -328,6 +328,7 @@ ACMD(do_peace);
 ACMD(do_plist);
 ACMD(do_purge);
 ACMD(do_recent);
+ACMD(do_linkload);
 ACMD(do_restore);
 void return_to_char(struct char_data * ch);
 ACMD(do_return);

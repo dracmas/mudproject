@@ -4956,6 +4956,47 @@ void free_recent_players(void)
   }  	
 }
 
+ACMD(do_linkload)
+{
+  char buf[MAX_INPUT_LENGTH];
+  struct char_data *vict;
+
+  one_argument(argument, buf);
+
+  if (!*buf) {
+    send_to_char(ch, "Syntax: linkload <player name>.  See help linkload.\r\n");
+    return;
+    }
+
+  if (!(vict = get_player_vis(ch, buf, NULL, FIND_CHAR_WORLD))) {
+    CREATE(vict, struct char_data, 1);
+    clear_char(vict);
+    CREATE(vict->player_specials, struct player_special_data, 1);
+    if (load_char(buf, vict) >= 0) {
+      mudlog(BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE,
+        "(GC) Linkload: %s has linkloaded %s.", GET_NAME(ch), GET_NAME(vict));
+      Crash_load(vict);
+      vict->next = character_list;
+      character_list = vict;
+      vict->desc = NULL;
+      char_to_room(vict, IN_ROOM(ch));
+      act("You gesture and bring $N into existence before you.",
+        FALSE, ch, 0, vict, TO_CHAR);
+      act("$n gestures and brings $N into existence before $m.",
+        FALSE, ch, 0, vict, TO_NOTVICT);
+      }
+    else {
+      send_to_char(ch, "%s", CONFIG_NOPERSON);
+      free(vict);
+      return;
+      }
+    }
+  else {
+    send_to_char(ch, "You can't linkload someone already in the game.\r\n");
+    return;
+    }
+}
+
 ACMD(do_recent)
 {
   time_t ct;
@@ -5026,7 +5067,6 @@ ACMD(do_recent)
   *(tmstr + strlen(tmstr) - 1) = '\0';
   send_to_char(ch, "Current Server Time: %-19.19s\r\nShowing %d players since last copyover/reboot\r\n", tmstr, hits);
 }
-
 
 ACMD(do_oset)
 {
