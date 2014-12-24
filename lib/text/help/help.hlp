@@ -368,6 +368,15 @@ not update any other stats (like max hp or exp).
 
 See Also: CHAR-VAR, ADMLEVEL
 #31
+ADDNEWS
+
+This command adds current implementations being done
+to the mud's news. Only scripting news should go here. This
+includes coding and area building which also includes DG Scripting.
+
+If you are unsure if something should be in the news, then it's probably
+better off that you ask first.
+#1
 ADVANCE DEMOTE
 
 Usage: advance <player> <level>
@@ -12793,7 +12802,7 @@ Disabled commands will be gray.
 
 Level 34 (Implementor):
 cedit        changelog    export       reload       shutdow      shutdown
-wizlock      linkload
+wizlockk      linkload    addnews
 
 Level 33 (Great God):
 ban          copyover     freeze       hcontrol     reroll       skillset     

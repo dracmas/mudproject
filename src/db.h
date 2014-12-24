@@ -314,6 +314,7 @@ char *parse_object(FILE *obj_f, int nr);
 int is_empty(zone_rnum zone_nr);
 void reset_zone(zone_rnum zone);
 void reboot_wizlists(void);
+void reboot_news(void);
 ACMD(do_reboot);
 void boot_world(void);
 int count_hash_records(FILE *fl);

@@ -242,6 +242,7 @@ cpp_extern const struct command_info cmd_info[] = {
   { "practice" , "pr"      , POS_RESTING , do_practice , 1, 0 },
   { "page"     , "pag"     , POS_DEAD    , do_page     , 1, 0 },
   { "pardon"   , "pardon"  , POS_DEAD    , do_wizutil  , LVL_GOD, SCMD_PARDON },
+  { "addnews"  , "addnews" , POS_DEAD    , do_addnews  , LVL_IMPL, 0 },
   { "plist"    , "plist"   , POS_DEAD    , do_plist    , LVL_GOD, 0 },
   { "policy"   , "pol"     , POS_DEAD    , do_gen_ps   , 0, SCMD_POLICIES },
   { "pour"     , "pour"    , POS_STANDING, do_pour     , 0, SCMD_POUR },

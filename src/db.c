@@ -317,6 +317,12 @@ void reboot_wizlists(void)
   file_to_string_alloc(IMMLIST_FILE, &immlist);
 }
 
+void reboot_news(void)
+{
+        file_to_string_alloc(NEWS_FILE, &news);
+}
+
+
 /* Wipe out all the loaded text files, for shutting down. */
 void free_text_files(void)
 {

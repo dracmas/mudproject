@@ -351,5 +351,6 @@ ACMD(do_zlock);
 ACMD(do_zpurge);
 ACMD(do_zreset);
 ACMD(do_zunlock);
+ACMD(do_addnews);
 
 #endif /* _ACT_H_ */

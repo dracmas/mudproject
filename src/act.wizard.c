@@ -5114,3 +5114,64 @@ ACMD(do_oset)
      }
   }
 }
+
+ACMD(do_addnews)
+{
+  time_t rawtime;
+  char tmstr[MAX_INPUT_LENGTH], line[READ_SIZE], last_buf[READ_SIZE],
+      buf[READ_SIZE];
+  FILE *fl, *new;
+
+  skip_spaces(&argument);
+
+  if (!*argument) {
+    send_to_char(ch, "Usage: addnews <change>\r\n");
+    return;
+  }
+
+  sprintf(buf, "%s.bak", NEWS_FILE);
+  if (rename(NEWS_FILE, buf)) {
+    mudlog(BRF, LVL_IMPL, TRUE,
+           "SYSERR: Error making backup news file (%s)", buf);
+    return;
+  }
+
+  if (!(fl = fopen(buf, "r"))) {
+    mudlog(BRF, LVL_IMPL, TRUE,
+           "SYSERR: Error opening backup news file (%s)", buf);
+    return;
+  }
+
+  if (!(new = fopen(NEWS_FILE, "w"))) {
+    mudlog(BRF, LVL_IMPL, TRUE,
+           "SYSERR: Error opening new news file (%s)", NEWS_FILE);
+    return;
+  }
+
+  while (get_line(fl, line)) {
+    if (*line != '[')
+      fprintf(new, "%s\n", line);
+    else {
+      strcpy(last_buf, line);
+      break;
+    }
+  }
+
+  rawtime = time(0);
+  strftime(tmstr, sizeof(tmstr), "%b %d %Y", localtime(&rawtime));
+
+  sprintf(buf, "[%s] - %s", tmstr, GET_NAME(ch));
+
+  fprintf(new, "%s\n", buf);
+  fprintf(new, "%s\n", argument);
+
+  if (strcmp(buf, last_buf))
+    fprintf(new, "%s\n", line);
+
+  while (get_line(fl, line))
+    fprintf(new, "%s\n", line);
+
+  fclose(fl);
+  fclose(new);
+  reboot_news();
+}
