@@ -1,0 +1,10 @@
+[Dec 25 2014] - Dracmas
+Note to self: must add recall command that requires so much moves to return to recall.
+Starting to work on Mud School but won't notice much yet. The School is now located up from recall(word of recall spell).
+[Dec 24 2014] - Dracmas
+New command addnews. Usage is: addnews <change>  Helpfile added.
+Added linkload for IMPS
+Added toggle for IAW
+Added room, mob, and item colors
+Changed chat colors
+Added sreport command. Report only worked in groups.
