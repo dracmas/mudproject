@@ -1,11 +1,13 @@
 #2800
 Entrance to Mudschool:~
-   To enter mudschool, type <n> followed by ENTER or RETURN.
-   You would just type ----> n <--- and then ENTER...
-   
-   To go back to the Capital, go through the portal to your east.
+This is the entrance to Mud School. Go north and go through mud
+school.  If you have been here before and want to go directly to the arena,
+go south. To go back to the Capital, just go down.
+
+
+A sign warns 'You may not pass these doors once you have passed level 5.'
 ~
-28 60 0 0 0 0
+28 56 0 0 0 0
 D0
 This obviously is the grand entrace to Mudschool.
 A sign over the entrace says:
@@ -20,6 +22,11 @@ temple in the Capital.
 ~
 portal~
 0 0 -1
+D5
+You see the Temple of Midgaard.
+~
+~
+0 0 3001
 E
 credits info~
    Welcor
