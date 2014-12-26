@@ -202,10 +202,21 @@ Hassan, the guardian of  the Temple of Midgaard, towers over you.  He's over 12
 feet tall, every inch of it muscle. It would be a Bad Thing to commit a crime
 in his presence.
 ~
-172554 0 0 0 0 0 0 0 0 E
-0 20 10 1d1+0 1d1+0
-0 0
+174602 0 0 0 0 0 0 0 0 E
+30 10 -8 6d6+300 5d5+5
+300 90000
 8 8 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingPara: 7
+SavingRod: 7
+SavingPetri: 7
+SavingBreath: 7
+SavingSpell: 7
 E
 #3020
 master mage guildmasters~
