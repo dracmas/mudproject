@@ -7,17 +7,17 @@ Levl: 34
 Id  : 1
 Brth: 1418356667
 Plyd: 220391
-Last: 1419561937
+Last: 1419635777
 Lmot: 1418570981
 Lnew: 1419562680
 Host: 50.102.59.130
 Hite: 198
 Wate: 156
 Alin: -219
-Act : g 0 0 0
+Act : 0 0 0 0
 Aff : 0 0 0 0
 Pref: efghmnovz 0 0 0
-Room: 3001
+Room: 65535
 Hit : 500/500
 Mana: 100/100
 Move: 82/82
