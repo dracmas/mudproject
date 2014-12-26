@@ -4,7 +4,7 @@ The Meeting Room Of The Gods~
 middle of the room, lit by some unseen light source.  There are many chairs
 around the table, all empty.  The Immortal Board Room is to the north.  
 ~
-12 8 0 0 0 0
+12 1032 0 0 0 0
 D0
 The Immortal Board Room can be seen to the north.
 ~
@@ -53,7 +53,7 @@ east and the meeting room for the gods is to the south.  To the north is the
 Gods' Inn and to the west is a post office for Gods.  In the northeast corner
 you spot a small staircase leading upwards.
 ~
-12 8 0 0 0 0
+12 1032 0 0 0 0
 D0
 The Gods' Inn can be seen just to the north.
 ~
@@ -80,6 +80,10 @@ the Gods.
 ~
 ~
 0 -1 1206
+D5
+~
+~
+0 0 1207
 E
 original~
    The main hang out of the Gods, the Immortal Board Room is the place to be.  
@@ -96,7 +100,7 @@ it is not as slow.  Even the Postal service knows not to anger the Gods.
 Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
 The Immortal Board Room is to the east.
 ~
-12 8 0 0 0 0
+12 1032 0 0 0 0
 D1
 The Immortal Board Room is just to the east.
 ~
@@ -115,6 +119,89 @@ didn't notice that exit before isn't it?
 ~
 ~
 0 -1 1204
+S
+#1207
+Asgard~
+  You stand on a huge expanse of glass.  Below you are clouds and the
+pains of mortality.  As you stand in Asgard, home of the bravest of the
+brave, you are frozen in awe of the power held within these walls.  A
+huge mansion lies to the east beyond a set of magnificent golden doors.
+~
+12 8 0 0 0 0
+D3
+~
+~
+0 0 1211
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 1208
+S
+#1208
+The End of the Rainbow Bridge~
+  You have reached the end of the Rainbow Bridge.  Asgard stretches out above
+you.  Looking around, you search for the legendary guardian of Asgard.  The
+clouds are far below you and a sense of beauty and peacefulness surrounds you.
+~
+12 8 0 0 0 0
+D4
+~
+~
+0 0 1207
+D5
+~
+~
+0 0 1209
+S
+#1209
+On the Rainbow Bridge~
+  You have reached the center of the Rainbow Bridge.  Clouds and mist swirl
+around your feet.  The view from here is incredible.  It is little wonder
+that the heavens were saved for the gods personal pleasures.
+~
+12 8 0 0 0 0
+D4
+~
+~
+0 0 1208
+D5
+~
+~
+0 0 1210
+S
+#1210
+Head of the Rainbow Bridge~
+  Standing on the mortal end of the Rainbow Bridge, the bridge arches up
+before you and seems to disappear into the clouds.  You wonder if it is
+wise to venture upward into the realm of the gods.  But it seems so calm
+and peaceful here that it would be a shame to leave...
+~
+12 8 0 0 0 0
+D4
+~
+~
+0 0 1209
+D5
+The altar of Midgaard is below you.
+~
+~
+0 0 3054
+S
+#1211
+The Center of the Universe~
+  You are at the centre of the universe, everything is filled with bright
+light in all colors. You feel time and space no longer exist here.
+Exits fill the room in all 42 dimensions, leading everywhere.
+~
+12 0 0 0 0 0
+D1
+~
+~
+0 0 1207
 S
 #1290
 The Immortal Board Hall~
