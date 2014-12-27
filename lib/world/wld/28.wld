@@ -36,7 +36,7 @@ S
 Movement Training Room~
   You are in a room in Mud School. Paintings of the heroic graduates of mud
 school adorn the walls. The classroom looks quite messy from the last class
-that was in here. Today's lesson is still up on the chalkboard.
+that was in here. Today's lesson is still on the chalkboard.
 Type 'look chalkboard' to read it.
 ~
 28 60 0 0 0 0
@@ -183,19 +183,12 @@ Then go north.
 ~
 S
 #2805
-Mudschool 5th Lesson: Preparing for battle.~
-   Now you're wearing just a little armor (the cloak) and a weapon (the whip),
-and you are almost ready to fight your first battle. In the next room there
-is a small monster, asleep and very easy to kill. 
- 
-You should go east, then <consider piglet>.
- 
-The game will then inform you about how strong you are compared to the piglet.
- 
-This first monster is so small, you should have no problems killing it.
-Just type <kill piglet> to start fighting it.
- 
-You can go east now.
+Battle Preparation Room~
+  It looks as though this room has been used by previous classmates when
+getting ready for battle. Grinding stones are in the corner to sharpen
+swords. Some limbs and twine lay in the corner to be assembled into
+bows. By the door there is a mantle with a sword propped up against it.
+On the mantle hangs a paque describing the sword.
 ~
 28 60 0 0 0 0
 D1
@@ -206,20 +199,30 @@ D2
 ~
 ~
 0 0 2804
+E
+plaque~
+  Mudschool 5th Lesson: Preparing for battle.
+
+   Now you're wearing just a little armor (the cloak) and a weapon (the whip),
+and you are almost ready to fight your first battle. In the next room there
+is a small monster, asleep and very easy to kill. 
+
+You should go east, then <consider piglet>.
+
+The game will then inform you about how strong you are compared to the piglet.
+
+This first monster is so small, you should have no problems killing it.
+Just type <kill piglet> to start fighting it.
+
+You can go east now.
+~
 S
 #2806
-Mudschool 6th Lesson: The end of poor piglet.~
-   First type <consider piglet>, then <kill piglet> to start fighting
-the piglet. If it is not here, wait a couple of minutes, then <look> to
-see if it has come back.
- 
-After you kill the piglet, you might want to see if it was carrying
-anything. To do this type <examine corpse>. You'll find a couple of
-porkchops in the corpse. To pick them up, type <get all corpse>.
- 
-When you are sure you have all you need from the corpse you may choose
-to <sacrifice corpse> for a reward if you are lucky. 
-Then go <north>
+Mortal Kombat!~
+  The silence of this room could let you hear a pin drop. A chill in the
+air leaves nothing for comfort. Something is in this room with you.
+You are not alone. In the center of the room, almost covered in shadows,
+is a sign propped up against a desk.
 ~
 28 44 0 0 0 0
 D0
@@ -230,6 +233,22 @@ D3
 ~
 ~
 0 0 2805
+E
+sign~
+ Mudschool 6th Lesson: The end of poor piglet.
+
+   First type <consider piglet>, then <kill piglet> to start fighting
+the piglet. If it is not here, wait a couple of minutes, then <look> to
+see if it has come back.
+
+After you kill the piglet, you might want to see if it was carrying
+anything. To do this type <examine corpse>. You'll find a couple of
+porkchops in the corpse. To pick them up, type <get all corpse>.
+
+When you are sure you have all you need from the corpse you may choose
+to <sacrifice corpse> for a reward if you are lucky. 
+Then go <north>
+~
 S
 #2807
 Mudschool 7th Lesson: Lunch break.~
