@@ -6,18 +6,18 @@ Clas: 2
 Levl: 34
 Id  : 1
 Brth: 1418356667
-Plyd: 231769
-Last: 1419647155
+Plyd: 235583
+Last: 1419650969
 Lmot: 1418570981
-Lnew: 1419636465
+Lnew: 1419647283
 Host: 50.102.59.130
 Hite: 198
 Wate: 156
 Alin: -219
 Act : 0 0 0 0
 Aff : 0 0 0 0
-Pref: efghmnovzA 0 0 0
-Room: 65535
+Pref: efghmnov 0 0 0
+Room: 2810
 Hit : 500/500
 Mana: 100/100
 Move: 82/82
@@ -31,3 +31,5 @@ Ac  : 100
 Gold: 1795
 Exp : 7000000
 Olc : 0
+Vars: 1
+tba_greeting 0 1

@@ -404,22 +404,11 @@ Now continue north.
 ~
 S
 #2810
-Mudschool 10th Lesson: Shortcuts~
-   To avoid typing <score> all the time, the game has a small shortcut:
- 
-By now you will have noticed the > that keeps appearing every time, you enter 
-a command. This is your prompt, and it can be set to display various 
-characteristics of your character. Right now type <prompt all>.
- 
-A line looking something like this will appear as your prompt:
-12H 8M 31V >  
-The numbers are the same as the ones in <score>. Current hitpoints (H), mana 
-(M), and move (V).
- 
-Remember: All commands can be abbreviated, to some extend. 
-Example : <pr all> will work just as good as <prompt all>
- 
-Now move east for some basic manouvres.
+Studyhall 211~
+  This is where students train their minds to better learn how to
+study courses. From shortcuts to tips on how to better get things
+done. It looks like a student has fallen asleep while working on
+his notebook.
 ~
 28 60 0 0 0 0
 D1
@@ -430,6 +419,27 @@ D2
 ~
 ~
 0 0 2809
+E
+notebook~
+Mudschool 10th Lesson: Shortcuts
+
+  To avoid typing <score> all the time, the game has a small shortcut:
+
+By now you will have noticed the > that keeps appearing every time, you enter 
+a command. This is your prompt, and it can be set to display various 
+characteristics of your character. Right now type <prompt all>.
+
+A line looking something like this will appear as your prompt:
+12H 8M 31V > 
+
+The numbers are the same as the ones in <score>. Current hitpoints (H), mana 
+(M), and move (V).
+
+Remember: All commands can be abbreviated, to some extend. 
+Example : <pr all> will work just as good as <prompt all>
+
+Now move east for some basic manouvres.
+~
 S
 #2811
 Mudschool 11th Lesson : Doors - a menace to free movement.~
