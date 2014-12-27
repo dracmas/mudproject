@@ -220,8 +220,8 @@ S
 #2806
 Mortal Kombat!~
   The silence of this room could let you hear a pin drop. A chill in the
-air leaves nothing for comfort. Something is in this room with you.
-You are not alone. In the center of the room, almost covered in shadows,
+air leaves nothing for comfort. Like something is in this room with you.
+Spooky. In the center of the room, almost covered in shadows,
 is a sign propped up against a desk.
 ~
 28 44 0 0 0 0
@@ -251,21 +251,11 @@ Then go <north>
 ~
 S
 #2807
-Mudschool 7th Lesson: Lunch break.~
-   So.. You might be getting hungry and thirsty by now. Luckily the piglet
-had some pork chops for you, and you've bought a canteen full of water.
- 
-To drink the water : <drink canteen>
- 
-To eat the pork chops : <eat pork>
- 
-You might want to repeat one or both of these commands, until you're
-full. This can easily be done with the <!> command, which will repeat
-the last typed command. Thus, to eat two pork chops :
- 
-type <eat pork> <!>
- 
-Lunch break over, time to go to class. See the teacher to the east.
+School Cafeteria~
+  Long tables are placed along the room where students eat
+their lunches and gossip with their friends. Almost hidden
+by stacked lunch trays and silverware is a copy of the
+lunch menu.
 ~
 28 60 0 0 0 0
 D1
@@ -276,19 +266,32 @@ D2
 ~
 ~
 0 0 2806
+E
+menu lunch~
+  Mudschool 7th Lesson: Lunch break.
+
+   So.. You might be getting hungry and thirsty by now. Luckily the piglet
+had some pork chops for you, and you've bought a canteen full of water.
+
+To drink the water : <drink canteen>
+
+To eat the pork chops : <eat pork>
+
+You might want to repeat one or both of these commands, until you're
+full. This can easily be done with the <!> command, which will repeat
+the last typed command. Thus, to eat two pork chops :
+
+Type <eat pork> <!>
+
+Lunch break over, time to go to class. See the teacher to the east.
+~
 S
 #2808
-Mudschool 8th Lesson: Classes !? - Why?~
-   Until now, the path has been the same for all classes. All have been
-through the same texts, had to deal with the same monster. Here however,
-The paths separate. A bunch of signs have been set up on the wall here.
-A teacher stands in front of them, and will teach you your classes' special
-abilities.
- 
-The signs have large Titles: WARRIOR, MAGE, THIEF and CLERIC.
- 
-To read a sign type <look xxx> where xxx is one of the above.
-When you are done here, go north.
+The History Classroom~
+  A nice and tidy room with desks spread out along the classroom. The
+books are stacked nicely along the shelf. Even the chalkboard is spotless
+and all the papers put away. On the teachers desk, a schoolbook is open
+explaining about myths and legends.
 ~
 28 60 0 0 0 0
 D0
@@ -315,7 +318,6 @@ or
 to use the spells later, type
 <cast 'armor' xxx> and <cast 'cure light' xxx> 
 where xxx is the name of your target.
- 
 ~
 E
 thief~
@@ -347,6 +349,21 @@ which will do a little damage to your enemy - if you hit.
 To get better at this, type <practice kick>
 If you just want to see what you can learn, type <practice>.
 Later, you can use the skill in combat by typing <kick>.
+~
+E
+school book schoolbook~
+Mudschool 8th Lesson: Classes !? - Why?
+
+  Until now, the path has been the same for all classes. All have been
+through the same texts, had to deal with the same monster. Here however,
+The paths separate. A bunch of signs have been set up on the wall here.
+A teacher stands in front of them, and will teach you your classes' special
+abilities.
+
+The signs have large Titles: WARRIOR, MAGE, THIEF and CLERIC.
+
+To read a sign type <look xxx> where xxx is one of the above.
+When you are done here, go north.
 ~
 S
 #2809
