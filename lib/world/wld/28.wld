@@ -367,21 +367,12 @@ When you are done here, go north.
 ~
 S
 #2809
-Mudschool 9th Lesson: Who Am I - really ?~
-   To get some statistics on yourself type <score>.
- 
-You will then get an overview of your current condition:
-Your age is in the first line.
- 
-The display of hitpoints, mana and move shows you how much you have
-right now, and your current maximum in the ()'s.
- 
-Your AC is next. It is best if it's low, as monsters hit you less often then.
-After that is your alignment. 1000 being pure good, -1000 being pure evil. 
-Next is your experience and gold followed by how long you have been playing.
-Lastly you are informed of your level and current position.
- 
-Now continue north.
+Psychology 101~
+This classroom really is creepy. On the teacher's desk sits a model of the
+human brain. Along the walls show various psychopaths who were bent with destruction
+before being defeated and why. Why anyone would want to get into their minds is
+just too crazy to think about. Nothing else looks out of place, except for a book that
+has fallen off the shelf onto the floor.
 ~
 28 44 0 0 0 0
 D0
@@ -392,6 +383,25 @@ D2
 ~
 ~
 0 0 2808
+E
+book~
+ Mudschool 9th Lesson: Who Am I - really ?
+
+  To get some statistics on yourself type <score>.
+
+You will then get an overview of your current condition:
+Your age is in the first line.
+
+The display of hitpoints, mana and move shows you how much you have
+right now, and your current maximum in the ()'s.
+
+Your AC is next. It is best if it's low, as monsters hit you less often then.
+After that is your alignment. 1000 being pure good, -1000 being pure evil. 
+Next is your experience and gold followed by how long you have been playing.
+Lastly you are informed of your level and current position.
+
+Now continue north.
+~
 S
 #2810
 Mudschool 10th Lesson: Shortcuts~
