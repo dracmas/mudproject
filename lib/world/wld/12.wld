@@ -257,10 +257,18 @@ the halls.  The golden gates are to the west.  You know not what lies
 upward...
 ~
 12 0 0 0 0 0
+D0
+~
+~
+3 0 1219
 D1
 ~
 ~
 0 0 1216
+D2
+~
+~
+3 0 1220
 D3
 ~
 ~
@@ -316,6 +324,15 @@ D2
 ~
 ~
 3 0 1216
+E
+clutter~
+You notice Jimmy Hoffa's ring.
+~
+E
+component components scroll scrolls braziers brazier tool tools~
+It's all worth a fortune, but you'd better not touch it.  Alander keeps
+inventory and holds grudges.
+~
 S
 #1218
 A Sea Cave~
@@ -332,6 +349,189 @@ D0
 ~
 ~
 3 0 1216
+S
+#1219
+The Satin Memorial Reading Room~
+  Half read books lie everywhere: Yeats, Tennyson, Chandler, Barrie
+a battered paperback de Laclos
+ a dusty leather-bound Donne.  A
+damp novel perches precariously on the edge of a large bathtub.
+As your eyes travel beyond the steam rising to the air toward the
+rose-brambled balcony railing, you notice a well-creased printout
+of a poem sitting on a the velvet cushions of a rosewood chair
+that has been set so as to see the stark black mountains
+from one angle, or the wine-dark sea from another.
+~
+12 0 0 0 0 0
+D2
+~
+~
+3 0 1214
+E
+yeat yeats~
+The page it is flipped open to reads:
+
+A sudden blow: the great wings beating still
+Above the staggering girl, her thighs carressed
+By the dark webs, her nape caught in his bill,
+he holds her helpless breast upon his breast.
+How can those terrified vague fingers push
+The feathered glory from her loosening thighs?
+And how can body, laid in that white rush,
+But feel that strange heart beating where it lies?
+A shudder in the loins engenders there
+The broken wall, the burning roof and tower
+And Agammemnon dead.  Being so caught up,
+So mastered by this brute blood of the air,
+Did she put on his knowledge with his power
+Before his indifferent beak could let her drop?
+~
+E
+tennyson~
+"My mariners
+
+Souls that have toiled, and wrought, and thought with me -
+The ever with a frolic welcome took
+The thunder and the sunshine, and opposed
+Free hearts, free foreheads - you and I are old
+Old age hath yet his honour and the toil
+Death closes all
+but something ere the end,
+Some work of noble note, may yet be done,
+Not unbecoming of men that strove with the gods.
+The lights begin to twinkle from the rocks
+The long day wanes
+the slow moon climbs
+the deep
+Moans round with many voices."
+~
+E
+chandler~
+She has just started the Lady in the Lake:
+
+Gillerain Regal, the Champagne of Perfumes.  It was definitely
+the stuff to get.  One drop of that in the hollow of your
+throat and the matched pink pearls started falling off you like
+summer rain.
+~
+E
+barrie~
+A copy of Peter Pan is opened near the end:
+
+What sort of form was Hook showing?  Misguided man though he
+was, we may be glad, without sympathising with him, that in
+the end he stayed true to the traditions of his race.  The
+other boys were flying about him now, flouting, scornful
+ and
+as he staggered about the deck striking at them impotently, his
+mind was no longer with them
+ it was slouching in the playing
+fields of long ago, or being sent up for good, or watching
+the wall-game from a famous wall.  And his shoes were right,
+and his waistcoat was right, and his tie was right, and his
+socks were right.
+
+James Hook, thou not wholly unheroic figure, farewell.
+~
+E
+battered paperback de laclos~
+'One is very soon bored of everything, my angel
+ it is a law
+of nature.  It is not my fault.
+If, that is to say, that I am bored with an adventure that has
+claimed my attentions for four mortal months, it is not my fault.
+If, that is to say, my love is equal to your virtue - and that
+is certainly saying a great deal - it is not surprising that
+one should come to the end at the same time as the other.  It
+is not my fault.
+A woman that I love madly now insists that I give you up for
+her.  It is not my fault.
+I quite realize that this is the perfect opportunity to accuse
+me of perjury: but if, where nature has gifted men with no
+more than constancy, she has given women obstinacy, it is
+not my fault.
+Believe this, you should take another lover, even as I take
+another mistress.  This is good, very good advice: if you
+find it bad, it is not my fault.
+Good-bye, my angel.  I took you with pleasure, I leave you
+without regret.  I shall come back perhaps.  Such is life.
+It is not my fault.
+~
+E
+dusty leather-bound Donne leather bound~
+`Cruel and sudden, hast thou since
+Purpled thy nail in blood of innocence?
+Wherein could this flea guilty be,
+Except in the drop it sucked from thee?
+Yet thou trimph'st and say'st that thou
+Find'st not thyself, nor me the weaker now
+'Tis true, then learn how false fears be:
+Just so much honour when thou yield'st to me
+Will waste as this flea's death took life from thee.'
+~
+E
+balcony~
+Climbing white roses have swarmed over the original marble to obscure
+it almost completely.  The air is sweet not with roses, though,
+but with Satin's sandalwood perfume.
+~
+E
+well-creased printout creased poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes
+clear:
+
+'I know that I am studly - Heck, I'm sexy, cute and cuddly
+And I know that I'm extremely modest too.'
+~
+E
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet.
+~
+E
+stark black mountains mountain wine-dark wine dark sea~
+The ocean is constantly smashing up against the cliffs and rending
+huge slabs from it.  The beach is scarcely a beach at all, more a
+collection of rough flakes varying in size from a small car to a
+small fist.  As the water comes up over the rocks and ebbs back
+down, it filters through the spaces and makes an unnerving rattling
+sound.
+~
+S
+#1220
+Office~
+The first thing you notice about this office is the floor it
+is a black & white checkerboard pattern, with 8 squares to a side.  The
+south wall is a HUGE picture window that produces a magnificent view of 
+the land.  In front of the window is a large desk.  Completely covering
+the east wall is a bookshelf, that is crammed full.  In the northwest
+corner, you notice a statue.
+~
+12 0 0 0 0 0
+D0
+~
+~
+3 0 1214
+E
+desk~
+This desk is much larger than anyone could possibly need.
+At one end you notice a large, disorderly mess of papers.
+It must be all his immortal paperwork. At the other end
+is a magnificent wooden inlaid board with handcrafted
+ebony and hardwood pieces.
+~
+E
+bookshelf~
+This is the most amazing collection of chess books you have ever seen.
+Everything from Damiano's manuscripts, to a complete collection of the
+Encyclopedia of Chess Openings, to the latest Imformants are all here.
+~
+E
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
+~
 S
 #1290
 The Immortal Board Hall~
