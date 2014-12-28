@@ -128,6 +128,18 @@ brave, you are frozen in awe of the power held within these walls.  A
 huge mansion lies to the east beyond a set of magnificent golden doors.
 ~
 12 8 0 0 0 0
+D0
+~
+~
+0 0 1215
+D1
+~
+~
+0 0 1213
+D2
+~
+~
+0 0 1212
 D3
 ~
 ~
@@ -199,6 +211,66 @@ Exits fill the room in all 42 dimensions, leading everywhere.
 ~
 12 0 0 0 0 0
 D1
+~
+~
+0 0 1207
+S
+#1212
+Moses' Hangout~
+This unfinished room was created by Dracmas.
+  You see here a cozy little room with a fireplace.  You can tell it is Moses'
+room by the two stone tablets and a bible on a small ledge near the fireplace.
+This room was designed for total relaxation.  You can watch television, listen
+to the stereo, even soak in a hot tub.
+There is a bell here for the butler.
+~
+12 0 0 0 0 0
+D0
+~
+~
+0 0 1207
+S
+#1213
+The Entrance of Valhalla~
+  The huge ornate entrance of Valhalla is before you.  It seems as though
+atleast eight-hundred soldiers could walk abreast of one another through
+these doors. You stare in awe at the sparkling mansion before you.  You
+wonder what secrets are held behind these doors and long to hear the stories
+of bravery and glory that you know are kept within the walls of Valhalla.
+~
+12 0 0 0 0 0
+D1
+~
+~
+0 0 1214
+D3
+~
+~
+0 0 1207
+S
+#1214
+Valhalla~
+  This is the huge Hall of Valhalla, where the Gods rule supreme.  The
+cavernous building stretches infinitely in all directions.  Valhalla 
+continues to the east, and the gods make their homes north and south of
+the halls.  The golden gates are to the west.  You know not what lies 
+upward...
+~
+12 0 0 0 0 0
+D3
+~
+~
+0 0 1213
+S
+#1215
+The Chat Room~
+  You are lounging in a quiet cosy parlour, warmed by a gentle magical fire
+which twinkles happily in a warm fireplace.  This is one of the many rooms
+where the heroes and gods come to socialize.  It is by far one of the most
+comfortable! 
+~
+12 0 0 0 0 0
+D2
 ~
 ~
 0 0 1207
