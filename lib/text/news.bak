@@ -1,3 +1,5 @@
+[Dec 28 2014] - Dracmas
+found the voice boom login trig for when player logs in midgaard area. You'll see it doesn't display the message in other areas. %zoneecho% only works for that one area, so I've asked the higher up devs of the codebase if there is a global echo or if I have to attach the script to every zone to work.
 [Dec 27 2014] - Dracmas
 Mudschool coming along. Don't look like I'm too good with doing descriptions here, but hope that will change as I keep working.
 [Dec 26 2014] - Dracmas
