@@ -6,21 +6,21 @@ Clas: 2
 Levl: 1
 Id  : 2
 Brth: 1418440218
-Plyd: 7281
-Last: 1419560774
+Plyd: 8449
+Last: 1419740821
 Lmot: 1418568942
-Lnew: 1419560725
-Host: 50.102.59.130
+Lnew: 1419738777
+Host: localhost
 Hite: 186
 Wate: 162
-Act : h 0 0 0
+Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnozA 0 0 0
-Room: 65535
+Room: 3063
 Lern: 1
-Hit : 4/20
+Hit : 20/20
 Mana: 100/100
-Move: 50/83
+Move: 77/83
 Str : 16/0
 Int : 13
 Wis : 11
