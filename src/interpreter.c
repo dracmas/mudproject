@@ -1322,6 +1322,7 @@ void nanny(struct descriptor_data *d, char *arg)
 {
   int load_result;	/* Overloaded variable */
   int player_i;
+  char greetingbuf[MAX_STRING_LENGTH]; /* for login greeting showing players */
 
   /* OasisOLC states */
   struct {
@@ -1674,6 +1675,9 @@ void nanny(struct descriptor_data *d, char *arg)
 
       greet_mtrigger(d->character, -1);
       greet_memory_mtrigger(d->character);
+
+      sprintf (greetingbuf, "%s takes the \x1B[1;34mblue pill\x1B[0;0m and enters the game.\r\n", GET_NAME(d->character));
+      send_to_all(greetingbuf);
 
       act("$n has entered the game.", TRUE, d->character, 0, 0, TO_ROOM);
 
