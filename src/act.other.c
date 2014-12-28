@@ -40,6 +40,7 @@ static void display_group_list(struct char_data * ch);
 
 ACMD(do_quit)
 {
+  char goodbyebuf[MAX_STRING_LENGTH]; /* for quit farewell showing players */
   if (IS_NPC(ch) || !ch->desc)
     return;
 
@@ -52,6 +53,8 @@ ACMD(do_quit)
     die(ch, NULL);
   } else {
     act("$n has left the game.", TRUE, ch, 0, 0, TO_ROOM);
+    sprintf (goodbyebuf, "%s has taken the \x1B[1;31mred pill\x1B[0;0m and rejoins the real world.\r\n", GET_NAME(ch));
+    send_to_all(goodbyebuf);
     mudlog(NRM, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE, "%s has quit the game.", GET_NAME(ch));
 
     if (GET_QUEST_TIME(ch) != -1)
