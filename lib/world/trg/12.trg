@@ -1002,6 +1002,12 @@ if %cmd% == test
   done
 end
 ~
+#1219
+Juke Box~
+1 c 100
+~
+%echo% This trigger commandlist is not complete!
+~
 #1220
 Roomflag Test Trigger~
 2 g 100
