@@ -29,13 +29,17 @@ E
 credits info~
    Welcor
 ~
+E
+sign~
+A sign warns 'You may not pass these doors once you have passed level 5.'
+~
 S
 #2801
 Movement Training Room~
    You are in a room in Mud School.  Paintings of the heroic graduates of mud
 school adorn the walls.  The classroom looks quite messy from the last class
-that was in here.  Today's lesson is still on the chalkboard.  Type 'look
-chalkboard' to read it.
+that was in here.  Today's lesson is still on the chalkboard.  Type '@W@+look@n
+@W@+chalkboard@n' to read it.
 ~
 28 60 0 0 0 0
 D1
@@ -71,7 +75,7 @@ S
 Finders keepers Hallway~
    The hallway of Mud School is surrounded by classroom doors, lockers lined up
 against the wall, and the occasional item left by rushed students trying to get
-to class on time.  On the wall there is a sign for student instructions.
+to class on time.  On the wall there is a @W@+sign@n for student instructions.
 ~
 28 60 0 0 0 0
 D0
@@ -106,7 +110,7 @@ The Stop and Shop~
    The school store has all sorts of funded items to gain money from all the
 suckers (I mean players) that enter through it's doors.  The floors are nice and
 shining, the items are well stocked, and you can tell that no-one likes to shop
-in here!  There is a sign on the wall showing the Store's policies.
+in here!  There is a @W@+sign@n on the wall showing the Store's policies.
 ~
 28 156 0 0 0 0
 D1
@@ -140,7 +144,7 @@ S
 The Worn Hallway~
    This hallway looks like it has been used by the sports team in between games
 and practices.  Clothing and sports utilities completely cover the floor.  
-Along the wall are a set of lockers that look to be unrepairable.  One locker
+Along the wall are a set of lockers that look to be unrepairable.  One @W@+locker@n
 has words scratched into the side of it with a heart surrounding it.
 ~
 28 188 0 0 0 0
@@ -184,7 +188,7 @@ Battle Preparation Room~
 getting ready for battle.  Grinding stones are in the corner to sharpen swords.
 Some limbs and twine lay in the corner to be assembled into bows.  By the door
 there is a mantle with a sword propped up against it.  On the mantle hangs a
-paque describing the sword.
+@W@+plaque@n describing the sword.
 ~
 28 60 0 0 0 0
 D1
@@ -217,7 +221,7 @@ S
 Mortal Kombat!~
    The silence of this room could let you hear a pin drop.  A chill in the air
 leaves nothing for comfort.  Like something is in this room with you.  Spooky.
-In the center of the room, almost covered in shadows, is a sign propped up
+In the center of the room, almost covered in shadows, is a @W@+sign@n propped up
 against a desk.
 ~
 28 44 0 0 0 0
@@ -250,7 +254,7 @@ S
 School Cafeteria~
    Long tables are placed along the room where students eat their lunches and
 gossip with their friends.  Almost hidden by stacked lunch trays and silverware
-is a copy of the lunch menu.
+is a copy of the @W@+lunch menu@n.
 ~
 28 60 0 0 0 0
 D1
@@ -285,7 +289,7 @@ S
 The History Classroom~
    A nice and tidy room with desks spread out along the classroom.  The books
 are stacked nicely along the shelf.  Even the chalkboard is spotless and all the
-papers put away.  On the teachers desk, a schoolbook is open explaining about
+papers put away.  On the teachers desk, a @W@+schoolbook@n is open explaining about
 myths and legends.
 ~
 28 60 0 0 0 0
@@ -297,6 +301,52 @@ D3
 ~
 ~
 0 0 2807
+E
+school book schoolbook~
+Mudschool 8th Lesson: Classes !? - Why?
+
+  Until now, the path has been the same for all classes. All have been
+through the same texts, had to deal with the same monster. Here however,
+The paths separate. A bunch of signs have been set up on the wall here.
+A teacher stands in front of them, and will teach you your classes' special
+abilities.
+
+The signs have large Titles: WARRIOR, MAGE, THIEF and CLERIC.
+
+To read a sign type <look xxx> where xxx is one of the above.
+When you are done here, go north.
+~
+E
+warrior~
+   The only skill you can learn on this low level is a kick, 
+which will do a little damage to your enemy - if you hit.
+To get better at this, type <practice kick>
+If you just want to see what you can learn, type <practice>.
+Later, you can use the skill in combat by typing <kick>.
+~
+E
+mage magic user~
+   The only spell you can learn on this low level is a 'magic missile', 
+which will do a little damage to your enemy - if you have mana to cast it.
+ 
+To get better at this, type <practice magic>
+ 
+If you just want to see what you can learn, type <practice>.
+ 
+Later, you can use the skill in combat by typing 
+<cast 'magic missile' xxx>. 
+~
+E
+thief~
+   The only skill you can learn on this low level is backstab.
+A backstab is, as the name suggests, a way of getting behind
+your enemy, and stab him/her/it in the back.
+To get better at this, type <practice backstab>
+If you just want to see what you can learn, type <practice>
+Later, you can use the skill by typing <backstab> instead 
+of <kill> to initiate combat. Note, though that you need
+to use a pointed weapon to be able to backstab.
+~
 E
 cleric~
    You may choose to learn two spells :
@@ -314,52 +364,6 @@ to use the spells later, type
 <cast 'armor' xxx> and <cast 'cure light' xxx> 
 where xxx is the name of your target.
 ~
-E
-thief~
-   The only skill you can learn on this low level is backstab.
-A backstab is, as the name suggests, a way of getting behind
-your enemy, and stab him/her/it in the back.
-To get better at this, type <practice backstab>
-If you just want to see what you can learn, type <practice>
-Later, you can use the skill by typing <backstab> instead 
-of <kill> to initiate combat. Note, though that you need
-to use a pointed weapon to be able to backstab.
-~
-E
-mage magic user~
-   The only spell you can learn on this low level is a 'magic missile', 
-which will do a little damage to your enemy - if you have mana to cast it.
- 
-To get better at this, type <practice magic>
- 
-If you just want to see what you can learn, type <practice>.
- 
-Later, you can use the skill in combat by typing 
-<cast 'magic missile' xxx>. 
-~
-E
-warrior~
-   The only skill you can learn on this low level is a kick, 
-which will do a little damage to your enemy - if you hit.
-To get better at this, type <practice kick>
-If you just want to see what you can learn, type <practice>.
-Later, you can use the skill in combat by typing <kick>.
-~
-E
-school book schoolbook~
-Mudschool 8th Lesson: Classes !? - Why?
-
-  Until now, the path has been the same for all classes. All have been
-through the same texts, had to deal with the same monster. Here however,
-The paths separate. A bunch of signs have been set up on the wall here.
-A teacher stands in front of them, and will teach you your classes' special
-abilities.
-
-The signs have large Titles: WARRIOR, MAGE, THIEF and CLERIC.
-
-To read a sign type <look xxx> where xxx is one of the above.
-When you are done here, go north.
-~
 S
 #2809
 Psychology 101~
@@ -367,7 +371,7 @@ Psychology 101~
 human brain.  Along the walls show various psychopaths who were bent with
 destruction before being defeated and why.  Why anyone would want to get into
 their minds is just too crazy to think about.  Nothing else looks out of place,
-except for a book that has fallen off the shelf onto the floor.
+except for a @W@+book@n that has fallen off the shelf onto the floor.
 ~
 28 44 0 0 0 0
 D0
@@ -402,7 +406,7 @@ S
 Studyhall 211~
    This is where students train their minds to better learn how to study
 courses.  From shortcuts to tips on how to better get things done.  It looks
-like a student has fallen asleep while working on his notebook.
+like a student has fallen asleep while working on his @W@+notebook@n.
 ~
 28 60 0 0 0 0
 D1
@@ -437,7 +441,7 @@ Now move east for some basic manouvres.
 S
 #2811
 The One Door Room~
-   With how big Mud School is, why is this the first room that we see a door in?
+   With how big Mud School is, why is this the first room that we see a @W@+door@n in?
 Even more odd is all the writing that completely covers it.
 ~
 28 0 0 0 0 0
@@ -550,14 +554,14 @@ better not be here when he gets back...
 ~
 28 8 0 0 0 0
 E
-Welcor~
-   Even when not here, you sense his presence.    
-~
-E
 flame wall burning fire~
    As you study the walls closer, you realise magic keeps the fire alive, and
 it really is HOT.  Reaching out to touch it proves a very bad idea, giving you
 several burn marks on your hand
+~
+E
+Welcor~
+   Even when not here, you sense his presence.    
 ~
 S
 $~
