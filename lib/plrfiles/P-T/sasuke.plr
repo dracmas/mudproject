@@ -6,8 +6,8 @@ Clas: 2
 Levl: 6
 Id  : 2
 Brth: 1418440218
-Plyd: 11473
-Last: 1419810824
+Plyd: 12361
+Last: 1419812624
 Lmot: 1418568942
 Lnew: 1419795566
 Host: localhost
@@ -16,19 +16,19 @@ Wate: 162
 Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghnozA 0 0 0
-Room: 2800
-Lern: 27
-Hung: 23
-Thir: 23
-Hit : 34/64
+Room: 3001
+Lern: 33
+Hung: 11
+Thir: 11
+Hit : 55/55
 Mana: 100/100
-Move: 95/95
-Str : 11/0
-Int : 10
-Wis : 9
-Dex : 13
-Con : 11
-Cha : 9
+Move: 92/93
+Str : 15/0
+Int : 14
+Wis : 11
+Dex : 15
+Con : 14
+Cha : 6
 Ac  : 100
 Gold: 2
 Exp : 20000
