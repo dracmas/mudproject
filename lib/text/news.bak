@@ -1,4 +1,5 @@
 [Dec 28 2014] - Dracmas
+login/logoff message done.
 Got the login working so people know when someone enters the game. Blue Pill.
 found the voice boom login trig for when player logs in midgaard area. You'll see it doesn't display the message in other areas. %zoneecho% only works for that one area, so I've asked the higher up devs of the codebase if there is a global echo or if I ha
 ve to attach the script to every zone to work.

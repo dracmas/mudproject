@@ -1,3 +1,5 @@
+[Dec 30 2014] - Dracmas
+removed wait timer and edited script for mud guard. Nothing left to add to him. End of script has force actor look so player can see they were moved, but force doesn't work at the admin lvl for admins so it's not broken, just won't force other admins to do things questionable if builders wrote something like this, say like force <inputadminhere> advance <player> <adminlevel>.
 [Dec 28 2014] - Dracmas
 login/logoff message done.
 Got the login working so people know when someone enters the game. Blue Pill.
