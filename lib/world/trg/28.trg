@@ -15,6 +15,20 @@ if %direction% == north
     %force% %actor% look
     return 0
   end
+  if %actor.level% < 6
+    bow %actor.name%
+    %send% %actor% The guard steps aside to let you enter mudschool.
+    %echoaround% %actor% The guard steps aside to let %actor.name% inside mudschool.
+    return 0
+    wait 1 s
+    %force% %actor% north
+  end
+end
+if %direction% == up
+   %send% %actor% The guard politely stops you from proceeding.
+   %echoaround% %actor% The guard politely stops %actor.name%.
+   say The Time Lord Chronos wishes not to be disturbed at this time. My apologies.
+   return 0
 end
 ~
 $~

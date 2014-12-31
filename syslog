@@ -260,3 +260,83 @@ Dec 31 07:48:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 07:53:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 07:58:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 08:03:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:08:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:13:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:18:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:23:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:28:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:33:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:38:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:43:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:48:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:53:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 08:58:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:02:01 :: OLC: Dracmas starts editing zone 30 [trigger](allowed zone 0)
+Dec 31 09:03:05 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Dec 31 09:03:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:08:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:13:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:18:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:23:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:28:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:31:18 :: OLC: Dracmas turned buildwalk on. Allowed zone 0
+Dec 31 09:31:20 :: GenOLC: add_room: Added room 2816 at index #1708.
+Dec 31 09:31:20 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 09:31:26 :: OLC: Dracmas turned buildwalk off. Allowed zone 0
+Dec 31 09:31:53 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 09:33:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:38:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:43:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:46:19 :: GenOLC: add_room: Updated existing room #2816.
+Dec 31 09:46:19 :: OLC: Dracmas edits room 2816.
+Dec 31 09:46:19 :: GenOLC: save_rooms: Saving rooms in zone #28 (2800-2899).
+Dec 31 09:46:19 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 09:48:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:48:27 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 09:53:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 09:54:50 :: OLC: Dracmas edits trigger 2800
+Dec 31 09:54:50 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 09:55:44 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 09:56:18 :: OLC: Dracmas edits trigger 2800
+Dec 31 09:56:18 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 09:58:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:03:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:08:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:12:44 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 10:12:51 :: Losing descriptor without char.
+Dec 31 10:13:03 :: OLC: Dracmas edits trigger 2800
+Dec 31 10:13:03 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:13:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:13:15 :: Sasuke has connected.
+Dec 31 10:13:17 :: Sasuke had no variable file
+Dec 31 10:13:17 :: Sasuke un-renting and entering game.
+Dec 31 10:13:17 :: Sasuke (level 6) has 17 objects (max 30).
+Dec 31 10:13:31 :: (GC) Dracmas demoted Sasuke from level 6 to 2.
+Dec 31 10:14:09 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 10:14:23 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:16:43 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 10:17:01 :: OLC: Dracmas edits trigger 2800
+Dec 31 10:17:01 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:18:06 :: nusage: 2   sockets connected, 2   sockets playing
+Dec 31 10:18:59 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 10:19:15 :: OLC: Dracmas edits trigger 2800
+Dec 31 10:19:15 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:23:01 :: Sasuke has quit the game.
+Dec 31 10:23:03 :: Losing player: Sasuke.
+Dec 31 10:23:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:23:27 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 10:25:37 :: GenOLC: add_room: Updated existing room #2800.
+Dec 31 10:25:37 :: OLC: Dracmas edits room 2800.
+Dec 31 10:25:37 :: GenOLC: save_rooms: Saving rooms in zone #28 (2800-2899).
+Dec 31 10:25:37 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:25:52 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 10:26:25 :: GenOLC: add_room: Updated existing room #2800.
+Dec 31 10:26:25 :: OLC: Dracmas edits room 2800.
+Dec 31 10:26:25 :: GenOLC: save_rooms: Saving rooms in zone #28 (2800-2899).
+Dec 31 10:26:25 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:26:41 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 10:28:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:33:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:38:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:43:06 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 10:45:10 :: OLC: Dracmas stops editing zone 28 allowed zone 0
