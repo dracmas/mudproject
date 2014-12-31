@@ -340,3 +340,1103 @@ Dec 31 10:33:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 10:38:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 10:43:06 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 10:45:10 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 10:45:56 :: Dracmas has quit the game.
+Dec 31 10:45:58 :: Losing player: Dracmas.
+Dec 31 10:45:58 :: No connections.  Going to sleep.
+Dec 31 23:04:24 :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Dec 31 23:04:29 :: Bad PW: Dracmas [50.102.60.107]
+Dec 31 23:04:31 :: Dracmas has connected.
+Dec 31 23:04:32 :: Dracmas un-renting and entering game.
+Dec 31 23:04:32 :: Dracmas (level 34) has 26 objects (max 30).
+Dec 31 23:06:06 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:06:11 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:06:30 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:06:33 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:07:05 :: GenOLC: add_mobile: Added mobile 2804 at index #629.
+Dec 31 23:07:05 :: OLC: Dracmas edits mob 2804
+Dec 31 23:07:05 :: GenOLC: 'world/mob/28.mob' saved, 1486 bytes written.
+Dec 31 23:07:05 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:07:14 :: OLC: Dracmas starts editing zone 0 allowed zone 0
+Dec 31 23:07:29 :: OLC: Dracmas stops editing zone 0 allowed zone 0
+Dec 31 23:07:36 :: OLC: Dracmas starts editing zone 0 allowed zone 0
+Dec 31 23:07:41 :: OLC: Dracmas stops editing zone 0 allowed zone 0
+Dec 31 23:07:46 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:07:51 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:07:59 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:08:33 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:08:33 :: OLC: Dracmas edits mob 2804
+Dec 31 23:08:33 :: GenOLC: 'world/mob/28.mob' saved, 1497 bytes written.
+Dec 31 23:08:33 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:08:38 :: OLC: Dracmas starts editing zone 0 allowed zone 0
+Dec 31 23:08:46 :: OLC: Dracmas stops editing zone 0 allowed zone 0
+Dec 31 23:08:52 :: OLC: Dracmas starts editing zone 0 allowed zone 0
+Dec 31 23:08:56 :: OLC: Dracmas stops editing zone 0 allowed zone 0
+Dec 31 23:09:00 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:09:03 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:09:10 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:09:14 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:11:02 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:11:33 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:15:27 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:15:27 :: OLC: Dracmas edits mob 2804
+Dec 31 23:15:27 :: GenOLC: 'world/mob/28.mob' saved, 1811 bytes written.
+Dec 31 23:15:27 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:15:33 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:15:38 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:15:44 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:15:52 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:16:00 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:16:32 :: OLC: Dracmas edits zone info for room 2816.
+Dec 31 23:16:32 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:16:33 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:16:41 :: Loading configuration.
+Dec 31 23:16:41 :: tbaMUD 3.65
+Dec 31 23:16:41 :: Using lib as data directory.
+Dec 31 23:16:41 :: Running game on port 5002.
+Dec 31 23:16:41 :: Finding player limit.
+Dec 31 23:16:41 ::    Setting player limit to 300 using rlimit.
+Dec 31 23:16:41 :: Boot db -- BEGIN.
+Dec 31 23:16:41 :: Resetting the game time:
+Dec 31 23:16:41 ::    Current Gametime: 19H 24D 15M 717Y.
+Dec 31 23:16:41 :: Initialize Global Lists
+Dec 31 23:16:41 :: Initializing Events
+Dec 31 23:16:41 :: Reading news, credits, help, ihelp, bground, info & motds.
+Dec 31 23:16:41 :: Loading spell definitions.
+Dec 31 23:16:41 :: Loading zone table.
+Dec 31 23:16:41 ::    187 zones, 13464 bytes.
+Dec 31 23:16:41 :: Loading triggers and generating index.
+Dec 31 23:16:41 :: Loading rooms.
+Dec 31 23:16:41 ::    12487 rooms, 2297608 bytes.
+Dec 31 23:16:41 :: Renumbering rooms.
+Dec 31 23:16:41 :: Checking start rooms.
+Dec 31 23:16:41 :: Loading mobs and generating index.
+Dec 31 23:16:41 ::    3681 mobs, 117792 bytes in index, 2120256 bytes in prototypes.
+Dec 31 23:16:41 :: Loading objs and generating index.
+Dec 31 23:16:41 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Dec 31 23:16:41 :: Renumbering zone table.
+Dec 31 23:16:41 :: Loading shops.
+Dec 31 23:16:41 :: Loading quests.
+Dec 31 23:16:41 ::    1 entries, 128 bytes.
+Dec 31 23:16:41 :: Loading help entries.
+Dec 31 23:16:41 ::    2646 entries, 84672 bytes.
+Dec 31 23:16:41 :: Generating player index.
+Dec 31 23:16:41 :: Loading fight messages.
+Dec 31 23:16:41 :: Loaded 37 Combat Messages...
+Dec 31 23:16:41 :: Loading social messages.
+Dec 31 23:16:41 :: Social table contains 489 socials.
+Dec 31 23:16:41 :: Building command list.
+Dec 31 23:16:41 :: Command info rebuilt, 766 total commands.
+Dec 31 23:16:41 :: Assigning function pointers:
+Dec 31 23:16:41 ::    Mobiles.
+Dec 31 23:16:41 ::    Shopkeepers.
+Dec 31 23:16:41 ::    Objects.
+Dec 31 23:16:41 ::    Rooms.
+Dec 31 23:16:41 ::    Questmasters.
+Dec 31 23:16:41 :: Assigning spell and skill levels.
+Dec 31 23:16:41 :: Sorting command list and spells.
+Dec 31 23:16:41 :: Booting mail system.
+Dec 31 23:16:41 ::    Mail file read -- 0 messages.
+Dec 31 23:16:41 :: Reading banned site and invalid-name list.
+Dec 31 23:16:41 :: Loading Ideas.
+Dec 31 23:16:41 :: Loading Bugs.
+Dec 31 23:16:41 :: Loading Typos.
+Dec 31 23:16:41 :: Deleting timed-out crash and rent files:
+Dec 31 23:16:41 ::    Done.
+Dec 31 23:16:41 :: Booting houses.
+Dec 31 23:16:41 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Dec 31 23:16:41 :: Cleaning up last log.
+Dec 31 23:16:41 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Dec 31 23:16:41 :: Resetting #1: Sanctus (rooms 100-199).
+Dec 31 23:16:41 :: Resetting #2: Sanctus II (rooms 200-299).
+Dec 31 23:16:41 :: Resetting #3: Sanctus III (rooms 300-399).
+Dec 31 23:16:41 :: Resetting #4: Jade Forest (rooms 400-499).
+Dec 31 23:16:41 :: Resetting #5: Newbie Farm (rooms 500-599).
+Dec 31 23:16:41 :: Resetting #6: Sea of Souls (rooms 600-699).
+Dec 31 23:16:41 :: Resetting #7: Camelot (rooms 700-799).
+Dec 31 23:16:41 :: Resetting #9: River Island of Minos (rooms 900-999).
+Dec 31 23:16:41 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Dec 31 23:16:41 :: Resetting #12: God Simplex (rooms 1200-1299).
+Dec 31 23:16:41 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Dec 31 23:16:41 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Dec 31 23:16:41 :: Resetting #15: Straight Path (rooms 1500-1599).
+Dec 31 23:16:41 :: Resetting #16: Camelot II (rooms 1600-1699).
+Dec 31 23:16:41 :: Resetting #17: Camelot III (rooms 1700-1799).
+Dec 31 23:16:41 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Dec 31 23:16:41 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Dec 31 23:16:41 :: Resetting #20: Arena (rooms 2000-2099).
+Dec 31 23:16:41 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Dec 31 23:16:41 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Dec 31 23:16:41 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Dec 31 23:16:41 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Dec 31 23:16:41 :: Resetting #28: Mudschool (rooms 2800-2899).
+Dec 31 23:16:41 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Dec 31 23:16:41 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Dec 31 23:16:41 :: Resetting #32: Midgaard (rooms 3200-3299).
+Dec 31 23:16:41 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Dec 31 23:16:41 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Dec 31 23:16:41 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Dec 31 23:16:41 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Dec 31 23:16:41 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Dec 31 23:16:41 :: Resetting #39: Haven (rooms 3900-3999).
+Dec 31 23:16:41 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Dec 31 23:16:41 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Dec 31 23:16:41 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Dec 31 23:16:41 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Dec 31 23:16:41 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Dec 31 23:16:41 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Dec 31 23:16:41 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Dec 31 23:16:41 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Dec 31 23:16:41 :: Resetting #51: Drow City (rooms 5100-5199).
+Dec 31 23:16:41 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Dec 31 23:16:41 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Dec 31 23:16:41 :: Resetting #54: New Thalos (rooms 5400-5499).
+Dec 31 23:16:41 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Dec 31 23:16:41 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Dec 31 23:16:41 :: Resetting #57: Zodiac (rooms 5700-5799).
+Dec 31 23:16:41 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Dec 31 23:16:41 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Dec 31 23:16:41 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Dec 31 23:16:41 :: Resetting #63: Arachnos (rooms 6300-6399).
+Dec 31 23:16:41 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Dec 31 23:16:41 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Dec 31 23:16:41 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Dec 31 23:16:41 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Dec 31 23:16:41 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Dec 31 23:16:41 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Dec 31 23:16:41 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Dec 31 23:16:41 :: Resetting #75: Zamba (rooms 7500-7599).
+Dec 31 23:16:41 :: Resetting #78: Gideon (rooms 7800-7899).
+Dec 31 23:16:41 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Dec 31 23:16:41 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Dec 31 23:16:41 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Dec 31 23:16:41 :: Resetting #90: Oasis (rooms 9000-9099).
+Dec 31 23:16:41 :: Resetting #96: Domiae (rooms 9600-9699).
+Dec 31 23:16:41 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Dec 31 23:16:41 :: Resetting #101: South Road (rooms 10100-10199).
+Dec 31 23:16:41 :: Resetting #103: DBZ World (rooms 10300-10399).
+Dec 31 23:16:41 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Dec 31 23:16:41 :: Resetting #106: Elcardo (rooms 10600-10699).
+Dec 31 23:16:41 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Dec 31 23:16:41 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Dec 31 23:16:41 :: Resetting #117: Los Torres (rooms 11700-11799).
+Dec 31 23:16:41 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Dec 31 23:16:41 :: Resetting #120: Rome (rooms 12000-12099).
+Dec 31 23:16:41 :: Resetting #125: Hannah (rooms 12500-12599).
+Dec 31 23:16:41 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Dec 31 23:16:41 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Dec 31 23:16:41 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Dec 31 23:16:41 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Dec 31 23:16:41 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Dec 31 23:16:41 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Dec 31 23:16:41 :: Resetting #187: Circus (rooms 18700-18799).
+Dec 31 23:16:41 :: Resetting #200: Western Highway (rooms 20000-20099).
+Dec 31 23:16:41 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Dec 31 23:16:41 :: Resetting #211: Tarot (rooms 21100-21199).
+Dec 31 23:16:41 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Dec 31 23:16:41 :: Resetting #232: Terringham (rooms 23200-23299).
+Dec 31 23:16:41 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Dec 31 23:16:41 :: Resetting #234: Newbie School (rooms 23400-23499).
+Dec 31 23:16:41 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Dec 31 23:16:41 :: Resetting #236: Aldin (rooms 23600-23699).
+Dec 31 23:16:41 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Dec 31 23:16:41 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Dec 31 23:16:41 :: Resetting #239: South Pass (rooms 23900-23999).
+Dec 31 23:16:41 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Dec 31 23:16:41 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Dec 31 23:16:41 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Dec 31 23:16:41 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Dec 31 23:16:41 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Dec 31 23:16:41 :: Resetting #245: The Nether (rooms 24500-24599).
+Dec 31 23:16:41 :: Resetting #246: The Nether II (rooms 24600-24699).
+Dec 31 23:16:41 :: Resetting #247: Graveyard (rooms 24700-24799).
+Dec 31 23:16:41 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Dec 31 23:16:41 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Dec 31 23:16:41 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Dec 31 23:16:41 :: Resetting #251: Ape Village (rooms 25100-25199).
+Dec 31 23:16:41 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Dec 31 23:16:41 :: Resetting #253: Windmill (rooms 25300-25399).
+Dec 31 23:16:41 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Dec 31 23:16:41 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Dec 31 23:16:41 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Dec 31 23:16:41 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Dec 31 23:16:41 :: Resetting #258: Light Forest (rooms 25800-25899).
+Dec 31 23:16:41 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Dec 31 23:16:41 :: Resetting #260: Grasslands (rooms 26000-26099).
+Dec 31 23:16:41 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Dec 31 23:16:41 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Dec 31 23:16:41 :: Resetting #263: Farmlands (rooms 26300-26399).
+Dec 31 23:16:41 :: Resetting #264: Banshide (rooms 26400-26499).
+Dec 31 23:16:41 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Dec 31 23:16:41 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Dec 31 23:16:41 :: Resetting #267: Vice Island (rooms 26700-26799).
+Dec 31 23:16:41 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Dec 31 23:16:41 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Dec 31 23:16:41 :: Resetting #270: Wasteland (rooms 27000-27099).
+Dec 31 23:16:41 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Dec 31 23:16:41 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Dec 31 23:16:41 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Dec 31 23:16:41 :: Resetting #274: Smurfville (rooms 27400-27499).
+Dec 31 23:16:41 :: Resetting #275: New Sparta (rooms 27500-27599).
+Dec 31 23:16:41 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Dec 31 23:16:41 :: Resetting #277: Shire (rooms 27700-27799).
+Dec 31 23:16:41 :: Resetting #278: Oceania (rooms 27800-27899).
+Dec 31 23:16:41 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Dec 31 23:16:41 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Dec 31 23:16:41 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Dec 31 23:16:41 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Dec 31 23:16:41 :: Resetting #283: Haunted House (rooms 28300-28399).
+Dec 31 23:16:41 :: Resetting #284: Ghenna (rooms 28400-28499).
+Dec 31 23:16:41 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Dec 31 23:16:41 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Dec 31 23:16:41 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Dec 31 23:16:41 :: Resetting #288: Galaxy (rooms 28800-28899).
+Dec 31 23:16:41 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Dec 31 23:16:41 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Dec 31 23:16:41 :: Resetting #291: Black Forest (rooms 29100-29199).
+Dec 31 23:16:41 :: Resetting #292: Kerofk (rooms 29200-29299).
+Dec 31 23:16:41 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Dec 31 23:16:41 :: Resetting #294: Trade Road (rooms 29400-29499).
+Dec 31 23:16:41 :: Resetting #295: Jungle (rooms 29500-29599).
+Dec 31 23:16:41 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Dec 31 23:16:41 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Dec 31 23:16:41 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Dec 31 23:16:41 :: Resetting #300: Ancalador (rooms 30000-30099).
+Dec 31 23:16:41 :: Resetting #301: Campus (rooms 30100-30199).
+Dec 31 23:16:41 :: Resetting #302: Campus II (rooms 30200-30299).
+Dec 31 23:16:41 :: Resetting #303: Campus III (rooms 30300-30399).
+Dec 31 23:16:41 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Dec 31 23:16:41 :: Resetting #305: Chessboard (rooms 30500-30599).
+Dec 31 23:16:41 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Dec 31 23:16:41 :: Resetting #307: Castle (rooms 30700-30799).
+Dec 31 23:16:41 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Dec 31 23:16:41 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Dec 31 23:16:41 :: Resetting #310: Graye Area (rooms 31000-31099).
+Dec 31 23:16:41 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Dec 31 23:16:41 :: Resetting #312: Leper Island (rooms 31200-31299).
+Dec 31 23:16:41 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Dec 31 23:16:41 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Dec 31 23:16:41 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Dec 31 23:16:41 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Dec 31 23:16:41 :: Resetting #317: Wharf (rooms 31700-31799).
+Dec 31 23:16:41 :: Resetting #318: Dock Area (rooms 31800-31899).
+Dec 31 23:16:41 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Dec 31 23:16:41 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Dec 31 23:16:41 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Dec 31 23:16:41 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Dec 31 23:16:41 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Dec 31 23:16:41 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Dec 31 23:16:41 :: Resetting #325: Revelry (rooms 32500-32599).
+Dec 31 23:16:41 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Dec 31 23:16:41 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Dec 31 23:16:41 :: Resetting #555: Ultima (rooms 55500-55599).
+Dec 31 23:16:41 :: Resetting #556: Ultima II (rooms 55600-55699).
+Dec 31 23:16:41 :: Resetting #653: Apartment (rooms 65300-65399).
+Dec 31 23:16:41 :: Resetting #654: Subdivision (rooms 65400-65499).
+Dec 31 23:16:41 :: Boot db -- DONE.
+Dec 31 23:16:41 :: Signal trapping.
+Dec 31 23:16:41 :: Copyover recovery initiated
+Dec 31 23:16:41 :: Dracmas un-renting and entering game.
+Dec 31 23:16:41 :: Dracmas (level 34) has 26 objects (max 30).
+Dec 31 23:16:41 :: Entering game loop.
+Dec 31 23:16:47 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:17:28 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:17:34 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:18:06 :: OLC: Dracmas edits zone info for room 2816.
+Dec 31 23:18:06 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:18:10 :: Loading configuration.
+Dec 31 23:18:10 :: tbaMUD 3.65
+Dec 31 23:18:10 :: Using lib as data directory.
+Dec 31 23:18:10 :: Running game on port 5002.
+Dec 31 23:18:10 :: Finding player limit.
+Dec 31 23:18:10 ::    Setting player limit to 300 using rlimit.
+Dec 31 23:18:10 :: Boot db -- BEGIN.
+Dec 31 23:18:10 :: Resetting the game time:
+Dec 31 23:18:10 ::    Current Gametime: 20H 24D 15M 717Y.
+Dec 31 23:18:10 :: Initialize Global Lists
+Dec 31 23:18:10 :: Initializing Events
+Dec 31 23:18:10 :: Reading news, credits, help, ihelp, bground, info & motds.
+Dec 31 23:18:10 :: Loading spell definitions.
+Dec 31 23:18:10 :: Loading zone table.
+Dec 31 23:18:10 ::    187 zones, 13464 bytes.
+Dec 31 23:18:10 :: Loading triggers and generating index.
+Dec 31 23:18:10 :: Loading rooms.
+Dec 31 23:18:10 ::    12487 rooms, 2297608 bytes.
+Dec 31 23:18:10 :: Renumbering rooms.
+Dec 31 23:18:10 :: Checking start rooms.
+Dec 31 23:18:10 :: Loading mobs and generating index.
+Dec 31 23:18:10 ::    3681 mobs, 117792 bytes in index, 2120256 bytes in prototypes.
+Dec 31 23:18:10 :: Loading objs and generating index.
+Dec 31 23:18:10 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Dec 31 23:18:10 :: Renumbering zone table.
+Dec 31 23:18:10 :: Loading shops.
+Dec 31 23:18:10 :: Loading quests.
+Dec 31 23:18:10 ::    1 entries, 128 bytes.
+Dec 31 23:18:10 :: Loading help entries.
+Dec 31 23:18:10 ::    2646 entries, 84672 bytes.
+Dec 31 23:18:10 :: Generating player index.
+Dec 31 23:18:10 :: Loading fight messages.
+Dec 31 23:18:10 :: Loaded 37 Combat Messages...
+Dec 31 23:18:10 :: Loading social messages.
+Dec 31 23:18:10 :: Social table contains 489 socials.
+Dec 31 23:18:10 :: Building command list.
+Dec 31 23:18:10 :: Command info rebuilt, 766 total commands.
+Dec 31 23:18:10 :: Assigning function pointers:
+Dec 31 23:18:10 ::    Mobiles.
+Dec 31 23:18:10 ::    Shopkeepers.
+Dec 31 23:18:10 ::    Objects.
+Dec 31 23:18:10 ::    Rooms.
+Dec 31 23:18:10 ::    Questmasters.
+Dec 31 23:18:10 :: Assigning spell and skill levels.
+Dec 31 23:18:10 :: Sorting command list and spells.
+Dec 31 23:18:10 :: Booting mail system.
+Dec 31 23:18:10 ::    Mail file read -- 0 messages.
+Dec 31 23:18:10 :: Reading banned site and invalid-name list.
+Dec 31 23:18:10 :: Loading Ideas.
+Dec 31 23:18:10 :: Loading Bugs.
+Dec 31 23:18:10 :: Loading Typos.
+Dec 31 23:18:10 :: Deleting timed-out crash and rent files:
+Dec 31 23:18:10 ::    Done.
+Dec 31 23:18:10 :: Booting houses.
+Dec 31 23:18:10 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Dec 31 23:18:10 :: Cleaning up last log.
+Dec 31 23:18:10 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Dec 31 23:18:10 :: Resetting #1: Sanctus (rooms 100-199).
+Dec 31 23:18:10 :: Resetting #2: Sanctus II (rooms 200-299).
+Dec 31 23:18:10 :: Resetting #3: Sanctus III (rooms 300-399).
+Dec 31 23:18:10 :: Resetting #4: Jade Forest (rooms 400-499).
+Dec 31 23:18:10 :: Resetting #5: Newbie Farm (rooms 500-599).
+Dec 31 23:18:10 :: Resetting #6: Sea of Souls (rooms 600-699).
+Dec 31 23:18:10 :: Resetting #7: Camelot (rooms 700-799).
+Dec 31 23:18:10 :: Resetting #9: River Island of Minos (rooms 900-999).
+Dec 31 23:18:10 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Dec 31 23:18:10 :: Resetting #12: God Simplex (rooms 1200-1299).
+Dec 31 23:18:10 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Dec 31 23:18:10 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Dec 31 23:18:10 :: Resetting #15: Straight Path (rooms 1500-1599).
+Dec 31 23:18:10 :: Resetting #16: Camelot II (rooms 1600-1699).
+Dec 31 23:18:10 :: Resetting #17: Camelot III (rooms 1700-1799).
+Dec 31 23:18:10 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Dec 31 23:18:10 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Dec 31 23:18:10 :: Resetting #20: Arena (rooms 2000-2099).
+Dec 31 23:18:10 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Dec 31 23:18:10 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Dec 31 23:18:10 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Dec 31 23:18:10 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Dec 31 23:18:10 :: Resetting #28: Mudschool (rooms 2800-2899).
+Dec 31 23:18:10 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Dec 31 23:18:10 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Dec 31 23:18:10 :: Resetting #32: Midgaard (rooms 3200-3299).
+Dec 31 23:18:10 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Dec 31 23:18:10 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Dec 31 23:18:10 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Dec 31 23:18:10 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Dec 31 23:18:10 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Dec 31 23:18:10 :: Resetting #39: Haven (rooms 3900-3999).
+Dec 31 23:18:10 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Dec 31 23:18:10 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Dec 31 23:18:10 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Dec 31 23:18:10 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Dec 31 23:18:10 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Dec 31 23:18:10 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Dec 31 23:18:10 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Dec 31 23:18:10 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Dec 31 23:18:10 :: Resetting #51: Drow City (rooms 5100-5199).
+Dec 31 23:18:10 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Dec 31 23:18:10 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Dec 31 23:18:10 :: Resetting #54: New Thalos (rooms 5400-5499).
+Dec 31 23:18:10 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Dec 31 23:18:10 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Dec 31 23:18:10 :: Resetting #57: Zodiac (rooms 5700-5799).
+Dec 31 23:18:10 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Dec 31 23:18:10 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Dec 31 23:18:10 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Dec 31 23:18:10 :: Resetting #63: Arachnos (rooms 6300-6399).
+Dec 31 23:18:10 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Dec 31 23:18:10 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Dec 31 23:18:10 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Dec 31 23:18:10 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Dec 31 23:18:10 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Dec 31 23:18:10 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Dec 31 23:18:10 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Dec 31 23:18:10 :: Resetting #75: Zamba (rooms 7500-7599).
+Dec 31 23:18:10 :: Resetting #78: Gideon (rooms 7800-7899).
+Dec 31 23:18:10 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Dec 31 23:18:10 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Dec 31 23:18:10 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Dec 31 23:18:10 :: Resetting #90: Oasis (rooms 9000-9099).
+Dec 31 23:18:10 :: Resetting #96: Domiae (rooms 9600-9699).
+Dec 31 23:18:10 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Dec 31 23:18:10 :: Resetting #101: South Road (rooms 10100-10199).
+Dec 31 23:18:10 :: Resetting #103: DBZ World (rooms 10300-10399).
+Dec 31 23:18:10 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Dec 31 23:18:10 :: Resetting #106: Elcardo (rooms 10600-10699).
+Dec 31 23:18:10 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Dec 31 23:18:10 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Dec 31 23:18:10 :: Resetting #117: Los Torres (rooms 11700-11799).
+Dec 31 23:18:10 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Dec 31 23:18:10 :: Resetting #120: Rome (rooms 12000-12099).
+Dec 31 23:18:10 :: Resetting #125: Hannah (rooms 12500-12599).
+Dec 31 23:18:10 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Dec 31 23:18:10 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Dec 31 23:18:10 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Dec 31 23:18:10 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Dec 31 23:18:10 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Dec 31 23:18:10 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Dec 31 23:18:10 :: Resetting #187: Circus (rooms 18700-18799).
+Dec 31 23:18:10 :: Resetting #200: Western Highway (rooms 20000-20099).
+Dec 31 23:18:10 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Dec 31 23:18:10 :: Resetting #211: Tarot (rooms 21100-21199).
+Dec 31 23:18:10 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Dec 31 23:18:10 :: Resetting #232: Terringham (rooms 23200-23299).
+Dec 31 23:18:10 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Dec 31 23:18:10 :: Resetting #234: Newbie School (rooms 23400-23499).
+Dec 31 23:18:10 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Dec 31 23:18:10 :: Resetting #236: Aldin (rooms 23600-23699).
+Dec 31 23:18:10 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Dec 31 23:18:10 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Dec 31 23:18:10 :: Resetting #239: South Pass (rooms 23900-23999).
+Dec 31 23:18:10 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Dec 31 23:18:10 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Dec 31 23:18:10 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Dec 31 23:18:10 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Dec 31 23:18:10 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Dec 31 23:18:10 :: Resetting #245: The Nether (rooms 24500-24599).
+Dec 31 23:18:10 :: Resetting #246: The Nether II (rooms 24600-24699).
+Dec 31 23:18:10 :: Resetting #247: Graveyard (rooms 24700-24799).
+Dec 31 23:18:10 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Dec 31 23:18:10 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Dec 31 23:18:10 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Dec 31 23:18:10 :: Resetting #251: Ape Village (rooms 25100-25199).
+Dec 31 23:18:10 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Dec 31 23:18:10 :: Resetting #253: Windmill (rooms 25300-25399).
+Dec 31 23:18:10 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Dec 31 23:18:10 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Dec 31 23:18:10 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Dec 31 23:18:10 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Dec 31 23:18:10 :: Resetting #258: Light Forest (rooms 25800-25899).
+Dec 31 23:18:10 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Dec 31 23:18:10 :: Resetting #260: Grasslands (rooms 26000-26099).
+Dec 31 23:18:10 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Dec 31 23:18:10 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Dec 31 23:18:10 :: Resetting #263: Farmlands (rooms 26300-26399).
+Dec 31 23:18:10 :: Resetting #264: Banshide (rooms 26400-26499).
+Dec 31 23:18:10 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Dec 31 23:18:10 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Dec 31 23:18:10 :: Resetting #267: Vice Island (rooms 26700-26799).
+Dec 31 23:18:10 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Dec 31 23:18:10 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Dec 31 23:18:10 :: Resetting #270: Wasteland (rooms 27000-27099).
+Dec 31 23:18:10 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Dec 31 23:18:10 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Dec 31 23:18:10 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Dec 31 23:18:10 :: Resetting #274: Smurfville (rooms 27400-27499).
+Dec 31 23:18:10 :: Resetting #275: New Sparta (rooms 27500-27599).
+Dec 31 23:18:10 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Dec 31 23:18:10 :: Resetting #277: Shire (rooms 27700-27799).
+Dec 31 23:18:10 :: Resetting #278: Oceania (rooms 27800-27899).
+Dec 31 23:18:10 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Dec 31 23:18:10 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Dec 31 23:18:10 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Dec 31 23:18:10 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Dec 31 23:18:10 :: Resetting #283: Haunted House (rooms 28300-28399).
+Dec 31 23:18:10 :: Resetting #284: Ghenna (rooms 28400-28499).
+Dec 31 23:18:10 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Dec 31 23:18:10 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Dec 31 23:18:10 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Dec 31 23:18:10 :: Resetting #288: Galaxy (rooms 28800-28899).
+Dec 31 23:18:10 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Dec 31 23:18:10 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Dec 31 23:18:10 :: Resetting #291: Black Forest (rooms 29100-29199).
+Dec 31 23:18:10 :: Resetting #292: Kerofk (rooms 29200-29299).
+Dec 31 23:18:10 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Dec 31 23:18:10 :: Resetting #294: Trade Road (rooms 29400-29499).
+Dec 31 23:18:10 :: Resetting #295: Jungle (rooms 29500-29599).
+Dec 31 23:18:10 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Dec 31 23:18:10 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Dec 31 23:18:10 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Dec 31 23:18:10 :: Resetting #300: Ancalador (rooms 30000-30099).
+Dec 31 23:18:10 :: Resetting #301: Campus (rooms 30100-30199).
+Dec 31 23:18:10 :: Resetting #302: Campus II (rooms 30200-30299).
+Dec 31 23:18:10 :: Resetting #303: Campus III (rooms 30300-30399).
+Dec 31 23:18:10 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Dec 31 23:18:10 :: Resetting #305: Chessboard (rooms 30500-30599).
+Dec 31 23:18:10 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Dec 31 23:18:10 :: Resetting #307: Castle (rooms 30700-30799).
+Dec 31 23:18:10 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Dec 31 23:18:10 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Dec 31 23:18:10 :: Resetting #310: Graye Area (rooms 31000-31099).
+Dec 31 23:18:10 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Dec 31 23:18:10 :: Resetting #312: Leper Island (rooms 31200-31299).
+Dec 31 23:18:10 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Dec 31 23:18:10 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Dec 31 23:18:10 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Dec 31 23:18:10 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Dec 31 23:18:10 :: Resetting #317: Wharf (rooms 31700-31799).
+Dec 31 23:18:10 :: Resetting #318: Dock Area (rooms 31800-31899).
+Dec 31 23:18:10 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Dec 31 23:18:10 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Dec 31 23:18:10 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Dec 31 23:18:10 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Dec 31 23:18:10 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Dec 31 23:18:10 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Dec 31 23:18:10 :: Resetting #325: Revelry (rooms 32500-32599).
+Dec 31 23:18:10 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Dec 31 23:18:10 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Dec 31 23:18:10 :: Resetting #555: Ultima (rooms 55500-55599).
+Dec 31 23:18:10 :: Resetting #556: Ultima II (rooms 55600-55699).
+Dec 31 23:18:10 :: Resetting #653: Apartment (rooms 65300-65399).
+Dec 31 23:18:10 :: Resetting #654: Subdivision (rooms 65400-65499).
+Dec 31 23:18:10 :: Boot db -- DONE.
+Dec 31 23:18:10 :: Signal trapping.
+Dec 31 23:18:10 :: Copyover recovery initiated
+Dec 31 23:18:10 :: Dracmas un-renting and entering game.
+Dec 31 23:18:10 :: Dracmas (level 34) has 26 objects (max 30).
+Dec 31 23:18:10 :: Entering game loop.
+Dec 31 23:18:45 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:18:49 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:18:57 :: Loading configuration.
+Dec 31 23:18:57 :: tbaMUD 3.65
+Dec 31 23:18:57 :: Using lib as data directory.
+Dec 31 23:18:57 :: Running game on port 5002.
+Dec 31 23:18:57 :: Finding player limit.
+Dec 31 23:18:57 ::    Setting player limit to 300 using rlimit.
+Dec 31 23:18:57 :: Boot db -- BEGIN.
+Dec 31 23:18:57 :: Resetting the game time:
+Dec 31 23:18:57 ::    Current Gametime: 20H 24D 15M 717Y.
+Dec 31 23:18:57 :: Initialize Global Lists
+Dec 31 23:18:57 :: Initializing Events
+Dec 31 23:18:57 :: Reading news, credits, help, ihelp, bground, info & motds.
+Dec 31 23:18:57 :: Loading spell definitions.
+Dec 31 23:18:57 :: Loading zone table.
+Dec 31 23:18:57 ::    187 zones, 13464 bytes.
+Dec 31 23:18:57 :: Loading triggers and generating index.
+Dec 31 23:18:57 :: Loading rooms.
+Dec 31 23:18:57 ::    12487 rooms, 2297608 bytes.
+Dec 31 23:18:57 :: Renumbering rooms.
+Dec 31 23:18:57 :: Checking start rooms.
+Dec 31 23:18:57 :: Loading mobs and generating index.
+Dec 31 23:18:57 ::    3681 mobs, 117792 bytes in index, 2120256 bytes in prototypes.
+Dec 31 23:18:57 :: Loading objs and generating index.
+Dec 31 23:18:57 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Dec 31 23:18:57 :: Renumbering zone table.
+Dec 31 23:18:57 :: Loading shops.
+Dec 31 23:18:57 :: Loading quests.
+Dec 31 23:18:57 ::    1 entries, 128 bytes.
+Dec 31 23:18:57 :: Loading help entries.
+Dec 31 23:18:57 ::    2646 entries, 84672 bytes.
+Dec 31 23:18:57 :: Generating player index.
+Dec 31 23:18:57 :: Loading fight messages.
+Dec 31 23:18:57 :: Loaded 37 Combat Messages...
+Dec 31 23:18:57 :: Loading social messages.
+Dec 31 23:18:57 :: Social table contains 489 socials.
+Dec 31 23:18:57 :: Building command list.
+Dec 31 23:18:57 :: Command info rebuilt, 766 total commands.
+Dec 31 23:18:57 :: Assigning function pointers:
+Dec 31 23:18:57 ::    Mobiles.
+Dec 31 23:18:57 ::    Shopkeepers.
+Dec 31 23:18:57 ::    Objects.
+Dec 31 23:18:57 ::    Rooms.
+Dec 31 23:18:57 ::    Questmasters.
+Dec 31 23:18:57 :: Assigning spell and skill levels.
+Dec 31 23:18:57 :: Sorting command list and spells.
+Dec 31 23:18:57 :: Booting mail system.
+Dec 31 23:18:57 ::    Mail file read -- 0 messages.
+Dec 31 23:18:57 :: Reading banned site and invalid-name list.
+Dec 31 23:18:57 :: Loading Ideas.
+Dec 31 23:18:57 :: Loading Bugs.
+Dec 31 23:18:57 :: Loading Typos.
+Dec 31 23:18:57 :: Deleting timed-out crash and rent files:
+Dec 31 23:18:57 ::    Done.
+Dec 31 23:18:57 :: Booting houses.
+Dec 31 23:18:57 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Dec 31 23:18:57 :: Cleaning up last log.
+Dec 31 23:18:57 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Dec 31 23:18:57 :: Resetting #1: Sanctus (rooms 100-199).
+Dec 31 23:18:57 :: Resetting #2: Sanctus II (rooms 200-299).
+Dec 31 23:18:57 :: Resetting #3: Sanctus III (rooms 300-399).
+Dec 31 23:18:57 :: Resetting #4: Jade Forest (rooms 400-499).
+Dec 31 23:18:57 :: Resetting #5: Newbie Farm (rooms 500-599).
+Dec 31 23:18:57 :: Resetting #6: Sea of Souls (rooms 600-699).
+Dec 31 23:18:57 :: Resetting #7: Camelot (rooms 700-799).
+Dec 31 23:18:57 :: Resetting #9: River Island of Minos (rooms 900-999).
+Dec 31 23:18:57 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Dec 31 23:18:57 :: Resetting #12: God Simplex (rooms 1200-1299).
+Dec 31 23:18:57 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Dec 31 23:18:57 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Dec 31 23:18:57 :: Resetting #15: Straight Path (rooms 1500-1599).
+Dec 31 23:18:57 :: Resetting #16: Camelot II (rooms 1600-1699).
+Dec 31 23:18:57 :: Resetting #17: Camelot III (rooms 1700-1799).
+Dec 31 23:18:57 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Dec 31 23:18:57 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Dec 31 23:18:57 :: Resetting #20: Arena (rooms 2000-2099).
+Dec 31 23:18:57 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Dec 31 23:18:57 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Dec 31 23:18:57 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Dec 31 23:18:57 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Dec 31 23:18:57 :: Resetting #28: Mudschool (rooms 2800-2899).
+Dec 31 23:18:57 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Dec 31 23:18:57 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Dec 31 23:18:57 :: Resetting #32: Midgaard (rooms 3200-3299).
+Dec 31 23:18:57 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Dec 31 23:18:57 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Dec 31 23:18:57 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Dec 31 23:18:57 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Dec 31 23:18:57 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Dec 31 23:18:57 :: Resetting #39: Haven (rooms 3900-3999).
+Dec 31 23:18:57 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Dec 31 23:18:57 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Dec 31 23:18:57 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Dec 31 23:18:57 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Dec 31 23:18:57 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Dec 31 23:18:57 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Dec 31 23:18:57 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Dec 31 23:18:57 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Dec 31 23:18:57 :: Resetting #51: Drow City (rooms 5100-5199).
+Dec 31 23:18:57 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Dec 31 23:18:57 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Dec 31 23:18:57 :: Resetting #54: New Thalos (rooms 5400-5499).
+Dec 31 23:18:57 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Dec 31 23:18:57 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Dec 31 23:18:57 :: Resetting #57: Zodiac (rooms 5700-5799).
+Dec 31 23:18:57 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Dec 31 23:18:57 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Dec 31 23:18:57 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Dec 31 23:18:57 :: Resetting #63: Arachnos (rooms 6300-6399).
+Dec 31 23:18:57 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Dec 31 23:18:57 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Dec 31 23:18:57 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Dec 31 23:18:57 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Dec 31 23:18:57 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Dec 31 23:18:57 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Dec 31 23:18:57 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Dec 31 23:18:57 :: Resetting #75: Zamba (rooms 7500-7599).
+Dec 31 23:18:57 :: Resetting #78: Gideon (rooms 7800-7899).
+Dec 31 23:18:57 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Dec 31 23:18:57 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Dec 31 23:18:57 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Dec 31 23:18:57 :: Resetting #90: Oasis (rooms 9000-9099).
+Dec 31 23:18:57 :: Resetting #96: Domiae (rooms 9600-9699).
+Dec 31 23:18:57 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Dec 31 23:18:57 :: Resetting #101: South Road (rooms 10100-10199).
+Dec 31 23:18:57 :: Resetting #103: DBZ World (rooms 10300-10399).
+Dec 31 23:18:57 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Dec 31 23:18:57 :: Resetting #106: Elcardo (rooms 10600-10699).
+Dec 31 23:18:57 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Dec 31 23:18:57 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Dec 31 23:18:57 :: Resetting #117: Los Torres (rooms 11700-11799).
+Dec 31 23:18:57 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Dec 31 23:18:57 :: Resetting #120: Rome (rooms 12000-12099).
+Dec 31 23:18:57 :: Resetting #125: Hannah (rooms 12500-12599).
+Dec 31 23:18:57 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Dec 31 23:18:57 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Dec 31 23:18:57 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Dec 31 23:18:57 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Dec 31 23:18:57 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Dec 31 23:18:57 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Dec 31 23:18:57 :: Resetting #187: Circus (rooms 18700-18799).
+Dec 31 23:18:57 :: Resetting #200: Western Highway (rooms 20000-20099).
+Dec 31 23:18:57 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Dec 31 23:18:57 :: Resetting #211: Tarot (rooms 21100-21199).
+Dec 31 23:18:57 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Dec 31 23:18:57 :: Resetting #232: Terringham (rooms 23200-23299).
+Dec 31 23:18:57 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Dec 31 23:18:57 :: Resetting #234: Newbie School (rooms 23400-23499).
+Dec 31 23:18:57 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Dec 31 23:18:57 :: Resetting #236: Aldin (rooms 23600-23699).
+Dec 31 23:18:57 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Dec 31 23:18:57 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Dec 31 23:18:57 :: Resetting #239: South Pass (rooms 23900-23999).
+Dec 31 23:18:57 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Dec 31 23:18:57 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Dec 31 23:18:57 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Dec 31 23:18:57 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Dec 31 23:18:57 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Dec 31 23:18:57 :: Resetting #245: The Nether (rooms 24500-24599).
+Dec 31 23:18:57 :: Resetting #246: The Nether II (rooms 24600-24699).
+Dec 31 23:18:57 :: Resetting #247: Graveyard (rooms 24700-24799).
+Dec 31 23:18:57 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Dec 31 23:18:57 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Dec 31 23:18:57 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Dec 31 23:18:57 :: Resetting #251: Ape Village (rooms 25100-25199).
+Dec 31 23:18:57 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Dec 31 23:18:57 :: Resetting #253: Windmill (rooms 25300-25399).
+Dec 31 23:18:57 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Dec 31 23:18:57 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Dec 31 23:18:57 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Dec 31 23:18:57 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Dec 31 23:18:57 :: Resetting #258: Light Forest (rooms 25800-25899).
+Dec 31 23:18:57 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Dec 31 23:18:57 :: Resetting #260: Grasslands (rooms 26000-26099).
+Dec 31 23:18:57 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Dec 31 23:18:58 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Dec 31 23:18:58 :: Resetting #263: Farmlands (rooms 26300-26399).
+Dec 31 23:18:58 :: Resetting #264: Banshide (rooms 26400-26499).
+Dec 31 23:18:58 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Dec 31 23:18:58 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Dec 31 23:18:58 :: Resetting #267: Vice Island (rooms 26700-26799).
+Dec 31 23:18:58 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Dec 31 23:18:58 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Dec 31 23:18:58 :: Resetting #270: Wasteland (rooms 27000-27099).
+Dec 31 23:18:58 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Dec 31 23:18:58 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Dec 31 23:18:58 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Dec 31 23:18:58 :: Resetting #274: Smurfville (rooms 27400-27499).
+Dec 31 23:18:58 :: Resetting #275: New Sparta (rooms 27500-27599).
+Dec 31 23:18:58 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Dec 31 23:18:58 :: Resetting #277: Shire (rooms 27700-27799).
+Dec 31 23:18:58 :: Resetting #278: Oceania (rooms 27800-27899).
+Dec 31 23:18:58 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Dec 31 23:18:58 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Dec 31 23:18:58 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Dec 31 23:18:58 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Dec 31 23:18:58 :: Resetting #283: Haunted House (rooms 28300-28399).
+Dec 31 23:18:58 :: Resetting #284: Ghenna (rooms 28400-28499).
+Dec 31 23:18:58 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Dec 31 23:18:58 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Dec 31 23:18:58 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Dec 31 23:18:58 :: Resetting #288: Galaxy (rooms 28800-28899).
+Dec 31 23:18:58 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Dec 31 23:18:58 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Dec 31 23:18:58 :: Resetting #291: Black Forest (rooms 29100-29199).
+Dec 31 23:18:58 :: Resetting #292: Kerofk (rooms 29200-29299).
+Dec 31 23:18:58 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Dec 31 23:18:58 :: Resetting #294: Trade Road (rooms 29400-29499).
+Dec 31 23:18:58 :: Resetting #295: Jungle (rooms 29500-29599).
+Dec 31 23:18:58 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Dec 31 23:18:58 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Dec 31 23:18:58 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Dec 31 23:18:58 :: Resetting #300: Ancalador (rooms 30000-30099).
+Dec 31 23:18:58 :: Resetting #301: Campus (rooms 30100-30199).
+Dec 31 23:18:58 :: Resetting #302: Campus II (rooms 30200-30299).
+Dec 31 23:18:58 :: Resetting #303: Campus III (rooms 30300-30399).
+Dec 31 23:18:58 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Dec 31 23:18:58 :: Resetting #305: Chessboard (rooms 30500-30599).
+Dec 31 23:18:58 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Dec 31 23:18:58 :: Resetting #307: Castle (rooms 30700-30799).
+Dec 31 23:18:58 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Dec 31 23:18:58 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Dec 31 23:18:58 :: Resetting #310: Graye Area (rooms 31000-31099).
+Dec 31 23:18:58 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Dec 31 23:18:58 :: Resetting #312: Leper Island (rooms 31200-31299).
+Dec 31 23:18:58 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Dec 31 23:18:58 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Dec 31 23:18:58 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Dec 31 23:18:58 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Dec 31 23:18:58 :: Resetting #317: Wharf (rooms 31700-31799).
+Dec 31 23:18:58 :: Resetting #318: Dock Area (rooms 31800-31899).
+Dec 31 23:18:58 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Dec 31 23:18:58 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Dec 31 23:18:58 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Dec 31 23:18:58 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Dec 31 23:18:58 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Dec 31 23:18:58 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Dec 31 23:18:58 :: Resetting #325: Revelry (rooms 32500-32599).
+Dec 31 23:18:58 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Dec 31 23:18:58 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Dec 31 23:18:58 :: Resetting #555: Ultima (rooms 55500-55599).
+Dec 31 23:18:58 :: Resetting #556: Ultima II (rooms 55600-55699).
+Dec 31 23:18:58 :: Resetting #653: Apartment (rooms 65300-65399).
+Dec 31 23:18:58 :: Resetting #654: Subdivision (rooms 65400-65499).
+Dec 31 23:18:58 :: Boot db -- DONE.
+Dec 31 23:18:58 :: Signal trapping.
+Dec 31 23:18:58 :: Copyover recovery initiated
+Dec 31 23:18:58 :: Dracmas un-renting and entering game.
+Dec 31 23:18:58 :: Dracmas (level 34) has 26 objects (max 30).
+Dec 31 23:18:58 :: Entering game loop.
+Dec 31 23:19:01 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:19:49 :: GenOLC: add_room: Updated existing room #2816.
+Dec 31 23:19:49 :: OLC: Dracmas edits room 2816.
+Dec 31 23:19:49 :: GenOLC: save_rooms: Saving rooms in zone #28 (2800-2899).
+Dec 31 23:19:49 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:19:58 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:20:35 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:20:35 :: OLC: Dracmas edits mob 2804
+Dec 31 23:20:35 :: GenOLC: 'world/mob/28.mob' saved, 1820 bytes written.
+Dec 31 23:20:35 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:22:12 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:22:39 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:22:39 :: OLC: Dracmas edits mob 2804
+Dec 31 23:22:39 :: GenOLC: 'world/mob/28.mob' saved, 1820 bytes written.
+Dec 31 23:22:39 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:22:41 :: Loading configuration.
+Dec 31 23:22:41 :: tbaMUD 3.65
+Dec 31 23:22:41 :: Using lib as data directory.
+Dec 31 23:22:41 :: Running game on port 5002.
+Dec 31 23:22:41 :: Finding player limit.
+Dec 31 23:22:41 ::    Setting player limit to 300 using rlimit.
+Dec 31 23:22:41 :: Boot db -- BEGIN.
+Dec 31 23:22:41 :: Resetting the game time:
+Dec 31 23:22:41 ::    Current Gametime: 23H 24D 15M 717Y.
+Dec 31 23:22:41 :: Initialize Global Lists
+Dec 31 23:22:41 :: Initializing Events
+Dec 31 23:22:41 :: Reading news, credits, help, ihelp, bground, info & motds.
+Dec 31 23:22:41 :: Loading spell definitions.
+Dec 31 23:22:41 :: Loading zone table.
+Dec 31 23:22:41 ::    187 zones, 13464 bytes.
+Dec 31 23:22:41 :: Loading triggers and generating index.
+Dec 31 23:22:41 :: Loading rooms.
+Dec 31 23:22:41 ::    12487 rooms, 2297608 bytes.
+Dec 31 23:22:41 :: Renumbering rooms.
+Dec 31 23:22:41 :: Checking start rooms.
+Dec 31 23:22:41 :: Loading mobs and generating index.
+Dec 31 23:22:41 ::    3681 mobs, 117792 bytes in index, 2120256 bytes in prototypes.
+Dec 31 23:22:41 :: Loading objs and generating index.
+Dec 31 23:22:41 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Dec 31 23:22:41 :: Renumbering zone table.
+Dec 31 23:22:41 :: Loading shops.
+Dec 31 23:22:41 :: Loading quests.
+Dec 31 23:22:41 ::    1 entries, 128 bytes.
+Dec 31 23:22:41 :: Loading help entries.
+Dec 31 23:22:41 ::    2646 entries, 84672 bytes.
+Dec 31 23:22:41 :: Generating player index.
+Dec 31 23:22:41 :: Loading fight messages.
+Dec 31 23:22:41 :: Loaded 37 Combat Messages...
+Dec 31 23:22:41 :: Loading social messages.
+Dec 31 23:22:41 :: Social table contains 489 socials.
+Dec 31 23:22:41 :: Building command list.
+Dec 31 23:22:41 :: Command info rebuilt, 766 total commands.
+Dec 31 23:22:41 :: Assigning function pointers:
+Dec 31 23:22:41 ::    Mobiles.
+Dec 31 23:22:41 ::    Shopkeepers.
+Dec 31 23:22:41 ::    Objects.
+Dec 31 23:22:41 ::    Rooms.
+Dec 31 23:22:41 ::    Questmasters.
+Dec 31 23:22:41 :: Assigning spell and skill levels.
+Dec 31 23:22:41 :: Sorting command list and spells.
+Dec 31 23:22:41 :: Booting mail system.
+Dec 31 23:22:41 ::    Mail file read -- 0 messages.
+Dec 31 23:22:41 :: Reading banned site and invalid-name list.
+Dec 31 23:22:41 :: Loading Ideas.
+Dec 31 23:22:41 :: Loading Bugs.
+Dec 31 23:22:41 :: Loading Typos.
+Dec 31 23:22:41 :: Deleting timed-out crash and rent files:
+Dec 31 23:22:41 ::    Done.
+Dec 31 23:22:41 :: Booting houses.
+Dec 31 23:22:41 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Dec 31 23:22:41 :: Cleaning up last log.
+Dec 31 23:22:41 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Dec 31 23:22:41 :: Resetting #1: Sanctus (rooms 100-199).
+Dec 31 23:22:41 :: Resetting #2: Sanctus II (rooms 200-299).
+Dec 31 23:22:41 :: Resetting #3: Sanctus III (rooms 300-399).
+Dec 31 23:22:41 :: Resetting #4: Jade Forest (rooms 400-499).
+Dec 31 23:22:41 :: Resetting #5: Newbie Farm (rooms 500-599).
+Dec 31 23:22:41 :: Resetting #6: Sea of Souls (rooms 600-699).
+Dec 31 23:22:41 :: Resetting #7: Camelot (rooms 700-799).
+Dec 31 23:22:41 :: Resetting #9: River Island of Minos (rooms 900-999).
+Dec 31 23:22:41 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Dec 31 23:22:41 :: Resetting #12: God Simplex (rooms 1200-1299).
+Dec 31 23:22:41 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Dec 31 23:22:41 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Dec 31 23:22:41 :: Resetting #15: Straight Path (rooms 1500-1599).
+Dec 31 23:22:41 :: Resetting #16: Camelot II (rooms 1600-1699).
+Dec 31 23:22:41 :: Resetting #17: Camelot III (rooms 1700-1799).
+Dec 31 23:22:41 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Dec 31 23:22:41 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Dec 31 23:22:41 :: Resetting #20: Arena (rooms 2000-2099).
+Dec 31 23:22:41 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Dec 31 23:22:41 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Dec 31 23:22:41 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Dec 31 23:22:41 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Dec 31 23:22:41 :: Resetting #28: Mudschool (rooms 2800-2899).
+Dec 31 23:22:41 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Dec 31 23:22:41 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Dec 31 23:22:41 :: Resetting #32: Midgaard (rooms 3200-3299).
+Dec 31 23:22:41 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Dec 31 23:22:41 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Dec 31 23:22:41 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Dec 31 23:22:41 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Dec 31 23:22:41 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Dec 31 23:22:41 :: Resetting #39: Haven (rooms 3900-3999).
+Dec 31 23:22:41 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Dec 31 23:22:41 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Dec 31 23:22:41 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Dec 31 23:22:41 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Dec 31 23:22:41 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Dec 31 23:22:41 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Dec 31 23:22:41 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Dec 31 23:22:41 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Dec 31 23:22:41 :: Resetting #51: Drow City (rooms 5100-5199).
+Dec 31 23:22:41 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Dec 31 23:22:41 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Dec 31 23:22:41 :: Resetting #54: New Thalos (rooms 5400-5499).
+Dec 31 23:22:41 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Dec 31 23:22:41 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Dec 31 23:22:41 :: Resetting #57: Zodiac (rooms 5700-5799).
+Dec 31 23:22:41 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Dec 31 23:22:41 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Dec 31 23:22:41 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Dec 31 23:22:41 :: Resetting #63: Arachnos (rooms 6300-6399).
+Dec 31 23:22:41 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Dec 31 23:22:41 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Dec 31 23:22:41 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Dec 31 23:22:41 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Dec 31 23:22:41 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Dec 31 23:22:41 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Dec 31 23:22:41 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Dec 31 23:22:41 :: Resetting #75: Zamba (rooms 7500-7599).
+Dec 31 23:22:41 :: Resetting #78: Gideon (rooms 7800-7899).
+Dec 31 23:22:41 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Dec 31 23:22:41 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Dec 31 23:22:41 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Dec 31 23:22:41 :: Resetting #90: Oasis (rooms 9000-9099).
+Dec 31 23:22:41 :: Resetting #96: Domiae (rooms 9600-9699).
+Dec 31 23:22:41 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Dec 31 23:22:41 :: Resetting #101: South Road (rooms 10100-10199).
+Dec 31 23:22:41 :: Resetting #103: DBZ World (rooms 10300-10399).
+Dec 31 23:22:41 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Dec 31 23:22:41 :: Resetting #106: Elcardo (rooms 10600-10699).
+Dec 31 23:22:41 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Dec 31 23:22:41 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Dec 31 23:22:41 :: Resetting #117: Los Torres (rooms 11700-11799).
+Dec 31 23:22:41 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Dec 31 23:22:41 :: Resetting #120: Rome (rooms 12000-12099).
+Dec 31 23:22:41 :: Resetting #125: Hannah (rooms 12500-12599).
+Dec 31 23:22:41 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Dec 31 23:22:41 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Dec 31 23:22:41 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Dec 31 23:22:41 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Dec 31 23:22:41 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Dec 31 23:22:41 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Dec 31 23:22:41 :: Resetting #187: Circus (rooms 18700-18799).
+Dec 31 23:22:41 :: Resetting #200: Western Highway (rooms 20000-20099).
+Dec 31 23:22:41 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Dec 31 23:22:41 :: Resetting #211: Tarot (rooms 21100-21199).
+Dec 31 23:22:41 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Dec 31 23:22:41 :: Resetting #232: Terringham (rooms 23200-23299).
+Dec 31 23:22:41 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Dec 31 23:22:41 :: Resetting #234: Newbie School (rooms 23400-23499).
+Dec 31 23:22:41 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Dec 31 23:22:41 :: Resetting #236: Aldin (rooms 23600-23699).
+Dec 31 23:22:41 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Dec 31 23:22:41 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Dec 31 23:22:41 :: Resetting #239: South Pass (rooms 23900-23999).
+Dec 31 23:22:41 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Dec 31 23:22:41 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Dec 31 23:22:41 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Dec 31 23:22:41 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Dec 31 23:22:41 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Dec 31 23:22:41 :: Resetting #245: The Nether (rooms 24500-24599).
+Dec 31 23:22:41 :: Resetting #246: The Nether II (rooms 24600-24699).
+Dec 31 23:22:41 :: Resetting #247: Graveyard (rooms 24700-24799).
+Dec 31 23:22:41 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Dec 31 23:22:41 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Dec 31 23:22:41 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Dec 31 23:22:41 :: Resetting #251: Ape Village (rooms 25100-25199).
+Dec 31 23:22:41 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Dec 31 23:22:41 :: Resetting #253: Windmill (rooms 25300-25399).
+Dec 31 23:22:41 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Dec 31 23:22:41 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Dec 31 23:22:41 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Dec 31 23:22:41 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Dec 31 23:22:41 :: Resetting #258: Light Forest (rooms 25800-25899).
+Dec 31 23:22:41 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Dec 31 23:22:41 :: Resetting #260: Grasslands (rooms 26000-26099).
+Dec 31 23:22:41 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Dec 31 23:22:41 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Dec 31 23:22:41 :: Resetting #263: Farmlands (rooms 26300-26399).
+Dec 31 23:22:41 :: Resetting #264: Banshide (rooms 26400-26499).
+Dec 31 23:22:41 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Dec 31 23:22:41 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Dec 31 23:22:41 :: Resetting #267: Vice Island (rooms 26700-26799).
+Dec 31 23:22:41 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Dec 31 23:22:41 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Dec 31 23:22:41 :: Resetting #270: Wasteland (rooms 27000-27099).
+Dec 31 23:22:41 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Dec 31 23:22:41 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Dec 31 23:22:41 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Dec 31 23:22:41 :: Resetting #274: Smurfville (rooms 27400-27499).
+Dec 31 23:22:41 :: Resetting #275: New Sparta (rooms 27500-27599).
+Dec 31 23:22:41 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Dec 31 23:22:41 :: Resetting #277: Shire (rooms 27700-27799).
+Dec 31 23:22:41 :: Resetting #278: Oceania (rooms 27800-27899).
+Dec 31 23:22:41 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Dec 31 23:22:41 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Dec 31 23:22:41 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Dec 31 23:22:41 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Dec 31 23:22:41 :: Resetting #283: Haunted House (rooms 28300-28399).
+Dec 31 23:22:41 :: Resetting #284: Ghenna (rooms 28400-28499).
+Dec 31 23:22:41 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Dec 31 23:22:41 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Dec 31 23:22:41 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Dec 31 23:22:41 :: Resetting #288: Galaxy (rooms 28800-28899).
+Dec 31 23:22:41 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Dec 31 23:22:41 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Dec 31 23:22:41 :: Resetting #291: Black Forest (rooms 29100-29199).
+Dec 31 23:22:41 :: Resetting #292: Kerofk (rooms 29200-29299).
+Dec 31 23:22:41 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Dec 31 23:22:41 :: Resetting #294: Trade Road (rooms 29400-29499).
+Dec 31 23:22:41 :: Resetting #295: Jungle (rooms 29500-29599).
+Dec 31 23:22:41 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Dec 31 23:22:41 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Dec 31 23:22:41 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Dec 31 23:22:41 :: Resetting #300: Ancalador (rooms 30000-30099).
+Dec 31 23:22:41 :: Resetting #301: Campus (rooms 30100-30199).
+Dec 31 23:22:41 :: Resetting #302: Campus II (rooms 30200-30299).
+Dec 31 23:22:41 :: Resetting #303: Campus III (rooms 30300-30399).
+Dec 31 23:22:41 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Dec 31 23:22:41 :: Resetting #305: Chessboard (rooms 30500-30599).
+Dec 31 23:22:41 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Dec 31 23:22:41 :: Resetting #307: Castle (rooms 30700-30799).
+Dec 31 23:22:41 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Dec 31 23:22:41 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Dec 31 23:22:41 :: Resetting #310: Graye Area (rooms 31000-31099).
+Dec 31 23:22:41 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Dec 31 23:22:41 :: Resetting #312: Leper Island (rooms 31200-31299).
+Dec 31 23:22:41 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Dec 31 23:22:41 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Dec 31 23:22:41 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Dec 31 23:22:41 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Dec 31 23:22:41 :: Resetting #317: Wharf (rooms 31700-31799).
+Dec 31 23:22:41 :: Resetting #318: Dock Area (rooms 31800-31899).
+Dec 31 23:22:41 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Dec 31 23:22:41 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Dec 31 23:22:41 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Dec 31 23:22:41 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Dec 31 23:22:41 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Dec 31 23:22:41 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Dec 31 23:22:41 :: Resetting #325: Revelry (rooms 32500-32599).
+Dec 31 23:22:41 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Dec 31 23:22:41 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Dec 31 23:22:41 :: Resetting #555: Ultima (rooms 55500-55599).
+Dec 31 23:22:41 :: Resetting #556: Ultima II (rooms 55600-55699).
+Dec 31 23:22:41 :: Resetting #653: Apartment (rooms 65300-65399).
+Dec 31 23:22:41 :: Resetting #654: Subdivision (rooms 65400-65499).
+Dec 31 23:22:41 :: Boot db -- DONE.
+Dec 31 23:22:41 :: Signal trapping.
+Dec 31 23:22:41 :: Copyover recovery initiated
+Dec 31 23:22:41 :: Dracmas un-renting and entering game.
+Dec 31 23:22:41 :: Dracmas (level 34) has 26 objects (max 30).
+Dec 31 23:22:41 :: Entering game loop.
+Dec 31 23:22:47 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:22:50 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:23:09 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:23:32 :: GenOLC: add_mobile: Added mobile 2814 at index #630.
+Dec 31 23:23:32 :: OLC: Dracmas edits mob 2814
+Dec 31 23:23:32 :: GenOLC: 'world/mob/28.mob' saved, 1971 bytes written.
+Dec 31 23:23:32 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:24:13 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:24:16 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:24:27 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:24:43 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:24:47 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:24:56 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:25:00 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:26:06 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:26:06 :: OLC: Dracmas edits mob 2804
+Dec 31 23:26:06 :: GenOLC: 'world/mob/28.mob' saved, 1978 bytes written.
+Dec 31 23:26:06 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:26:38 :: Dracmas tried to get help on mobedit-menu
+Dec 31 23:26:58 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:27:07 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:27:12 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Dec 31 23:27:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:27:55 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Dec 31 23:27:55 :: OLC: Dracmas edits mob 2804
+Dec 31 23:27:55 :: GenOLC: 'world/mob/28.mob' saved, 1959 bytes written.
+Dec 31 23:27:55 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:28:49 :: (GC) Dracmas forced Chronos to ask are you new here?
+Dec 31 23:28:58 :: (GC) Dracmas forced Chronos to say are you new here?
+Dec 31 23:32:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:33:31 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Dec 31 23:34:23 :: OLC: Dracmas stops editing zone 28 allowed zone 0

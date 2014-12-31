@@ -56,4 +56,32 @@ Maybe he shouldn't have slept through Mud School...Yikes!
 8 8 1
 E
 T 2800
+#2804
+chronos wizard~
+Chronos~
+Chronos is watching over Emperia.
+~
+Little is known about Chronos, the Wizard of time.  Thousands of years ago he
+disappeared believing that the world was taken care of, only to find Thera up in
+flames.  In anguish, Chronos reversed time to before he left and dealt swift
+justice to those that destroyed his creations.  He made a vow to never leave
+Emperia unguarded ever again.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+E
+#2814
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
 $
