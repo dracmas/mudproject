@@ -1087,6 +1087,12 @@ new trigger~
 ~
 * Unfinished
 ~
+#1223
+Keep Alive AFK trigger~
+2 b 10
+~
+%send% %actor% @n
+~
 #1233
 Rumble's Test Trigger~
 2 q 100

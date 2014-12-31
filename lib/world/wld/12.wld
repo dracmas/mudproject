@@ -215,6 +215,7 @@ D1
 ~
 0 0 1207
 S
+T 1223
 #1212
 Moses' Hangout~
    You see here a cozy little room with a fireplace.  You can tell it is Moses'
@@ -228,6 +229,7 @@ D0
 ~
 0 0 1207
 S
+T 1223
 #1213
 The Entrance of Valhalla~
    The huge ornate entrance of Valhalla is before you.  It seems as though
@@ -284,6 +286,7 @@ D2
 ~
 0 0 1207
 S
+T 1223
 #1216
 Valhalla~
    You are standing in the halls of Valhalla.  Pictures of Odin, Thor, Tyr,
@@ -324,13 +327,13 @@ D2
 ~
 3 0 1216
 E
-clutter~
-You notice Jimmy Hoffa's ring.
-~
-E
 component components scroll scrolls braziers brazier tool tools~
 It's all worth a fortune, but you'd better not touch it.  Alander keeps
 inventory and holds grudges.
+~
+E
+clutter~
+You notice Jimmy Hoffa's ring.
 ~
 S
 #1218
@@ -365,70 +368,44 @@ D2
 ~
 3 0 1214
 E
-yeat yeats~
-The page it is flipped open to reads:
-
-A sudden blow: the great wings beating still
-Above the staggering girl, her thighs carressed
-By the dark webs, her nape caught in his bill,
-he holds her helpless breast upon his breast.
-How can those terrified vague fingers push
-The feathered glory from her loosening thighs?
-And how can body, laid in that white rush,
-But feel that strange heart beating where it lies?
-A shudder in the loins engenders there
-The broken wall, the burning roof and tower
-And Agammemnon dead.  Being so caught up,
-So mastered by this brute blood of the air,
-Did she put on his knowledge with his power
-Before his indifferent beak could let her drop?
+stark black mountains mountain wine-dark wine dark sea~
+The ocean is constantly smashing up against the cliffs and rending
+huge slabs from it.  The beach is scarcely a beach at all, more a
+collection of rough flakes varying in size from a small car to a
+small fist.  As the water comes up over the rocks and ebbs back
+down, it filters through the spaces and makes an unnerving rattling
+sound.
 ~
 E
-tennyson~
-"My mariners
-
-Souls that have toiled, and wrought, and thought with me -
-The ever with a frolic welcome took
-The thunder and the sunshine, and opposed
-Free hearts, free foreheads - you and I are old
-Old age hath yet his honour and the toil
-Death closes all
-but something ere the end,
-Some work of noble note, may yet be done,
-Not unbecoming of men that strove with the gods.
-The lights begin to twinkle from the rocks
-The long day wanes
-the slow moon climbs
-the deep
-Moans round with many voices."
+rosewood chair~
+It looks comfortable, and the cushions are ivory velvet.
 ~
 E
-chandler~
-She has just started the Lady in the Lake:
+well-creased printout creased poem~
+This page has been read over so many times that you can barely discern
+the words, and in fact with much poring only the following becomes
+clear:
 
-Gillerain Regal, the Champagne of Perfumes.  It was definitely
-the stuff to get.  One drop of that in the hollow of your
-throat and the matched pink pearls started falling off you like
-summer rain.
+'I know that I am studly - Heck, I'm sexy, cute and cuddly
+And I know that I'm extremely modest too.'
 ~
 E
-barrie~
-A copy of Peter Pan is opened near the end:
-
-What sort of form was Hook showing?  Misguided man though he
-was, we may be glad, without sympathising with him, that in
-the end he stayed true to the traditions of his race.  The
-other boys were flying about him now, flouting, scornful
- and
-as he staggered about the deck striking at them impotently, his
-mind was no longer with them
- it was slouching in the playing
-fields of long ago, or being sent up for good, or watching
-the wall-game from a famous wall.  And his shoes were right,
-and his waistcoat was right, and his tie was right, and his
-socks were right.
-
-James Hook, thou not wholly unheroic figure, farewell.
+balcony~
+Climbing white roses have swarmed over the original marble to obscure
+it almost completely.  The air is sweet not with roses, though,
+but with Satin's sandalwood perfume.
+~
+E
+dusty leather-bound Donne leather bound~
+`Cruel and sudden, hast thou since
+Purpled thy nail in blood of innocence?
+Wherein could this flea guilty be,
+Except in the drop it sucked from thee?
+Yet thou trimph'st and say'st that thou
+Find'st not thyself, nor me the weaker now
+'Tis true, then learn how false fears be:
+Just so much honour when thou yield'st to me
+Will waste as this flea's death took life from thee.'
 ~
 E
 battered paperback de laclos~
@@ -455,44 +432,70 @@ without regret.  I shall come back perhaps.  Such is life.
 It is not my fault.
 ~
 E
-dusty leather-bound Donne leather bound~
-`Cruel and sudden, hast thou since
-Purpled thy nail in blood of innocence?
-Wherein could this flea guilty be,
-Except in the drop it sucked from thee?
-Yet thou trimph'st and say'st that thou
-Find'st not thyself, nor me the weaker now
-'Tis true, then learn how false fears be:
-Just so much honour when thou yield'st to me
-Will waste as this flea's death took life from thee.'
-~
-E
-balcony~
-Climbing white roses have swarmed over the original marble to obscure
-it almost completely.  The air is sweet not with roses, though,
-but with Satin's sandalwood perfume.
-~
-E
-well-creased printout creased poem~
-This page has been read over so many times that you can barely discern
-the words, and in fact with much poring only the following becomes
-clear:
+barrie~
+A copy of Peter Pan is opened near the end:
 
-'I know that I am studly - Heck, I'm sexy, cute and cuddly
-And I know that I'm extremely modest too.'
+What sort of form was Hook showing?  Misguided man though he
+was, we may be glad, without sympathising with him, that in
+the end he stayed true to the traditions of his race.  The
+other boys were flying about him now, flouting, scornful
+ and
+as he staggered about the deck striking at them impotently, his
+mind was no longer with them
+ it was slouching in the playing
+fields of long ago, or being sent up for good, or watching
+the wall-game from a famous wall.  And his shoes were right,
+and his waistcoat was right, and his tie was right, and his
+socks were right.
+
+James Hook, thou not wholly unheroic figure, farewell.
 ~
 E
-rosewood chair~
-It looks comfortable, and the cushions are ivory velvet.
+chandler~
+She has just started the Lady in the Lake:
+
+Gillerain Regal, the Champagne of Perfumes.  It was definitely
+the stuff to get.  One drop of that in the hollow of your
+throat and the matched pink pearls started falling off you like
+summer rain.
 ~
 E
-stark black mountains mountain wine-dark wine dark sea~
-The ocean is constantly smashing up against the cliffs and rending
-huge slabs from it.  The beach is scarcely a beach at all, more a
-collection of rough flakes varying in size from a small car to a
-small fist.  As the water comes up over the rocks and ebbs back
-down, it filters through the spaces and makes an unnerving rattling
-sound.
+tennyson~
+"My mariners
+
+Souls that have toiled, and wrought, and thought with me -
+The ever with a frolic welcome took
+The thunder and the sunshine, and opposed
+Free hearts, free foreheads - you and I are old
+Old age hath yet his honour and the toil
+Death closes all
+but something ere the end,
+Some work of noble note, may yet be done,
+Not unbecoming of men that strove with the gods.
+The lights begin to twinkle from the rocks
+The long day wanes
+the slow moon climbs
+the deep
+Moans round with many voices."
+~
+E
+yeat yeats~
+The page it is flipped open to reads:
+
+A sudden blow: the great wings beating still
+Above the staggering girl, her thighs carressed
+By the dark webs, her nape caught in his bill,
+he holds her helpless breast upon his breast.
+How can those terrified vague fingers push
+The feathered glory from her loosening thighs?
+And how can body, laid in that white rush,
+But feel that strange heart beating where it lies?
+A shudder in the loins engenders there
+The broken wall, the burning roof and tower
+And Agammemnon dead.  Being so caught up,
+So mastered by this brute blood of the air,
+Did she put on his knowledge with his power
+Before his indifferent beak could let her drop?
 ~
 S
 #1220
@@ -509,12 +512,10 @@ D0
 ~
 3 0 1214
 E
-desk~
-This desk is much larger than anyone could possibly need.
-At one end you notice a large, disorderly mess of papers.
-It must be all his immortal paperwork. At the other end
-is a magnificent wooden inlaid board with handcrafted
-ebony and hardwood pieces.
+statue~
+You recognize this as a statue of Robert James Fischer, one of the most
+creative, if not eccentric, players of all time.  The inscription on the
+base reads, "I like the moment when I crush a man's ego."
 ~
 E
 bookshelf~
@@ -523,10 +524,12 @@ Everything from Damiano's manuscripts, to a complete collection of the
 Encyclopedia of Chess Openings, to the latest Imformants are all here.
 ~
 E
-statue~
-You recognize this as a statue of Robert James Fischer, one of the most
-creative, if not eccentric, players of all time.  The inscription on the
-base reads, "I like the moment when I crush a man's ego."
+desk~
+This desk is much larger than anyone could possibly need.
+At one end you notice a large, disorderly mess of papers.
+It must be all his immortal paperwork. At the other end
+is a magnificent wooden inlaid board with handcrafted
+ebony and hardwood pieces.
 ~
 S
 #1221
