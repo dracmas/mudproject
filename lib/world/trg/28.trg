@@ -1,7 +1,7 @@
 #2800
 mudschool guard~
-0 q 100
-~
+3 q 100
+1~
 if %direction% == north
   if %actor.level% > 5
     %send% %actor% The guard humiliates you, and blocks your way.

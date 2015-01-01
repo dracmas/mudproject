@@ -1440,3 +1440,1737 @@ Dec 31 23:28:58 :: (GC) Dracmas forced Chronos to say are you new here?
 Dec 31 23:32:41 :: nusage: 1   sockets connected, 1   sockets playing
 Dec 31 23:33:31 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
 Dec 31 23:34:23 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Dec 31 23:37:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:42:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:47:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:52:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:57:41 :: nusage: 1   sockets connected, 1   sockets playing
+Dec 31 23:58:03 :: OLC: Dracmas starts editing zone 30 allowed zone 0
+Dec 31 23:58:15 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Dec 31 23:58:28 :: OLC: Dracmas starts editing zone 30 [trigger](allowed zone 0)
+Dec 31 23:59:50 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Dec 31 23:59:57 :: OLC: Dracmas starts editing zone 30 [trigger](allowed zone 0)
+Jan  1 00:01:19 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Jan  1 00:01:22 :: OLC: Dracmas starts editing zone 30 allowed zone 0
+Jan  1 00:01:52 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Jan  1 00:01:58 :: OLC: Dracmas starts editing zone 30 [trigger](allowed zone 0)
+Jan  1 00:02:00 :: OLC: Dracmas stops editing zone 30 allowed zone 0
+Jan  1 00:02:33 :: (GC) Dracmas forced the White King to surrender
+Jan  1 00:02:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:02:43 :: (GC) Dracmas forced the White King to die
+Jan  1 00:03:02 :: (GC) Dracmas forced the White King to ca 'heal' dracmas
+Jan  1 00:03:17 :: (GC) Dracmas forced the White King to yell help im being attacked!
+Jan  1 00:04:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:05:09 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:05:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:05:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:06:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:07:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:09:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:09:42 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:09:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:11:39 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:11:52 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:12:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:12:44 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:12:44 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:12:57 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:14:02 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:14:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:14:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:15:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:15:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:15:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:16:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:17:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:17:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:18:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:18:48 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:19:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:19:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:20:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:20:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:20:32 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:20:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:22:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:22:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:22:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:22:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:23:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:24:26 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:24:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:25:57 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:27:15 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:27:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:27:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:28:46 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:28:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:29:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:29:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:30:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:31:48 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:32:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:32:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:33:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:34:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:34:37 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:34:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:35:55 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:36:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:37:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:37:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:39:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:40:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:41:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:42:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:42:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:43:43 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:44:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:45:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:46:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:46:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:46:19 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:46:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:46:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:47:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:47:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:48:42 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:48:55 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:50:26 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:51:05 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:51:44 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:52:10 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 00:52:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:53:54 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:54:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:54:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:54:46 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:54:59 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:55:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 00:57:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 00:58:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:58:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 00:58:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:00:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:00:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:00:50 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:02:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:03:00 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:04:57 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:05:10 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:06:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:06:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:07:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:07:59 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:08:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:09:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:12:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:12:58 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:12:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:14:16 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:14:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:15:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:15:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:15:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:16:00 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:17:31 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:17:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:17:57 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:18:36 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:18:49 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:20:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:20:59 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:21:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:22:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:22:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:25:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:25:58 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:27:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:27:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:28:47 :: OLC: Dracmas starts editing zone 12 allowed zone 0
+Jan  1 01:28:57 :: OLC: Dracmas stops editing zone 12 allowed zone 0
+Jan  1 01:29:03 :: Dracmas tried to get help on global-trig
+Jan  1 01:30:18 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:30:57 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:31:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:32:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:33:46 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:35:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:35:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:37:14 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:37:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:37:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:37:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:37:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:39:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:40:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:40:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:40:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:41:08 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:42:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:42:41 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:43:00 :: Loading configuration.
+Jan  1 01:43:00 :: tbaMUD 3.65
+Jan  1 01:43:00 :: Using lib as data directory.
+Jan  1 01:43:00 :: Running game on port 5002.
+Jan  1 01:43:00 :: Finding player limit.
+Jan  1 01:43:00 ::    Setting player limit to 300 using rlimit.
+Jan  1 01:43:00 :: Boot db -- BEGIN.
+Jan  1 01:43:00 :: Resetting the game time:
+Jan  1 01:43:00 ::    Current Gametime: 15H 29D 15M 717Y.
+Jan  1 01:43:00 :: Initialize Global Lists
+Jan  1 01:43:00 :: Initializing Events
+Jan  1 01:43:00 :: Reading news, credits, help, ihelp, bground, info & motds.
+Jan  1 01:43:00 :: Loading spell definitions.
+Jan  1 01:43:00 :: Loading zone table.
+Jan  1 01:43:00 ::    187 zones, 13464 bytes.
+Jan  1 01:43:00 :: Loading triggers and generating index.
+Jan  1 01:43:00 :: Loading rooms.
+Jan  1 01:43:00 ::    12487 rooms, 2297608 bytes.
+Jan  1 01:43:00 :: Renumbering rooms.
+Jan  1 01:43:00 :: Checking start rooms.
+Jan  1 01:43:00 :: Loading mobs and generating index.
+Jan  1 01:43:00 ::    3682 mobs, 117824 bytes in index, 2120832 bytes in prototypes.
+Jan  1 01:43:00 :: Loading objs and generating index.
+Jan  1 01:43:00 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Jan  1 01:43:00 :: Renumbering zone table.
+Jan  1 01:43:00 :: Loading shops.
+Jan  1 01:43:00 :: Loading quests.
+Jan  1 01:43:00 ::    1 entries, 128 bytes.
+Jan  1 01:43:00 :: Loading help entries.
+Jan  1 01:43:00 ::    2646 entries, 84672 bytes.
+Jan  1 01:43:00 :: Generating player index.
+Jan  1 01:43:00 :: Loading fight messages.
+Jan  1 01:43:00 :: Loaded 37 Combat Messages...
+Jan  1 01:43:00 :: Loading social messages.
+Jan  1 01:43:00 :: Social table contains 489 socials.
+Jan  1 01:43:00 :: Building command list.
+Jan  1 01:43:00 :: Command info rebuilt, 766 total commands.
+Jan  1 01:43:00 :: Assigning function pointers:
+Jan  1 01:43:00 ::    Mobiles.
+Jan  1 01:43:00 ::    Shopkeepers.
+Jan  1 01:43:00 ::    Objects.
+Jan  1 01:43:00 ::    Rooms.
+Jan  1 01:43:00 ::    Questmasters.
+Jan  1 01:43:00 :: Assigning spell and skill levels.
+Jan  1 01:43:00 :: Sorting command list and spells.
+Jan  1 01:43:00 :: Booting mail system.
+Jan  1 01:43:00 ::    Mail file read -- 0 messages.
+Jan  1 01:43:00 :: Reading banned site and invalid-name list.
+Jan  1 01:43:00 :: Loading Ideas.
+Jan  1 01:43:00 :: Loading Bugs.
+Jan  1 01:43:00 :: Loading Typos.
+Jan  1 01:43:00 :: Deleting timed-out crash and rent files:
+Jan  1 01:43:00 ::    Done.
+Jan  1 01:43:00 :: Booting houses.
+Jan  1 01:43:00 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Jan  1 01:43:00 :: Cleaning up last log.
+Jan  1 01:43:00 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Jan  1 01:43:00 :: Resetting #1: Sanctus (rooms 100-199).
+Jan  1 01:43:00 :: Resetting #2: Sanctus II (rooms 200-299).
+Jan  1 01:43:00 :: Resetting #3: Sanctus III (rooms 300-399).
+Jan  1 01:43:00 :: Resetting #4: Jade Forest (rooms 400-499).
+Jan  1 01:43:00 :: Resetting #5: Newbie Farm (rooms 500-599).
+Jan  1 01:43:00 :: Resetting #6: Sea of Souls (rooms 600-699).
+Jan  1 01:43:00 :: Resetting #7: Camelot (rooms 700-799).
+Jan  1 01:43:00 :: Resetting #9: River Island of Minos (rooms 900-999).
+Jan  1 01:43:00 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Jan  1 01:43:00 :: Resetting #12: God Simplex (rooms 1200-1299).
+Jan  1 01:43:00 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Jan  1 01:43:00 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Jan  1 01:43:00 :: Resetting #15: Straight Path (rooms 1500-1599).
+Jan  1 01:43:00 :: Resetting #16: Camelot II (rooms 1600-1699).
+Jan  1 01:43:00 :: Resetting #17: Camelot III (rooms 1700-1799).
+Jan  1 01:43:00 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Jan  1 01:43:00 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Jan  1 01:43:00 :: Resetting #20: Arena (rooms 2000-2099).
+Jan  1 01:43:00 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Jan  1 01:43:00 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Jan  1 01:43:00 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Jan  1 01:43:00 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Jan  1 01:43:00 :: Resetting #28: Mudschool (rooms 2800-2899).
+Jan  1 01:43:00 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Jan  1 01:43:00 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Jan  1 01:43:00 :: Resetting #32: Midgaard (rooms 3200-3299).
+Jan  1 01:43:00 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Jan  1 01:43:00 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Jan  1 01:43:00 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Jan  1 01:43:00 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Jan  1 01:43:00 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Jan  1 01:43:00 :: Resetting #39: Haven (rooms 3900-3999).
+Jan  1 01:43:00 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Jan  1 01:43:00 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Jan  1 01:43:00 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Jan  1 01:43:00 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Jan  1 01:43:00 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Jan  1 01:43:00 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Jan  1 01:43:00 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Jan  1 01:43:00 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Jan  1 01:43:00 :: Resetting #51: Drow City (rooms 5100-5199).
+Jan  1 01:43:00 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Jan  1 01:43:00 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Jan  1 01:43:00 :: Resetting #54: New Thalos (rooms 5400-5499).
+Jan  1 01:43:00 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Jan  1 01:43:00 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Jan  1 01:43:00 :: Resetting #57: Zodiac (rooms 5700-5799).
+Jan  1 01:43:00 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Jan  1 01:43:00 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Jan  1 01:43:00 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Jan  1 01:43:00 :: Resetting #63: Arachnos (rooms 6300-6399).
+Jan  1 01:43:00 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Jan  1 01:43:00 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Jan  1 01:43:00 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Jan  1 01:43:00 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Jan  1 01:43:00 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Jan  1 01:43:00 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Jan  1 01:43:00 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Jan  1 01:43:00 :: Resetting #75: Zamba (rooms 7500-7599).
+Jan  1 01:43:00 :: Resetting #78: Gideon (rooms 7800-7899).
+Jan  1 01:43:00 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Jan  1 01:43:00 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Jan  1 01:43:00 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Jan  1 01:43:00 :: Resetting #90: Oasis (rooms 9000-9099).
+Jan  1 01:43:00 :: Resetting #96: Domiae (rooms 9600-9699).
+Jan  1 01:43:00 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Jan  1 01:43:00 :: Resetting #101: South Road (rooms 10100-10199).
+Jan  1 01:43:00 :: Resetting #103: DBZ World (rooms 10300-10399).
+Jan  1 01:43:00 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Jan  1 01:43:00 :: Resetting #106: Elcardo (rooms 10600-10699).
+Jan  1 01:43:00 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Jan  1 01:43:00 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Jan  1 01:43:00 :: Resetting #117: Los Torres (rooms 11700-11799).
+Jan  1 01:43:00 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Jan  1 01:43:00 :: Resetting #120: Rome (rooms 12000-12099).
+Jan  1 01:43:00 :: Resetting #125: Hannah (rooms 12500-12599).
+Jan  1 01:43:00 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Jan  1 01:43:00 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Jan  1 01:43:00 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Jan  1 01:43:00 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Jan  1 01:43:00 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Jan  1 01:43:00 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Jan  1 01:43:00 :: Resetting #187: Circus (rooms 18700-18799).
+Jan  1 01:43:00 :: Resetting #200: Western Highway (rooms 20000-20099).
+Jan  1 01:43:00 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Jan  1 01:43:00 :: Resetting #211: Tarot (rooms 21100-21199).
+Jan  1 01:43:00 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Jan  1 01:43:00 :: Resetting #232: Terringham (rooms 23200-23299).
+Jan  1 01:43:00 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Jan  1 01:43:00 :: Resetting #234: Newbie School (rooms 23400-23499).
+Jan  1 01:43:00 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Jan  1 01:43:00 :: Resetting #236: Aldin (rooms 23600-23699).
+Jan  1 01:43:00 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Jan  1 01:43:00 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Jan  1 01:43:00 :: Resetting #239: South Pass (rooms 23900-23999).
+Jan  1 01:43:00 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Jan  1 01:43:00 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Jan  1 01:43:00 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Jan  1 01:43:00 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Jan  1 01:43:00 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Jan  1 01:43:00 :: Resetting #245: The Nether (rooms 24500-24599).
+Jan  1 01:43:00 :: Resetting #246: The Nether II (rooms 24600-24699).
+Jan  1 01:43:00 :: Resetting #247: Graveyard (rooms 24700-24799).
+Jan  1 01:43:00 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Jan  1 01:43:00 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Jan  1 01:43:00 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Jan  1 01:43:00 :: Resetting #251: Ape Village (rooms 25100-25199).
+Jan  1 01:43:00 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Jan  1 01:43:00 :: Resetting #253: Windmill (rooms 25300-25399).
+Jan  1 01:43:00 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Jan  1 01:43:00 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Jan  1 01:43:00 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Jan  1 01:43:00 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Jan  1 01:43:00 :: Resetting #258: Light Forest (rooms 25800-25899).
+Jan  1 01:43:00 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Jan  1 01:43:00 :: Resetting #260: Grasslands (rooms 26000-26099).
+Jan  1 01:43:00 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Jan  1 01:43:00 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Jan  1 01:43:00 :: Resetting #263: Farmlands (rooms 26300-26399).
+Jan  1 01:43:00 :: Resetting #264: Banshide (rooms 26400-26499).
+Jan  1 01:43:00 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Jan  1 01:43:00 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Jan  1 01:43:00 :: Resetting #267: Vice Island (rooms 26700-26799).
+Jan  1 01:43:00 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Jan  1 01:43:00 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Jan  1 01:43:00 :: Resetting #270: Wasteland (rooms 27000-27099).
+Jan  1 01:43:00 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Jan  1 01:43:00 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Jan  1 01:43:00 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Jan  1 01:43:00 :: Resetting #274: Smurfville (rooms 27400-27499).
+Jan  1 01:43:00 :: Resetting #275: New Sparta (rooms 27500-27599).
+Jan  1 01:43:00 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Jan  1 01:43:00 :: Resetting #277: Shire (rooms 27700-27799).
+Jan  1 01:43:00 :: Resetting #278: Oceania (rooms 27800-27899).
+Jan  1 01:43:00 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Jan  1 01:43:00 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Jan  1 01:43:00 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Jan  1 01:43:00 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Jan  1 01:43:00 :: Resetting #283: Haunted House (rooms 28300-28399).
+Jan  1 01:43:00 :: Resetting #284: Ghenna (rooms 28400-28499).
+Jan  1 01:43:00 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Jan  1 01:43:00 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Jan  1 01:43:00 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Jan  1 01:43:00 :: Resetting #288: Galaxy (rooms 28800-28899).
+Jan  1 01:43:00 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Jan  1 01:43:00 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Jan  1 01:43:00 :: Resetting #291: Black Forest (rooms 29100-29199).
+Jan  1 01:43:00 :: Resetting #292: Kerofk (rooms 29200-29299).
+Jan  1 01:43:00 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Jan  1 01:43:00 :: Resetting #294: Trade Road (rooms 29400-29499).
+Jan  1 01:43:00 :: Resetting #295: Jungle (rooms 29500-29599).
+Jan  1 01:43:00 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Jan  1 01:43:00 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Jan  1 01:43:00 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Jan  1 01:43:00 :: Resetting #300: Ancalador (rooms 30000-30099).
+Jan  1 01:43:00 :: Resetting #301: Campus (rooms 30100-30199).
+Jan  1 01:43:00 :: Resetting #302: Campus II (rooms 30200-30299).
+Jan  1 01:43:00 :: Resetting #303: Campus III (rooms 30300-30399).
+Jan  1 01:43:00 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Jan  1 01:43:00 :: Resetting #305: Chessboard (rooms 30500-30599).
+Jan  1 01:43:00 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Jan  1 01:43:00 :: Resetting #307: Castle (rooms 30700-30799).
+Jan  1 01:43:00 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Jan  1 01:43:00 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Jan  1 01:43:00 :: Resetting #310: Graye Area (rooms 31000-31099).
+Jan  1 01:43:00 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Jan  1 01:43:00 :: Resetting #312: Leper Island (rooms 31200-31299).
+Jan  1 01:43:00 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Jan  1 01:43:00 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Jan  1 01:43:00 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Jan  1 01:43:00 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Jan  1 01:43:00 :: Resetting #317: Wharf (rooms 31700-31799).
+Jan  1 01:43:00 :: Resetting #318: Dock Area (rooms 31800-31899).
+Jan  1 01:43:00 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Jan  1 01:43:00 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Jan  1 01:43:00 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Jan  1 01:43:00 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Jan  1 01:43:00 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Jan  1 01:43:00 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan  1 01:43:00 :: Resetting #325: Revelry (rooms 32500-32599).
+Jan  1 01:43:00 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan  1 01:43:00 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan  1 01:43:00 :: Resetting #555: Ultima (rooms 55500-55599).
+Jan  1 01:43:00 :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan  1 01:43:00 :: Resetting #653: Apartment (rooms 65300-65399).
+Jan  1 01:43:00 :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan  1 01:43:00 :: Boot db -- DONE.
+Jan  1 01:43:00 :: Signal trapping.
+Jan  1 01:43:00 :: Copyover recovery initiated
+Jan  1 01:43:00 :: Dracmas un-renting and entering game.
+Jan  1 01:43:00 :: Dracmas (level 34) has 26 objects (max 30).
+Jan  1 01:43:00 :: Entering game loop.
+Jan  1 01:43:05 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Jan  1 01:43:49 :: OLC: Dracmas edits trigger 2800
+Jan  1 01:43:49 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Jan  1 01:43:59 :: Dracmas tried to get help on trig-player
+Jan  1 01:44:03 :: Dracmas tried to get help on save-trig-to-player
+Jan  1 01:44:44 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:44:57 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:45:36 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:46:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:47:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:48:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:48:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:48:51 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:50:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:50:35 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:52:19 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:52:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:52:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:52:58 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:53:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:54:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:54:29 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:54:42 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 01:55:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:55:47 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:56:00 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:56:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 01:57:31 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:58:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 01:59:02 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 01:59:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:02:17 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:02:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:03:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:04:01 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:04:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:08:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:09:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:09:26 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:09:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:11:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:13:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:13:07 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:13:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:13:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:14:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:14:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:15:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:17:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:17:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:18:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:18:32 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:20:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:20:16 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:20:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:20:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:21:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:23:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:25:02 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:25:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:26:59 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:27:12 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:27:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:27:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:28:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:28:43 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:29:09 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:31:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:31:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:31:45 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:32:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:33:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:33:16 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:33:29 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:33:42 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:34:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:34:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:35:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:35:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:37:23 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:38:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:38:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:38:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:38:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:41:43 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:41:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:43:00 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:43:14 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:43:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:43:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:43:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:44:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:44:45 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:45:24 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:45:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:46:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:46:34 :: OLC: Dracmas starts editing the game configuration.
+Jan  1 02:47:42 :: OLC: Dracmas modifies the game configuration.
+Jan  1 02:47:42 :: OLC: Dracmas stops editing the game configuration
+Jan  1 02:47:48 :: Loading configuration.
+Jan  1 02:47:48 :: tbaMUD 3.65
+Jan  1 02:47:48 :: Using lib as data directory.
+Jan  1 02:47:48 :: Running game on port 5002.
+Jan  1 02:47:48 :: Finding player limit.
+Jan  1 02:47:48 ::    Setting player limit to 300 using rlimit.
+Jan  1 02:47:48 :: Boot db -- BEGIN.
+Jan  1 02:47:48 :: Resetting the game time:
+Jan  1 02:47:48 ::    Current Gametime: 18H 31D 15M 717Y.
+Jan  1 02:47:48 :: Initialize Global Lists
+Jan  1 02:47:48 :: Initializing Events
+Jan  1 02:47:48 :: Reading news, credits, help, ihelp, bground, info & motds.
+Jan  1 02:47:48 :: Loading spell definitions.
+Jan  1 02:47:48 :: Loading zone table.
+Jan  1 02:47:48 ::    187 zones, 13464 bytes.
+Jan  1 02:47:48 :: Loading triggers and generating index.
+Jan  1 02:47:48 :: Loading rooms.
+Jan  1 02:47:48 ::    12487 rooms, 2297608 bytes.
+Jan  1 02:47:48 :: Renumbering rooms.
+Jan  1 02:47:48 :: Checking start rooms.
+Jan  1 02:47:48 :: Loading mobs and generating index.
+Jan  1 02:47:48 ::    3682 mobs, 117824 bytes in index, 2120832 bytes in prototypes.
+Jan  1 02:47:48 :: Loading objs and generating index.
+Jan  1 02:47:48 ::    4686 objs, 149952 bytes in index, 1124640 bytes in prototypes.
+Jan  1 02:47:48 :: Renumbering zone table.
+Jan  1 02:47:48 :: Loading shops.
+Jan  1 02:47:48 :: Loading quests.
+Jan  1 02:47:48 ::    1 entries, 128 bytes.
+Jan  1 02:47:48 :: Loading help entries.
+Jan  1 02:47:48 ::    2646 entries, 84672 bytes.
+Jan  1 02:47:48 :: Generating player index.
+Jan  1 02:47:48 :: Loading fight messages.
+Jan  1 02:47:48 :: Loaded 37 Combat Messages...
+Jan  1 02:47:48 :: Loading social messages.
+Jan  1 02:47:48 :: Social table contains 489 socials.
+Jan  1 02:47:48 :: Building command list.
+Jan  1 02:47:48 :: Command info rebuilt, 766 total commands.
+Jan  1 02:47:48 :: Assigning function pointers:
+Jan  1 02:47:48 ::    Mobiles.
+Jan  1 02:47:48 ::    Shopkeepers.
+Jan  1 02:47:48 ::    Objects.
+Jan  1 02:47:48 ::    Rooms.
+Jan  1 02:47:48 ::    Questmasters.
+Jan  1 02:47:48 :: Assigning spell and skill levels.
+Jan  1 02:47:48 :: Sorting command list and spells.
+Jan  1 02:47:48 :: Booting mail system.
+Jan  1 02:47:48 ::    Mail file read -- 0 messages.
+Jan  1 02:47:48 :: Reading banned site and invalid-name list.
+Jan  1 02:47:48 :: Loading Ideas.
+Jan  1 02:47:48 :: Loading Bugs.
+Jan  1 02:47:48 :: Loading Typos.
+Jan  1 02:47:48 :: Deleting timed-out crash and rent files:
+Jan  1 02:47:48 ::    Done.
+Jan  1 02:47:48 :: Booting houses.
+Jan  1 02:47:48 ::    No houses to load. File 'etc/hcontrol' does not exist.
+Jan  1 02:47:48 :: Cleaning up last log.
+Jan  1 02:47:48 :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Jan  1 02:47:48 :: Resetting #1: Sanctus (rooms 100-199).
+Jan  1 02:47:48 :: Resetting #2: Sanctus II (rooms 200-299).
+Jan  1 02:47:48 :: Resetting #3: Sanctus III (rooms 300-399).
+Jan  1 02:47:48 :: Resetting #4: Jade Forest (rooms 400-499).
+Jan  1 02:47:48 :: Resetting #5: Newbie Farm (rooms 500-599).
+Jan  1 02:47:48 :: Resetting #6: Sea of Souls (rooms 600-699).
+Jan  1 02:47:48 :: Resetting #7: Camelot (rooms 700-799).
+Jan  1 02:47:48 :: Resetting #9: River Island of Minos (rooms 900-999).
+Jan  1 02:47:48 :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Jan  1 02:47:48 :: Resetting #12: God Simplex (rooms 1200-1299).
+Jan  1 02:47:48 :: Resetting #13: TBA Examples (rooms 1300-1399).
+Jan  1 02:47:48 :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Jan  1 02:47:48 :: Resetting #15: Straight Path (rooms 1500-1599).
+Jan  1 02:47:48 :: Resetting #16: Camelot II (rooms 1600-1699).
+Jan  1 02:47:48 :: Resetting #17: Camelot III (rooms 1700-1799).
+Jan  1 02:47:48 :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Jan  1 02:47:48 :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Jan  1 02:47:48 :: Resetting #20: Arena (rooms 2000-2099).
+Jan  1 02:47:48 :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Jan  1 02:47:48 :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Jan  1 02:47:48 :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Jan  1 02:47:48 :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Jan  1 02:47:48 :: Resetting #28: Mudschool (rooms 2800-2899).
+Jan  1 02:47:48 :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Jan  1 02:47:48 :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Jan  1 02:47:48 :: Resetting #32: Midgaard (rooms 3200-3299).
+Jan  1 02:47:48 :: Resetting #33: Three of Swords (rooms 3300-3399).
+Jan  1 02:47:48 :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Jan  1 02:47:48 :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Jan  1 02:47:48 :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Jan  1 02:47:48 :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Jan  1 02:47:48 :: Resetting #39: Haven (rooms 3900-3999).
+Jan  1 02:47:48 :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Jan  1 02:47:48 :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Jan  1 02:47:48 :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Jan  1 02:47:48 :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Jan  1 02:47:48 :: Resetting #44: Orc Camp (rooms 4400-4499).
+Jan  1 02:47:48 :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Jan  1 02:47:48 :: Resetting #46: Ant Hill (rooms 4600-4699).
+Jan  1 02:47:48 :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Jan  1 02:47:48 :: Resetting #51: Drow City (rooms 5100-5199).
+Jan  1 02:47:48 :: Resetting #52: City of Thalos (rooms 5200-5299).
+Jan  1 02:47:48 :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Jan  1 02:47:48 :: Resetting #54: New Thalos (rooms 5400-5499).
+Jan  1 02:47:48 :: Resetting #55: New Thalos II (rooms 5500-5599).
+Jan  1 02:47:48 :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Jan  1 02:47:48 :: Resetting #57: Zodiac (rooms 5700-5799).
+Jan  1 02:47:48 :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Jan  1 02:47:48 :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Jan  1 02:47:48 :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Jan  1 02:47:48 :: Resetting #63: Arachnos (rooms 6300-6399).
+Jan  1 02:47:48 :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Jan  1 02:47:48 :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Jan  1 02:47:48 :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Jan  1 02:47:48 :: Resetting #71: Second Sewer (rooms 7100-7199).
+Jan  1 02:47:48 :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Jan  1 02:47:48 :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Jan  1 02:47:48 :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Jan  1 02:47:48 :: Resetting #75: Zamba (rooms 7500-7599).
+Jan  1 02:47:48 :: Resetting #78: Gideon (rooms 7800-7899).
+Jan  1 02:47:48 :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Jan  1 02:47:48 :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Jan  1 02:47:48 :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Jan  1 02:47:48 :: Resetting #90: Oasis (rooms 9000-9099).
+Jan  1 02:47:48 :: Resetting #96: Domiae (rooms 9600-9699).
+Jan  1 02:47:48 :: Resetting #100: Northern Highway (rooms 10000-10099).
+Jan  1 02:47:48 :: Resetting #101: South Road (rooms 10100-10199).
+Jan  1 02:47:48 :: Resetting #103: DBZ World (rooms 10300-10399).
+Jan  1 02:47:48 :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Jan  1 02:47:48 :: Resetting #106: Elcardo (rooms 10600-10699).
+Jan  1 02:47:48 :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Jan  1 02:47:48 :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Jan  1 02:47:48 :: Resetting #117: Los Torres (rooms 11700-11799).
+Jan  1 02:47:48 :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Jan  1 02:47:48 :: Resetting #120: Rome (rooms 12000-12099).
+Jan  1 02:47:48 :: Resetting #125: Hannah (rooms 12500-12599).
+Jan  1 02:47:48 :: Resetting #130: Mist Maze (rooms 13000-13099).
+Jan  1 02:47:48 :: Resetting #140: Wyvern City (rooms 14000-14099).
+Jan  1 02:47:48 :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Jan  1 02:47:48 :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Jan  1 02:47:48 :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Jan  1 02:47:48 :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Jan  1 02:47:48 :: Resetting #187: Circus (rooms 18700-18799).
+Jan  1 02:47:48 :: Resetting #200: Western Highway (rooms 20000-20099).
+Jan  1 02:47:48 :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Jan  1 02:47:48 :: Resetting #211: Tarot (rooms 21100-21199).
+Jan  1 02:47:48 :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Jan  1 02:47:48 :: Resetting #232: Terringham (rooms 23200-23299).
+Jan  1 02:47:48 :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Jan  1 02:47:48 :: Resetting #234: Newbie School (rooms 23400-23499).
+Jan  1 02:47:48 :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Jan  1 02:47:48 :: Resetting #236: Aldin (rooms 23600-23699).
+Jan  1 02:47:48 :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Jan  1 02:47:48 :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Jan  1 02:47:48 :: Resetting #239: South Pass (rooms 23900-23999).
+Jan  1 02:47:48 :: Resetting #240: Dun Maura (rooms 24000-24099).
+Jan  1 02:47:48 :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Jan  1 02:47:48 :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Jan  1 02:47:48 :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Jan  1 02:47:48 :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Jan  1 02:47:48 :: Resetting #245: The Nether (rooms 24500-24599).
+Jan  1 02:47:48 :: Resetting #246: The Nether II (rooms 24600-24699).
+Jan  1 02:47:48 :: Resetting #247: Graveyard (rooms 24700-24799).
+Jan  1 02:47:48 :: Resetting #248: Elven Woods (rooms 24800-24899).
+Jan  1 02:47:48 :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Jan  1 02:47:48 :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Jan  1 02:47:48 :: Resetting #251: Ape Village (rooms 25100-25199).
+Jan  1 02:47:48 :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Jan  1 02:47:48 :: Resetting #253: Windmill (rooms 25300-25399).
+Jan  1 02:47:48 :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Jan  1 02:47:48 :: Resetting #255: Shipwreck (rooms 25500-25599).
+Jan  1 02:47:48 :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Jan  1 02:47:48 :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Jan  1 02:47:48 :: Resetting #258: Light Forest (rooms 25800-25899).
+Jan  1 02:47:48 :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Jan  1 02:47:48 :: Resetting #260: Grasslands (rooms 26000-26099).
+Jan  1 02:47:48 :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Jan  1 02:47:48 :: Resetting #262: Forest Trails (rooms 26200-26299).
+Jan  1 02:47:48 :: Resetting #263: Farmlands (rooms 26300-26399).
+Jan  1 02:47:48 :: Resetting #264: Banshide (rooms 26400-26499).
+Jan  1 02:47:48 :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Jan  1 02:47:48 :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Jan  1 02:47:48 :: Resetting #267: Vice Island (rooms 26700-26799).
+Jan  1 02:47:48 :: Resetting #268: Vice Island II (rooms 26800-26899).
+Jan  1 02:47:48 :: Resetting #269: Southern Desert (rooms 26900-26999).
+Jan  1 02:47:48 :: Resetting #270: Wasteland (rooms 27000-27099).
+Jan  1 02:47:48 :: Resetting #271: Sundhaven (rooms 27100-27199).
+Jan  1 02:47:48 :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Jan  1 02:47:48 :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Jan  1 02:47:48 :: Resetting #274: Smurfville (rooms 27400-27499).
+Jan  1 02:47:48 :: Resetting #275: New Sparta (rooms 27500-27599).
+Jan  1 02:47:48 :: Resetting #276: New Sparta II (rooms 27600-27699).
+Jan  1 02:47:48 :: Resetting #277: Shire (rooms 27700-27799).
+Jan  1 02:47:48 :: Resetting #278: Oceania (rooms 27800-27899).
+Jan  1 02:47:48 :: Resetting #279: Notre Dame (rooms 27900-27999).
+Jan  1 02:47:48 :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Jan  1 02:47:48 :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Jan  1 02:47:48 :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Jan  1 02:47:48 :: Resetting #283: Haunted House (rooms 28300-28399).
+Jan  1 02:47:48 :: Resetting #284: Ghenna (rooms 28400-28499).
+Jan  1 02:47:48 :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Jan  1 02:47:48 :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Jan  1 02:47:48 :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Jan  1 02:47:48 :: Resetting #288: Galaxy (rooms 28800-28899).
+Jan  1 02:47:48 :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Jan  1 02:47:48 :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Jan  1 02:47:48 :: Resetting #291: Black Forest (rooms 29100-29199).
+Jan  1 02:47:48 :: Resetting #292: Kerofk (rooms 29200-29299).
+Jan  1 02:47:48 :: Resetting #293: Kerofk II (rooms 29300-29399).
+Jan  1 02:47:48 :: Resetting #294: Trade Road (rooms 29400-29499).
+Jan  1 02:47:48 :: Resetting #295: Jungle (rooms 29500-29599).
+Jan  1 02:47:48 :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Jan  1 02:47:48 :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Jan  1 02:47:48 :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Jan  1 02:47:48 :: Resetting #300: Ancalador (rooms 30000-30099).
+Jan  1 02:47:48 :: Resetting #301: Campus (rooms 30100-30199).
+Jan  1 02:47:48 :: Resetting #302: Campus II (rooms 30200-30299).
+Jan  1 02:47:48 :: Resetting #303: Campus III (rooms 30300-30399).
+Jan  1 02:47:48 :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Jan  1 02:47:48 :: Resetting #305: Chessboard (rooms 30500-30599).
+Jan  1 02:47:48 :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Jan  1 02:47:48 :: Resetting #307: Castle (rooms 30700-30799).
+Jan  1 02:47:48 :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Jan  1 02:47:48 :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Jan  1 02:47:48 :: Resetting #310: Graye Area (rooms 31000-31099).
+Jan  1 02:47:48 :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Jan  1 02:47:48 :: Resetting #312: Leper Island (rooms 31200-31299).
+Jan  1 02:47:48 :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Jan  1 02:47:48 :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Jan  1 02:47:48 :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Jan  1 02:47:48 :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Jan  1 02:47:48 :: Resetting #317: Wharf (rooms 31700-31799).
+Jan  1 02:47:48 :: Resetting #318: Dock Area (rooms 31800-31899).
+Jan  1 02:47:48 :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Jan  1 02:47:48 :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Jan  1 02:47:48 :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Jan  1 02:47:48 :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Jan  1 02:47:48 :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Jan  1 02:47:48 :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan  1 02:47:48 :: Resetting #325: Revelry (rooms 32500-32599).
+Jan  1 02:47:48 :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan  1 02:47:48 :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan  1 02:47:48 :: Resetting #555: Ultima (rooms 55500-55599).
+Jan  1 02:47:48 :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan  1 02:47:48 :: Resetting #653: Apartment (rooms 65300-65399).
+Jan  1 02:47:48 :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan  1 02:47:48 :: Boot db -- DONE.
+Jan  1 02:47:48 :: Signal trapping.
+Jan  1 02:47:48 :: Copyover recovery initiated
+Jan  1 02:47:48 :: Dracmas un-renting and entering game.
+Jan  1 02:47:48 :: Dracmas (level 34) has 26 objects (max 30).
+Jan  1 02:47:48 :: Entering game loop.
+Jan  1 02:47:54 :: OLC: Dracmas starts editing the game configuration.
+Jan  1 02:48:02 :: OLC: Dracmas modifies the game configuration.
+Jan  1 02:48:02 :: OLC: Dracmas stops editing the game configuration
+Jan  1 02:48:11 :: OLC: Dracmas starts editing zone 28 [trigger](allowed zone 0)
+Jan  1 02:48:24 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Jan  1 02:49:45 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:49:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:50:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:53:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:53:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 02:53:52 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:54:31 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:54:44 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:56:02 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:56:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:56:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:56:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 02:58:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 02:59:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 02:59:30 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:00:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:02:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:02:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:03:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:04:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:04:55 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:07:05 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:09:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:12:17 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:12:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:13:35 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:14:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:14:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:14:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:15:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:15:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:16:24 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:16:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:19:39 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:20:57 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:21:10 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:23:07 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:23:59 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:24:05 :: Dracmas tried to get help on pc-trig
+Jan  1 03:24:09 :: Dracmas tried to get help on trig-pc
+Jan  1 03:24:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:24:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:24:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:25:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:25:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:26:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:27:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:27:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:27:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:28:19 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:28:32 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:29:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:29:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:29:50 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:30:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:30:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:30:42 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:31:21 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:31:34 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:31:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:34:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:34:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:35:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:37:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:37:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:38:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:41:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:41:58 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:42:11 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:42:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:42:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:44:21 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:45:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:45:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:46:31 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:48:02 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:48:02 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:48:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:51:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:53:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:53:14 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:53:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:53:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:54:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:55:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:56:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:56:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 03:58:26 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 03:58:52 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 03:59:18 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 03:59:18 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:00:10 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:01:02 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:01:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:01:54 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:02:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:03:38 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:06:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:07:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:08:24 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:08:24 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:08:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:10:34 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:11:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:11:39 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:11:52 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:12:18 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:14:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:14:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:14:54 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:16:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:16:51 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:16:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:17:17 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:17:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:19:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:20:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:20:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:21:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:21:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:21:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:22:29 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:23:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:24:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:25:05 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:25:18 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:28:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:28:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:28:20 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:29:51 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:30:30 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:30:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:32:14 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:33:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:33:45 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:34:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:34:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:35:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:35:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:36:08 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:36:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:38:18 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:39:10 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:39:49 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:40:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:40:54 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:41:07 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:41:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:41:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:43:04 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:43:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:43:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:44:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:46:19 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:48:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:48:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:48:29 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:49:08 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:49:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:49:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:49:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:49:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:50:52 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:51:05 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:52:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:52:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:54:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:54:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:55:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:55:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 04:57:48 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 04:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 04:58:01 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 04:59:19 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:00:11 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:00:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:00:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:01:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:01:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:02:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:03:26 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:04:05 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:06:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:06:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:06:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:07:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:08:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:09:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:09:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:10:09 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:10:22 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:11:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:11:27 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:12:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:12:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:13:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:15:08 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:15:34 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:15:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:16:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:16:26 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:16:26 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:17:44 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:19:28 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:19:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:20:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:20:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:20:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:20:59 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:21:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:22:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:23:09 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:23:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:23:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:23:48 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:24:14 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:24:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:24:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:25:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:26:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:26:50 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:27:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:28:47 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:29:00 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:29:26 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:30:31 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:31:10 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:31:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:32:15 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:32:41 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:33:33 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:33:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:33:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:35:04 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:35:30 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:36:09 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:36:48 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:37:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:38:45 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:39:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:39:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:40:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:40:29 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:41:34 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:42:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:43:05 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:45:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:45:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:46:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:46:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:47:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:48:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:48:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:48:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:48:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:49:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:49:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:49:35 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:50:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:50:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:51:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:54:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:57:10 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 05:57:10 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 05:58:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 05:59:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 05:59:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:00:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:00:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:01:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:01:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:03:01 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:03:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:04:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:06:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:06:55 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:09:31 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:09:57 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:10:36 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:11:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:11:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:11:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:11:41 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:12:07 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:12:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:12:59 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:13:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:13:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:14:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:14:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:14:43 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:14:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:16:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:16:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:16:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:17:45 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:17:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:18:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:18:50 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:18:50 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:19:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:19:42 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:19:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:22:31 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:23:49 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:24:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:24:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:24:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:26:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:26:38 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:27:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:28:35 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:29:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:30:06 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:31:50 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:32:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:32:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:34:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:34:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:35:31 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:36:49 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:36:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:38:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:38:33 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:38:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:40:43 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:41:48 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:42:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:42:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:42:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:43:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:43:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:43:58 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:44:24 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:44:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:44:50 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:45:16 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:45:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:45:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:46:08 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:48:31 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:49:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:49:49 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:49:49 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:50:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:51:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:51:59 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:52:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:54:35 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:55:27 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:55:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:55:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:56:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:56:45 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 06:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 06:57:50 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 06:58:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 06:59:21 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:00:00 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:00:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:00:26 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:00:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:02:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:03:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:03:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:04:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:04:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:04:59 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:05:12 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:06:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:07:09 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:07:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:08:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:09:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:10:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:11:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:11:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:14:44 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:16:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:17:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:19:17 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:19:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:21:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:22:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:22:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:23:37 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:24:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:25:08 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:27:18 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:28:49 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:31:12 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:31:12 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:32:04 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:32:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:33:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:34:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:34:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:36:11 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:36:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:37:55 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:37:55 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:38:47 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:40:05 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:40:18 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:41:10 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:41:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:42:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:42:54 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:43:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:43:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:44:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:44:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:45:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:45:30 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:45:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:46:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:47:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:47:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:48:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:48:19 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:48:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:49:37 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:49:37 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:49:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:50:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:51:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:52:00 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:52:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 07:52:52 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:52:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:53:18 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:53:31 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:54:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:55:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:55:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 07:55:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 07:57:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 07:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:00:14 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:00:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:00:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:00:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:03:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:03:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:03:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:03:42 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:04:08 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:04:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:05:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:06:18 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:06:44 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:07:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:07:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:08:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:09:20 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:10:12 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:10:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:10:38 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:10:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:10:51 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:11:04 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:11:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:11:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:13:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:13:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:15:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:18:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:18:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:19:31 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:20:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:21:41 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:21:41 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:22:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:23:38 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:24:04 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:24:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:24:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:26:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:26:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:27:06 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:28:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:29:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:30:08 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:30:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:30:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:31:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:31:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:31:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:31:26 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:31:52 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:32:44 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:33:10 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:33:23 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:34:41 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:34:41 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:34:54 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:37:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:39:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:39:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:40:32 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:40:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:41:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:42:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:43:21 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:43:47 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:44:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:46:49 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:47:15 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:48:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:48:20 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:48:33 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:50:04 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:52:14 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 08:52:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 08:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:55:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 08:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 08:59:23 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:00:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:00:54 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:01:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:01:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:01:33 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:02:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:03:04 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:04:09 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:04:35 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:05:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:05:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:06:45 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:07:11 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:08:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:08:16 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:08:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:08:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:09:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:10:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:10:52 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:12:10 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:12:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:12:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:13:02 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:13:15 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:13:41 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:13:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:14:07 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:14:33 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:15:12 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:15:25 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:16:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:16:17 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:16:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:17:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:17:48 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:17:48 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:18:27 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:18:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:19:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:19:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:19:58 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:22:34 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:22:47 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:23:39 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:23:52 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:25:23 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:26:15 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:26:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:27:07 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:30:48 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:31:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:31:14 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:31:14 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:32:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:32:58 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:33:11 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:33:24 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:34:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:35:47 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:36:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:36:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:37:18 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:38:23 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:38:36 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:39:02 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:39:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:40:46 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:42:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:42:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:42:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:43:22 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:43:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:44:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:44:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:47:29 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:48:34 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:49:26 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:50:18 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:50:44 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:51:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:52:02 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:52:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:52:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:52:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:57:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 09:57:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 09:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 09:58:19 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 09:58:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:00:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:00:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:01:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:01:34 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:02:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:02:13 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:02:26 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:02:39 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:03:31 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:05:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:08:17 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:08:43 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:08:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:09:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:09:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:09:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:09:48 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:10:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:10:27 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:10:27 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:10:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:10:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:12:24 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:13:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:15:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:17:23 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:18:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:18:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:20:51 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:21:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:22:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:23:01 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:23:01 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:23:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:27:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:27:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:29:44 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:29:44 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:31:28 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:32:07 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:32:59 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:33:12 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:33:25 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:34:17 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:35:09 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:36:53 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:36:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:37:32 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:38:37 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:39:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:39:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:39:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:40:34 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:41:13 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:42:05 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:42:05 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:43:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:45:46 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:45:46 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:47:56 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:48:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:49:53 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:50:06 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:50:58 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:51:11 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:51:50 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:52:03 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:52:03 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:52:16 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:52:55 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:53:34 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:53:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 10:56:49 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 10:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 10:58:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:59:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:59:38 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 10:59:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:00:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:01:35 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:02:27 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:02:40 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:05:16 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:05:29 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:05:55 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:06:21 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:08:05 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:08:05 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:09:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:10:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:12:12 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:12:12 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:14:22 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:14:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:15:40 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:16:06 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:16:58 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:17:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:17:37 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:17:50 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:18:03 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:18:16 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:19:21 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:19:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:20:00 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:21:05 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:21:18 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:22:10 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:23:15 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:23:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:23:41 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:23:54 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:25:25 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:26:30 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:26:43 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:27:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:28:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:28:53 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:29:58 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:30:11 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:34:05 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:35:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:35:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:37:33 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:37:36 :: OLC: Dracmas starts editing zone 0 [trigger](allowed zone 0)
+Jan  1 11:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:38:35 :: OLC: Dracmas stops editing zone 0 allowed zone 0
+Jan  1 11:38:38 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:38:51 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:39:30 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:39:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:40:09 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:40:22 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:40:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:42:45 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:44:42 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:45:08 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:45:47 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:45:47 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:45:47 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:46:00 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:46:13 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:47:18 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:47:31 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:49:02 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:49:15 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:50:33 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:51:51 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 11:52:56 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:52:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:53:48 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:54:27 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:54:40 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:55:19 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 11:55:19 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 11:55:32 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 11:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 12:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:42:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:47:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:52:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 13:57:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:02:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:07:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:12:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 14:35:53 :: Nevyn has connected.
+Jan  1 14:35:58 :: Nevyn un-renting and entering game.
+Jan  1 14:35:58 :: Nevyn (level 34) has 1 object (max 30).
+Jan  1 14:37:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 14:42:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 14:47:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 14:52:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 14:57:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 15:00:35 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Jan  1 15:00:40 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Jan  1 15:00:53 :: OLC: Dracmas starts editing zone 28 allowed zone 0
+Jan  1 15:01:16 :: GenOLC: add_mobile: Updated existing mobile #2804.
+Jan  1 15:01:16 :: OLC: Dracmas edits mob 2804
+Jan  1 15:01:16 :: GenOLC: 'world/mob/28.mob' saved, 1965 bytes written.
+Jan  1 15:01:16 :: OLC: Dracmas stops editing zone 28 allowed zone 0
+Jan  1 15:02:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 15:07:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 15:12:48 :: nusage: 2   sockets connected, 2   sockets playing
+Jan  1 15:15:09 :: Sasuke has connected.
+Jan  1 15:15:12 :: Sasuke had no variable file
+Jan  1 15:15:12 :: Sasuke un-renting and entering game.
+Jan  1 15:15:12 :: Sasuke (level 2) has 17 objects (max 30).
+Jan  1 15:15:33 :: (GC) Dracmas has advanced Sasuke to level 7 (from 2)
+Jan  1 15:15:33 :: Sasuke advanced 5 levels to level 7.
+Jan  1 15:15:45 :: (GC) Dracmas forced Sasuke to north
+Jan  1 15:15:54 :: (GC) Dracmas forced Sasuke to up
+Jan  1 15:15:57 :: (GC) Dracmas forced Sasuke to n
+Jan  1 15:16:17 :: OLC: Dracmas starts editing the game configuration.
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan  1 15:16:31 :: Closing link to: Nevyn.
+Jan  1 15:17:22 :: OLC: Dracmas stops editing the game configuration
+Jan  1 15:17:46 :: Sasuke has quit the game.
+Jan  1 15:17:47 :: Losing player: Sasuke.
+Jan  1 15:17:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 15:22:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 15:25:55 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:26:08 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:26:21 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:26:34 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 15:27:39 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:27:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 15:28:31 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:29:23 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 15:29:36 :: SCRIPT ERROR: Room 1211 :: wsend called with no args
+Jan  1 15:29:36 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:30:28 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:30:54 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:31:20 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:32:12 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:32:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 15:33:56 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:34:22 :: SCRIPT ERROR: Room 1215 :: wsend called with no args
+Jan  1 15:34:35 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:35:14 :: SCRIPT ERROR: Room 1212 :: wsend called with no args
+Jan  1 15:35:31 :: OLC: Dracmas starts editing zone 12 [trigger](allowed zone 0)
+Jan  1 15:36:58 :: OLC: Dracmas edits trigger 1223
+Jan  1 15:36:58 :: OLC: Dracmas stops editing zone 12 allowed zone 0
+Jan  1 15:37:37 :: SCRIPT ERROR: Room 1211 :: wsend called without a message
+Jan  1 15:37:48 :: nusage: 1   sockets connected, 1   sockets playing
+Jan  1 15:38:50 :: Dracmas has quit the game.
+Jan  1 15:38:54 :: Add_to_lookup failed. Already there. (uid = 1)
+Jan  1 15:38:54 :: Dracmas un-renting and entering game.
+Jan  1 15:38:54 :: Dracmas (level 34) has 26 objects (max 30).
+Jan  1 15:39:35 :: Dracmas has quit the game.
+Jan  1 15:39:36 :: Losing player: Dracmas.
+Jan  1 15:39:36 :: No connections.  Going to sleep.

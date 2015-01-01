@@ -39,7 +39,7 @@
 /* YES / NO; TRUE / FALSE are all defined in utils.h */
 
 /* Can Scripts be attached to players? */
-int script_players = NO;
+int script_players = YES;
 
 /* pk_allowed sets the tone of the entire game.  If pk_allowed is set to NO,
  * then players will not be allowed to kill, summon, charm, or sleep other

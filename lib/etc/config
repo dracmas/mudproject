@@ -74,7 +74,7 @@ default_map_size = 6
 default_minimap_size = 2
 
 * Do you want scripts to be attachable to players?
-script_players = 0
+script_players = 1
 
 * Text sent to players when OK is all that is needed.
 ok = Okay.

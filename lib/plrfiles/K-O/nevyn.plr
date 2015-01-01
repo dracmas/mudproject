@@ -6,15 +6,15 @@ Levl: 34
 Id  : 4
 Brth: 1419257507
 Plyd: 36335
-Last: 1419835087
+Last: 1420122946
 Lnew: 1419603279
 Host: blk-252-31-20.eastlink.ca
 Hite: 194
 Wate: 152
-Act : gh 0 0 0
+Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghmnorv 0 0 0
-Room: 2800
+Room: 65535
 Lern: 68
 Hit : 201/201
 Mana: 405/405
