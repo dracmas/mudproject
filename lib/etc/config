@@ -126,9 +126,9 @@ frozen_start_room = 1202
 * The virtual numbers of the donation rooms.  Note: Add donation rooms
 * sequentially (1 & 2 before 3). If you don't, you might not be able to
 * donate. Use -1 for 'no such room'.
-donation_room_1 = 3063
-donation_room_2 = 5510
-donation_room_3 = 235
+donation_room_1 = 3034
+donation_room_2 = 3034
+donation_room_3 = 3034
 
 
 

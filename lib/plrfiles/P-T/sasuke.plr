@@ -1,26 +1,24 @@
 Name: Sasuke
 Pass: SanjN3ONEdIRM
-Titl: the Cut-Purse
+Titl: is afk seeing if idle rooms work.
 Sex : 1
 Clas: 2
 Levl: 7
 Id  : 2
 Brth: 1418440218
-Plyd: 21384
-Last: 1420125333
+Plyd: 22096
+Last: 1420127511
 Lmot: 1418568942
 Lnew: 1420021103
-Host: localhost
+Host: 50.102.60.107
 Hite: 186
 Wate: 162
 Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghno 0 0 0
-Room: 3001
+Room: 65535
 Lern: 39
-Hung: 15
-Thir: 15
-Hit : 32/67
+Hit : 67/67
 Mana: 100/100
 Move: 95/95
 Str : 17/0
