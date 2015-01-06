@@ -1091,7 +1091,7 @@ new trigger~
 Keep Alive AFK trigger~
 2 b 10
 ~
-%send% %actor% @n
+%force% %actor% look
 ~
 #1233
 Rumble's Test Trigger~
