@@ -1,5 +1,7 @@
 [Jan 01 2015] - Dracmas
-215, 211, and 212 should be vnums now that players won't get kicked off for idling. Untested but think it works. Unless I messed up the idle settings, which I'm still working on going through. Starting planning on a forced mudschool mini-area, to get players familiar with the mud without reading descriptions, but all I have are notes so haven't builded anything yet. Going to be heavily trigger extensive so I've been working on that in a text editor for now. Forced course is by choice, if player de
+continued - if player decides against it, will be sent down to mudschool entrance. Jock blocks you from going back up after making the choice.
+215, 211, and 212 should be vnums now that players won't get kicked off for idling. Untested but think it works. Unless I messed up the idle settings, which I'm still working on going through. Starting planning on a forced mudschool mini-area, to get play
+ers familiar with the mud without reading descriptions, but all I have are notes so haven't builded anything yet. Going to be heavily trigger extensive so I've been working on that in a text editor for now. Forced course is by choice, if player de
 [Dec 30 2014] - Dracmas
 removed wait timer and edited script for mud guard. Nothing left to add to him. End of script has force actor look so player can see they were moved, but force doesn't work at the admin lvl for admins so it's not broken, just won't force other admins to d
 o things questionable if builders wrote something like this, say like force <inputadminhere> advance <player> <adminlevel>.

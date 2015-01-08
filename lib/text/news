@@ -1,3 +1,5 @@
+[Jan 08 2015] - Dracmas
+teleporter item has basic recall command programmed into it. No arguements besides "recall" needed. Only works on players as the trig won't work with an immortal.
 [Jan 01 2015] - Dracmas
 continued - if player decides against it, will be sent down to mudschool entrance. Jock blocks you from going back up after making the choice.
 215, 211, and 212 should be vnums now that players won't get kicked off for idling. Untested but think it works. Unless I messed up the idle settings, which I'm still working on going through. Starting planning on a forced mudschool mini-area, to get play
